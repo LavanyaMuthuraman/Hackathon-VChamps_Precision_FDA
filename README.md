@@ -1,5 +1,5 @@
 # Hackathon Challenge
-## [V-Champs_Precision_FDA](https://www.kaggle.com/competitions/tweet-sentiment-extraction/data) (The Veterans Cardiac Health and AI Model Predictions Challenge)
+## [V-Champs_Precision_FDA](https://precision.fda.gov/challenges/31) (The Veterans Cardiac Health and AI Model Predictions Challenge)
 
 ![aii1](https://github.com/LavanyaMuthuraman/Hackathon-VChamps_Precision_FDA/assets/109660074/60c3da65-310b-42b1-85dc-f108d1dfea84)
 
