@@ -1,0 +1,989 @@
+Internalpatientid,medication_ordered_medication_atc5,medication_ordered_status
+67,"58_finasteride, 58_nifedipine, 58_carvedilol","58_active, 58_active, 58_active"
+200,88_diclofenac,88_active
+291,83_nicotine,83_discontinued
+330,"75_acetic acid ; lactic acid, 75_Not a medication, 75_Not a medication, 75_Not specified","75_active, 75_active, 75_active, 75_active"
+351,"86_levothyroxine sodium ; liothyronine sodium, 86_Not specified, 86_ceftriaxone","86_discontinued, 86_expired, 86_expired"
+444,"70_calcium gluconate, 70_Not specified, 70_acetylsalicylic acid","70_expired, 70_expired, 70_discontinued"
+714,68_isosorbide mononitrate,68_discontinued
+785,78_gatifloxacin,78_expired
+960,"60_digoxin, 60_lisinopril, 60_spironolactone, 60_metoprolol","60_expired, 60_expired, 60_expired, 60_expired"
+1429,"82_morphine, 82_morphine","82_discontinued, 82_discontinued"
+1451,"86_fat/carbohydrates/proteins/minerals/vitamins, combinations",86_active
+1477,"86_amoxicillin, enzyme inhibitor, 86_azithromycin","86_expired, 86_expired"
+1568,77_oxycodone,77_active
+1805,84_omeprazole,84_expired
+2282,"88_levothyroxine sodium, 88_isosorbide dinitrate","88_discontinued, 88_discontinued"
+2500,62_hydromorphone,62_expired
+2674,74_artemisinin ; insulin glargine,74_active
+2993,86_ranitidine,86_expired
+3020,"81_bumetanide, 81_metolazone, 81_glipizide, 81_carvedilol, 81_macrogol, 81_pravastatin, 81_valsartan","81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued"
+3450,"70_paracetamol (acetaminophen), 70_ibuprofen","70_expired, 70_expired"
+3547,78_glycopyrronium bromide,78_discontinued
+3606,"65_hydralazine, 65_clonidine","65_expired, 65_expired"
+4128,"76_isosorbide dinitrate, 76_captopril, 76_lovastatin, 76_warfarin, 76_furosemide, 76_digoxin, 76_magnesium hydroxide, 76_docusate, 76_paracetamol (acetaminophen), 76_trazodone","76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued"
+4177,"87_lisinopril, 87_alendronic acid, 87_cyanocobalamin, 87_citalopram, 87_calcium carbonate, 87_acetylsalicylic acid, 87_furosemide","87_expired, 87_expired, 87_expired, 87_expired, 87_expired, 87_expired, 87_expired"
+4203,"69_sirolimus, 69_sirolimus, 69_sirolimus, 69_sirolimus","69_cancelled, 69_cancelled, 69_active, 69_active"
+4246,75_hydrocodone ; paracetamol (acetaminophen),75_expired
+4453,76_carvedilol,76_discontinued
+4611,66_fentanyl,66_discontinued
+4641,"85_hydromorphone, 85_other antipruritics ; zinc","85_discontinued, 85_cancelled"
+4845,"68_amoxicillin, enzyme inhibitor",68_expired
+5219,84_warfarin,84_expired
+5653,74_isopropanol,74_active
+5872,"52_Not specified, 52_aluminium hydroxide ; magnesium hydroxide ; silicones, 52_potassium chloride, 52_paracetamol (acetaminophen), 52_guaifenesin, 52_magnesium oxide, 52_Not specified, 52_loperamide, 52_digoxin, 52_diphenhydramine, 52_nystatin, 52_atropine ; diphenoxylate, 52_Not specified, 52_oxycodone, 52_filgrastim, 52_fentanyl, 52_darbepoetin alfa, 52_methadone","52_discontinued, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled, 52_cancelled"
+5920,"83_losartan, 83_rosuvastatin, 83_paracetamol (acetaminophen), 83_colecalciferol, 83_doxepin, 83_budesonide ; formoterol, 83_trazodone, 83_spironolactone, 83_prednisone, 83_mycophenolic acid","83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued"
+6318,86_loratadine,86_discontinued
+6370,"100_artificial tears, other indifferent preparations",100_discontinued
+6421,72_mupirocin,72_active
+6584,"82_oxycodone, 82_oxycodone ; paracetamol (acetaminophen)","82_active, 82_active"
+6830,"86_Not specified, 86_Not a medication, 86_Not specified, 86_Not a medication","86_discontinued/edit, 86_cancelled, 86_discontinued, 86_discontinued"
+6859,78_zinc,78_discontinued
+7185,"88_glucose ; potassium chloride, 88_lorazepam, 88_Not specified, 88_phenytoin","88_discontinued, 88_expired, 88_expired, 88_expired"
+7232,75_losartan,75_discontinued
+7320,76_metoprolol,76_active
+7572,84_Not a medication,84_discontinued
+7792,56_isosorbide mononitrate,56_discontinued
+7925,"85_trazodone, 85_sertraline, 85_levothyroxine sodium, 85_insulin aspart fast-acting, 85_metoprolol, 85_insulin glargine","85_discontinued, 85_discontinued, 85_discontinued, 85_expired, 85_discontinued, 85_discontinued"
+8281,75_glipizide,75_active
+8286,"83_sulfur hexafluoride, phospholipid microspheres",83_active
+8320,81_hydrocodone ; paracetamol (acetaminophen),81_discontinued
+8418,76_glipizide,76_discontinued
+8596,96_spironolactone,96_discontinued
+9391,"88_acetylsalicylic acid, 88_spironolactone","88_discontinued, 88_expired"
+9535,76_morphine,76_discontinued
+9929,"75_carvedilol, 75_diphenhydramine","75_discontinued, 75_discontinued"
+9947,77_prednisone,77_discontinued
+10351,"84_budesonide ; formoterol, 84_carvedilol, 84_mirtazapine, 84_furosemide","84_discontinued, 84_discontinued, 84_expired, 84_discontinued"
+10469,68_Not specified,68_expired
+10505,"72_scopolamine, 72_scopolamine, 72_scopolamine","72_expired, 72_discontinued, 72_complete"
+10633,"70_metoprolol, 70_lisinopril","70_discontinued, 70_discontinued"
+10690,"79_warfarin, 79_warfarin","79_discontinued/edit, 79_discontinued"
+10948,"81_soft paraffin and fat products, 81_doxycycline","81_active, 81_expired"
+11261,78_furosemide,78_discontinued
+11339,"79_enalapril, 79_spironolactone, 79_furosemide","79_discontinued, 79_discontinued, 79_discontinued"
+11521,85_hydrocodone ; paracetamol (acetaminophen),85_expired
+11618,"74_quetiapine, 74_finasteride, 74_lisinopril, 74_pantoprazole","74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued"
+11644,"60_thiamine (vitamin b1), 60_lisinopril, 60_gemfibrozil, 60_omeprazole, 60_acetylsalicylic acid, 60_atenolol, 60_furosemide, 60_diltiazem","60_expired, 60_expired, 60_expired, 60_expired, 60_expired, 60_expired, 60_expired, 60_expired"
+11674,"70_diclofenac, 70_glyceryl trinitrate, 70_ketotifen, 70_naproxen","70_active, 70_expired, 70_active, 70_expired"
+12222,81_Not a medication,81_discontinued
+12356,90_Not specified,90_discontinued
+12457,76_duloxetine,76_discontinued
+12473,"89_docusate, 89_influenza vaccines","89_discontinued, 89_complete"
+12601,87_digoxin,87_active
+12679,"76_lisinopril, 76_furosemide, 76_carvedilol, 76_paracetamol (acetaminophen), 76_glyceryl trinitrate, 76_acetylsalicylic acid, 76_colchicine, 76_digoxin","76_expired, 76_expired, 76_cancelled, 76_expired, 76_expired, 76_expired, 76_expired, 76_expired"
+12803,86_colecalciferol,86_active
+13257,"82_Not specified, 82_levofloxacin","82_discontinued, 82_discontinued"
+13266,79_potassium chloride,79_discontinued
+13369,"83_furosemide, 83_atenolol, 83_isosorbide mononitrate, 83_allopurinol, 83_fluoxetine, 83_acetylsalicylic acid, 83_lisinopril","83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued"
+13483,"87_codeine ; paracetamol (acetaminophen), 87_benzylpenicillin","87_expired, 87_expired"
+13494,83_hydrocodone ; paracetamol (acetaminophen),83_discontinued
+13910,"58_hydrochlorothiazide ; reserpine, 58_camphor ; other antipruritics, 58_clobetasol, 58_hydrochlorothiazide ; reserpine, 58_camphor ; other antipruritics, 58_clobetasol","58_discontinued/edit, 58_discontinued/edit, 58_cancelled, 58_discontinued, 58_discontinued, 58_discontinued"
+14169,74_nystatin,74_discontinued
+14472,85_linagliptin,85_active
+14532,"74_Not specified, 74_insulin (human) fast-acting, 74_morphine, 74_lorazepam, 74_morphine","74_expired, 74_expired, 74_expired, 74_expired, 74_discontinued"
+14724,"79_Not specified, 79_cetirizine, 79_naproxen, 79_simvastatin","79_discontinued, 79_discontinued, 79_discontinued, 79_expired"
+14910,71_abiraterone,71_discontinued
+14918,63_warfarin,63_discontinued
+15168,84_oxybutynin,84_active
+15335,"62_furosemide, 62_potassium chloride","62_discontinued, 62_discontinued"
+15529,"100_acetylsalicylic acid, 100_simvastatin, 100_folic acid, 100_ferrous gluconate, 100_finasteride, 100_metoprolol","100_discontinued, 100_discontinued, 100_discontinued, 100_discontinued, 100_discontinued, 100_discontinued"
+15548,80_warfarin,80_discontinued
+15803,84_tramadol,84_expired
+16325,"78_dexamethasone, 78_fentanyl, 78_fentanyl","78_discontinued, 78_discontinued/edit, 78_discontinued"
+16332,"80_oxazepam, 80_cetirizine","80_cancelled, 80_cancelled"
+16588,"66_ondansetron, 66_methadone","66_expired, 66_expired"
+16841,"91_furosemide, 91_furosemide, 91_diltiazem, 91_lisinopril","91_discontinued, 91_expired, 91_expired, 91_expired"
+16911,"93_amoxicillin, enzyme inhibitor",93_expired
+16955,"78_tetanus toxoid, 78_ipratropium bromide ; salbutamol, 78_levofloxacin, 78_salbutamol","78_complete, 78_complete, 78_expired, 78_expired"
+17142,"75_furosemide, 75_omeprazole, 75_orciprenaline, 75_simvastatin, 75_colestipol, 75_trazodone, 75_clopidogrel, 75_digoxin, 75_lisinopril, 75_spironolactone","75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued"
+17182,77_Not specified,77_active
+17193,65_oxycodone ; paracetamol (acetaminophen),65_expired
+17216,66_Not specified,66_expired
+17326,93_glucose ; potassium chloride,93_discontinued
+17380,81_torasemide,81_active
+17982,"64_spironolactone, 64_metoprolol, 64_glipizide, 64_Not specified","64_discontinued, 64_discontinued, 64_discontinued, 64_discontinued"
+18270,94_sulfamethoxazole ; trimethoprim,94_expired
+18389,83_morphine,83_discontinued
+18599,76_allopurinol,76_discontinued
+18775,"69_nystatin, 69_venlafaxine, 69_carbamide, 69_furosemide, 69_allopurinol, 69_venlafaxine, 69_paracetamol (acetaminophen), 69_terazosin, 69_silicone products, 69_clopidogrel, 69_cascara ; magnesium hydroxide","69_discontinued, 69_discontinued, 69_discontinued, 69_discontinued, 69_discontinued, 69_discontinued, 69_discontinued, 69_discontinued, 69_discontinued, 69_discontinued, 69_discontinued"
+18839,"76_metoprolol, 76_lisinopril","76_discontinued, 76_discontinued"
+19318,"70_acetylsalicylic acid, 70_hydrochlorothiazide ; lisinopril, 70_atenolol","70_discontinued, 70_expired, 70_expired"
+19436,"81_bisacodyl, 81_electrolytes ; macrogol, combinations","81_expired, 81_expired"
+19714,"77_ethanol, 77_Not a medication, 77_insulin (human) intermediate-acting ; insulin aspart intermediate-acting combined with fast-acting, 77_Not specified","77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued"
+20024,"90_zolpidem, 90_azithromycin, 90_azithromycin","90_expired, 90_discontinued, 90_discontinued"
+20309,75_mycophenolic acid,75_active
+20630,73_sulfamethoxazole ; trimethoprim,73_expired
+20728,90_Not specified,90_expired
+20814,"68_lorazepam, 68_lorazepam, 68_magnesium sulfate, 68_thiamine (vitamin b1), 68_Not specified, 68_Not specified, 68_folic acid, 68_lorazepam, 68_glucose ; magnesium sulfate","68_cancelled, 68_discontinued, 68_cancelled, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued"
+20962,"88_tamsulosin, 88_risperidone, 88_hydrocodone ; paracetamol (acetaminophen), 88_lorazepam","88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued"
+21338,"85_levodopa, decarboxylase inhibitor, 85_furosemide, 85_sucralfate","85_discontinued, 85_discontinued, 85_discontinued"
+21360,"77_montelukast, 77_salbutamol, 77_fluticasone ; salmeterol","77_active, 77_active, 77_active"
+21426,"89_furosemide, 89_carvedilol, 89_omeprazole, 89_allopurinol, 89_potassium chloride, 89_warfarin, 89_alfuzosin, 89_lisinopril, 89_digoxin, 89_colecalciferol, 89_tramadol, 89_docusate","89_expired, 89_expired, 89_expired, 89_expired, 89_expired, 89_discontinued, 89_expired, 89_expired, 89_expired, 89_discontinued, 89_expired, 89_expired"
+21909,"64_acetylsalicylic acid, 64_baclofen, 64_oxybutynin, 64_pantoprazole, 64_duloxetine, 64_bisacodyl, 64_midodrine, 64_atorvastatin","64_active, 64_active, 64_active, 64_active, 64_active, 64_active, 64_active, 64_active"
+22107,"92_furosemide, 92_donepezil, 92_zinc","92_expired, 92_expired, 92_expired"
+22154,76_salbutamol,76_discontinued
+22214,"77_furosemide, 77_potassium chloride, 77_atenolol, 77_lisinopril, 77_lovastatin, 77_furosemide","77_discontinued/edit, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued"
+22221,"75_temazepam, 75_trazodone, 75_venlafaxine","75_discontinued, 75_discontinued, 75_discontinued"
+22263,"74_fat/carbohydrates/proteins/minerals/vitamins, combinations",74_discontinued
+23414,"80_warfarin, 80_hydroxycarbamide","80_discontinued, 80_discontinued"
+23485,"80_magnesium oxide, 80_cetirizine, 80_thiamine (vitamin b1), 80_macrogol, 80_omeprazole, 80_folic acid","80_discontinued, 80_discontinued, 80_discontinued, 80_discontinued, 80_discontinued, 80_discontinued"
+23527,"72_glyceryl trinitrate, 72_metoprolol","72_active, 72_active"
+23626,59_prochlorperazine,59_discontinued
+23694,92_glyceryl trinitrate,92_discontinued
+23812,"65_terazosin, 65_fosinopril, 65_insulin (human) intermediate-acting combined with fast-acting, 65_Not specified, 65_Not a medication, 65_furosemide, 65_Not a medication, 65_acetylsalicylic acid, 65_amlodipine, 65_isopropanol, 65_potassium chloride ; ubidecarenone, 65_ranitidine, 65_levofloxacin","65_cancelled, 65_discontinued, 65_discontinued, 65_discontinued, 65_discontinued, 65_discontinued, 65_discontinued, 65_discontinued, 65_cancelled, 65_discontinued, 65_cancelled, 65_cancelled, 65_cancelled"
+23850,"66_acetylsalicylic acid, 66_enoxaparin, 66_atorvastatin, 66_furosemide, 66_terazosin, 66_potassium chloride, 66_furosemide, 66_amiodarone, 66_acetylsalicylic acid, 66_budesonide ; formoterol, 66_furosemide, 66_digoxin, 66_potassium chloride, 66_ipratropium bromide ; salbutamol, 66_furosemide","66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued, 66_expired, 66_discontinued, 66_discontinued, 66_discontinued, 66_cancelled, 66_discontinued, 66_discontinued, 66_cancelled, 66_discontinued"
+23956,"95_lorazepam, 95_sertraline, 95_atenolol, 95_potassium chloride, 95_omeprazole, 95_isosorbide dinitrate, 95_furosemide, 95_alendronic acid, 95_isosorbide mononitrate","95_expired, 95_expired, 95_expired, 95_expired, 95_expired, 95_cancelled, 95_expired, 95_expired, 95_expired"
+24198,"65_spironolactone, 65_acetylsalicylic acid, 65_furosemide, 65_lisinopril","65_expired, 65_expired, 65_expired, 65_expired"
+24374,"89_glucose ; norepinephrine, 89_Not specified, 89_Not specified, 89_metronidazole, 89_Not specified, 89_Not specified, 89_vasopressin, 89_norepinephrine, 89_glucose, 89_midazolam, 89_etomidate, 89_midazolam, 89_hydromorphone, 89_naloxone","89_discontinued, 89_expired, 89_discontinued, 89_discontinued, 89_expired, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_expired, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued"
+24552,"76_artemisinin ; insulin (human) fast-acting, 76_nicotinic acid, 76_nicotinic acid","76_expired, 76_discontinued/edit, 76_expired"
+24984,"78_pantoprazole, 78_furosemide, 78_cyanocobalamin","78_active, 78_active, 78_active"
+25241,"81_Not a medication, 81_Not a medication, 81_paracetamol (acetaminophen), 81_tocopherol (vitamin e)","81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued"
+25290,"73_metoprolol, 73_spironolactone","73_active, 73_active"
+25516,71_morphine,71_active
+25654,87_ceftriaxone,87_expired
+26517,"75_Not a medication, 75_soft paraffin and fat products, 75_Not specified, 75_Not specified, 75_hydrocortisone, 75_Not a medication, 75_Not a medication, 75_hydrocodone ; paracetamol (acetaminophen), 75_calcium carbonate, 75_docusate, 75_macrogol","75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued"
+26762,73_furosemide,73_cancelled
+26897,77_potassium chloride,77_discontinued
+26981,77_bumetanide,77_discontinued
+27031,"81_fentanyl, 81_fentanyl","81_discontinued, 81_discontinued/edit"
+27099,76_diltiazem,76_active
+27204,"88_furosemide, 88_valsartan, sacubitril, 88_atorvastatin, 88_magnesium oxide, 88_levothyroxine sodium","88_active, 88_active, 88_active, 88_active, 88_active"
+27426,80_ipratropium bromide ; salbutamol,80_discontinued
+27752,80_Not specified,80_discontinued
+27819,"78_potassium chloride, 78_potassium chloride, 78_potassium phosphate, including combinations with other potassium salts, 78_Not specified, 78_metoprolol, 78_furosemide, 78_furosemide, 78_furosemide, 78_ezetimibe, 78_ezetimibe, 78_ezetimibe, 78_metoprolol, 78_naloxone, 78_metoprolol, 78_influenza vaccines","78_discontinued/edit, 78_expired, 78_expired, 78_expired, 78_expired, 78_complete, 78_discontinued, 78_expired, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued/edit, 78_expired, 78_discontinued, 78_cancelled"
+27878,56_Not specified,56_expired
+27940,"75_diclofenac, 75_amoxicillin, 75_venlafaxine","75_active, 75_active, 75_active"
+27998,"60_lorazepam, 60_lorazepam, 60_lorazepam","60_discontinued, 60_expired, 60_complete"
+28154,"75_nifedipine, 75_fluoxetine, 75_hydrochlorothiazide","75_discontinued, 75_discontinued, 75_discontinued"
+28186,75_other antipruritics ; salicylic acid and derivatives,75_expired
+28319,82_simvastatin,82_discontinued
+28682,"65_trazodone, 65_magnesium oxide, 65_ipratropium bromide ; salbutamol, 65_mometasone furoate, 65_melatonin, 65_pantoprazole, 65_thiamine (vitamin b1), 65_tamsulosin, 65_trazodone, 65_paracetamol (acetaminophen)","65_discontinued, 65_discontinued, 65_discontinued, 65_discontinued, 65_discontinued, 65_discontinued, 65_discontinued, 65_discontinued, 65_discontinued, 65_discontinued"
+28878,"69_tamsulosin, 69_docusate","69_discontinued, 69_discontinued"
+28938,"70_ciprofloxacin, 70_gabapentin, 70_gabapentin","70_expired, 70_discontinued/edit, 70_expired"
+28954,78_insulin glargine,78_discontinued
+29315,"90_hydralazine, 90_hydralazine, 90_hydralazine, 90_hydrochlorothiazide","90_discontinued, 90_discontinued, 90_discontinued, 90_discontinued"
+29346,80_meclozine,80_expired
+29412,77_sulfasalazine,77_discontinued
+29488,84_glycopyrronium bromide,84_expired
+29765,68_digoxin,68_expired
+29798,68_ferrous sulfate,68_active
+29913,"84_docusate, 84_hydrocodone ; paracetamol (acetaminophen)","84_discontinued, 84_discontinued"
+30073,"76_glucose ; heparin, 76_heparin, 76_Not specified, 76_Not specified, 76_lorazepam, 76_lorazepam, 76_lorazepam, 76_lorazepam","76_discontinued, 76_expired, 76_discontinued, 76_expired, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued/edit"
+30079,"63_other emollients and protectives, 63_pimecrolimus, 63_ketoconazole, 63_pyrithione zinc","63_discontinued, 63_discontinued, 63_discontinued, 63_discontinued"
+30137,67_chlortalidone,67_expired
+30416,85_torasemide,85_expired
+30772,75_oxycodone ; paracetamol (acetaminophen),75_active
+30868,"77_fentanyl, 77_glyceryl trinitrate","77_discontinued, 77_discontinued"
+30933,68_rosuvastatin,68_expired
+31319,55_celecoxib,55_active
+31356,"88_oxycodone, 88_oxycodone","88_discontinued/edit, 88_discontinued"
+31385,81_omeprazole,81_discontinued
+31586,79_ethanol,79_expired
+31806,"70_artificial tears, other indifferent preparations, 70_tiotropium bromide","70_discontinued, 70_discontinued"
+31828,65_lidocaine,65_active
+31905,77_citalopram,77_discontinued
+32252,83_warfarin,83_expired
+32615,"76_influenza vaccines, 76_tetanus toxoid","76_cancelled, 76_cancelled"
+32652,"72_Not specified, 72_acetylsalicylic acid, 72_glyceryl trinitrate, 72_bumetanide","72_expired, 72_expired, 72_expired, 72_expired"
+32970,"67_povidone-iodine, 67_methadone","67_hold, 67_active"
+33110,"90_isosorbide mononitrate, 90_furosemide, 90_lisinopril, 90_simvastatin","90_discontinued, 90_discontinued, 90_discontinued, 90_discontinued"
+33411,"80_insulin aspart fast-acting, 80_Not specified","80_expired, 80_expired"
+34282,74_losartan,74_active
+34287,86_heparin,86_expired
+34385,85_morphine,85_discontinued
+34799,"61_pramipexole, 61_furosemide, 61_omeprazole, 61_salbutamol","61_discontinued, 61_discontinued, 61_discontinued, 61_discontinued"
+35012,"88_gabapentin, 88_ethanol, 88_ferrous sulfate","88_discontinued, 88_discontinued, 88_expired"
+35076,77_oxycodone,77_active
+35087,"81_potassium, 81_furosemide, 81_erythropoietin","81_discontinued, 81_discontinued, 81_discontinued"
+35332,67_carbamazepine,67_discontinued
+35361,"91_levothyroxine sodium, 91_losartan, 91_carvedilol, 91_ipratropium bromide, 91_furosemide","91_discontinued, 91_discontinued, 91_discontinued, 91_discontinued, 91_discontinued"
+36160,96_Not specified,96_discontinued
+36281,76_paracetamol (acetaminophen),76_discontinued
+36414,"64_losartan, 64_atorvastatin","64_active, 64_active"
+36434,72_oxycodone,72_cancelled
+36766,"70_citalopram, 70_Not specified","70_discontinued, 70_expired"
+36905,"83_verapamil, 83_metoprolol, 83_verapamil, 83_furosemide, 83_morphine, 83_salbutamol","83_discontinued, 83_discontinued, 83_discontinued, 83_expired, 83_discontinued, 83_discontinued"
+37010,"78_artemisinin ; insulin glargine, 78_warfarin, 78_glipizide, 78_spironolactone, 78_furosemide, 78_fluoxetine, 78_colecalciferol, 78_salbutamol, 78_atorvastatin, 78_allopurinol","78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued"
+37152,61_isoprenaline,61_expired
+37156,"80_cetirizine, 80_cineole ; other antipruritics ; salicylic acid and derivatives, 80_fluticasone, 80_cineole ; other antipruritics ; salicylic acid and derivatives","80_active, 80_active, 80_active, 80_active"
+37286,82_salmeterol,82_discontinued
+37366,"76_brimonidine ; brinzolamide, 76_Not specified, 76_Not specified, 76_latanoprost","76_active, 76_active, 76_active, 76_active"
+37417,"72_Not a medication, 72_Not specified, 72_Not a medication, 72_beclometasone, 72_Not a medication, 72_salbutamol, 72_Not a medication, 72_isopropanol, 72_medicated dressings, 72_hydroxyzine, 72_heparin, 72_Not a medication, 72_Not a medication, 72_metoclopramide, 72_Not specified, 72_paracetamol (acetaminophen), 72_Not a medication, 72_Not a medication, 72_erythropoietin, 72_acetylsalicylic acid, 72_Not a medication, 72_Not specified, 72_(Censored), 72_Not a medication, 72_ranitidine","72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_cancelled, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued"
+37508,"66_methocarbamol, 66_silicones, 66_hydrocodone ; paracetamol (acetaminophen)","66_active, 66_active, 66_active"
+37682,"67_citalopram, 67_benzalkonium, 67_docusate, 67_benzalkonium, 67_acetylsalicylic acid, 67_metoprolol, 67_acetylsalicylic acid ; dipyridamole, 67_fat/carbohydrates/proteins/minerals/vitamins, combinations, 67_hydrocodone ; paracetamol (acetaminophen), 67_simvastatin, 67_ferrous gluconate, 67_omeprazole, 67_multivitamins, combinations, 67_metoclopramide, 67_oxybutynin, 67_benzalkonium, 67_isopropanol, 67_benzalkonium, 67_benzalkonium, 67_hydrocodone","67_discontinued, 67_expired, 67_expired, 67_discontinued, 67_discontinued, 67_discontinued, 67_discontinued, 67_discontinued, 67_cancelled, 67_discontinued, 67_expired, 67_discontinued, 67_discontinued, 67_discontinued, 67_discontinued, 67_expired, 67_discontinued, 67_discontinued, 67_expired, 67_discontinued"
+38043,"65_paracetamol (acetaminophen), 65_doxycycline, 65_dextromethorphan ; guaifenesin, 65_ipratropium bromide ; salbutamol, 65_clotrimazole, 65_bumetanide, 65_baclofen, 65_salbutamol, 65_diclofenac, 65_empagliflozin, 65_Not specified","65_active, 65_active, 65_active, 65_active, 65_active, 65_active, 65_active, 65_active, 65_active, 65_active, 65_active"
+38452,73_hydroxycarbamide,73_active
+38493,"81_amoxicillin, enzyme inhibitor",81_discontinued
+38585,87_diltiazem,87_discontinued
+38696,"79_mycophenolic acid, 79_pyridostigmine","79_discontinued, 79_discontinued"
+38785,77_tramadol,77_discontinued
+38910,90_bevacizumab,90_discontinued
+39036,63_insulin (human) fast-acting,63_discontinued
+39161,"54_spironolactone, 54_digoxin, 54_amiodarone, 54_captopril","54_expired, 54_expired, 54_expired, 54_expired"
+39394,51_lovastatin,51_discontinued
+39490,72_nicotine,72_expired
+39531,75_erythromycin,75_active
+39707,95_Not a medication,95_discontinued
+39771,78_ketoconazole,78_active
+39909,"57_cetirizine, 57_fluticasone, 57_benzonatate","57_expired, 57_expired, 57_expired"
+39975,99_omeprazole,99_discontinued
+40058,65_Not specified,65_cancelled
+40152,72_Not specified,72_discontinued
+40532,88_tramadol,88_expired
+41041,94_oxycodone,94_discontinued
+41309,"69_methotrexate, 69_sulfamethoxazole ; trimethoprim, 69_prednisone, 69_folic acid","69_discontinued, 69_discontinued, 69_discontinued, 69_discontinued"
+41407,"54_ferrous sulfate, 54_calcitriol, 54_ascorbic acid (vitamin c) ; hydroquinone","54_discontinued, 54_discontinued, 54_discontinued"
+41595,72_oxycodone ; paracetamol (acetaminophen),72_discontinued
+41667,"75_epinephrine, 75_glucose","75_discontinued, 75_discontinued"
+41761,57_metoprolol,57_discontinued
+42402,"83_other emollients and protectives, 83_mupirocin, 83_collagenase clostridium histolyticum","83_expired, 83_expired, 83_expired"
+42814,"85_metformin, 85_rabeprazole, 85_spironolactone, 85_glibenclamide","85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued"
+42933,68_naloxone,68_expired
+42951,"76_furosemide, 76_galantamine, 76_warfarin, 76_warfarin, 76_lisinopril, 76_furosemide, 76_metoprolol, 76_glipizide, 76_citalopram, 76_vitamins, 76_warfarin","76_discontinued, 76_discontinued, 76_cancelled, 76_cancelled, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued"
+43104,"85_potassium chloride, 85_metoprolol","85_expired, 85_discontinued"
+43141,81_adalimumab,81_active
+43238,84_diphenhydramine,84_expired
+43268,72_Not a medication,72_active
+43476,70_clonazepam,70_discontinued
+43740,92_brimonidine,92_discontinued
+43802,"73_Not specified, 73_midodrine","73_discontinued, 73_expired"
+43829,38_fexofenadine,38_active
+44003,63_amlodipine,63_active
+44393,90_Not specified,90_discontinued
+44508,"87_colecalciferol, 87_prednisone, 87_fluoxetine, 87_furosemide, 87_potassium, 87_gabapentin, 87_clopidogrel, 87_metoprolol, 87_tiotropium bromide, 87_clonazepam, 87_ferrous sulfate, 87_magnesium oxide, 87_omeprazole","87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued"
+44836,77_metoprolol,77_discontinued
+45161,62_morphine,62_discontinued
+45285,"77_sodium, 77_Not specified","77_expired, 77_expired"
+45342,"71_bisoprolol, 71_finasteride, 71_omeprazole","71_discontinued, 71_discontinued, 71_discontinued"
+45742,73_sertraline,73_pending
+45762,86_furosemide,86_discontinued
+46025,79_gabapentin,79_active
+46039,77_lidocaine,77_active
+46107,73_sucralfate,73_expired
+46131,56_vitamin d and analogues,56_active
+46154,"95_warfarin, 95_warfarin","95_cancelled, 95_discontinued"
+46177,94_oxycodone,94_discontinued
+46189,"69_chlortalidone, 69_metoprolol, 69_senna glycosides","69_discontinued, 69_discontinued, 69_discontinued"
+46415,82_warfarin,82_expired
+47012,"42_cetirizine, 42_potassium chloride","42_active, 42_active"
+47138,"75_morphine, 75_morphine, 75_morphine","75_discontinued, 75_discontinued/edit, 75_discontinued"
+47454,93_lisinopril,93_active
+48643,94_clonazepam,94_discontinued
+48647,"87_lorazepam, 87_hyoscyamine","87_discontinued, 87_discontinued"
+48749,88_clopidogrel,88_discontinued
+48883,"77_furosemide, 77_captopril","77_discontinued, 77_discontinued"
+48962,"89_omeprazole, 89_glipizide, 89_furosemide","89_discontinued, 89_discontinued, 89_discontinued"
+49014,"74_furosemide, 74_furosemide","74_cancelled, 74_active"
+49127,78_paracetamol (acetaminophen),78_active
+49589,81_clonidine,81_expired
+49802,90_levothyroxine sodium,90_discontinued
+49978,"93_atorvastatin, 93_levothyroxine sodium, 93_sertraline","93_discontinued, 93_discontinued, 93_discontinued"
+50020,"78_hydralazine, 78_metoprolol, 78_amlodipine, 78_torasemide, 78_clopidogrel, 78_ascorbic acid (vitamin c) ; vitamin b-complex, plain, 78_metoprolol","78_active, 78_active, 78_active, 78_active, 78_active, 78_active, 78_cancelled"
+50264,93_warfarin,93_discontinued
+50323,"75_Not a medication, 75_Not a medication","75_discontinued, 75_discontinued"
+50345,60_doxycycline,60_discontinued
+50738,"79_gabapentin, 79_furosemide, 79_isosorbide mononitrate","79_expired, 79_expired, 79_expired"
+51070,91_scopolamine,91_discontinued
+51180,54_methylphenidate,54_discontinued
+51215,"88_methylphenidate, 88_cefazolin","88_expired, 88_expired"
+51456,"70_iohexol, 70_barium sulfate with suspending agents, 70_iohexol, 70_diatrizoic acid ; sodium","70_discontinued, 70_discontinued, 70_discontinued, 70_discontinued"
+51551,"61_morphine, 61_Not specified, 61_lorazepam, 61_artificial tears, other indifferent preparations ; ethanol, 61_glycopyrronium bromide, 61_ondansetron, 61_haloperidol, 61_haloperidol, 61_haloperidol, 61_lorazepam, 61_haloperidol","61_discontinued, 61_discontinued, 61_discontinued/edit, 61_discontinued, 61_discontinued, 61_discontinued, 61_discontinued/edit, 61_discontinued, 61_discontinued, 61_discontinued, 61_discontinued"
+52128,"81_codeine ; paracetamol (acetaminophen), 81_lidocaine","81_discontinued, 81_discontinued"
+52143,83_imatinib,83_discontinued
+52256,"74_Not specified, 74_belatacept","74_expired, 74_expired"
+52608,"82_Not specified, 82_norepinephrine, 82_Not specified, 82_Not specified, 82_pantoprazole, 82_ciprofloxacin, 82_vancomycin, 82_Not specified, 82_Not specified, 82_Not specified, 82_piperacillin ; tazobactam, 82_Not a medication, 82_metronidazole, 82_Not a medication, 82_metronidazole, 82_Not specified, 82_Not specified, 82_Not specified, 82_Not specified, 82_metronidazole","82_discontinued, 82_discontinued, 82_discontinued, 82_expired, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued/edit, 82_discontinued/edit, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_expired, 82_discontinued, 82_discontinued"
+52681,"85_norepinephrine, 85_glucose, 85_morphine, 85_morphine, 85_morphine","85_discontinued, 85_discontinued, 85_cancelled, 85_expired, 85_discontinued"
+52689,"77_ipratropium bromide ; salbutamol, 77_metformin, 77_Not a medication, 77_omeprazole, 77_Not a medication, 77_potassium chloride, 77_furosemide, 77_insulin aspart fast-acting","77_discontinued, 77_discontinued, 77_discontinued, 77_expired, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued"
+52752,82_spironolactone,82_active
+52767,79_pantoprazole,79_active
+52886,76_sildenafil,76_active
+52942,"99_carvedilol, 99_lisinopril","99_expired, 99_expired"
+52973,76_ranitidine,76_expired
+53075,85_atorvastatin,85_active
+53150,73_simvastatin,73_cancelled
+53236,"72_terazosin, 72_tamsulosin","72_discontinued, 72_discontinued"
+53312,82_sertraline,82_discontinued
+53457,"68_amiodarone, 68_carvedilol, 68_potassium chloride, 68_furosemide, 68_hydralazine, 68_levothyroxine sodium","68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued"
+53548,84_bumetanide,84_discontinued
+53681,91_midodrine,91_discontinued
+53703,76_atropine ; diphenoxylate,76_active
+53818,98_omeprazole,98_discontinued
+53843,"72_prochlorperazine, 72_bisacodyl, 72_scopolamine, 72_diphenhydramine, 72_lorazepam, 72_paracetamol (acetaminophen), 72_morphine, 72_morphine, 72_morphine, 72_morphine","72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued/edit, 72_discontinued, 72_discontinued, 72_discontinued"
+53884,"69_simvastatin, 69_allopurinol, 69_furosemide, 69_digoxin, 69_levothyroxine sodium, 69_potassium chloride, 69_metolazone, 69_lisinopril","69_cancelled, 69_discontinued, 69_discontinued, 69_discontinued, 69_discontinued, 69_discontinued, 69_discontinued, 69_discontinued"
+54446,63_hydrocodone ; paracetamol (acetaminophen),63_discontinued
+54638,"91_castor oil, 91_other antipruritics ; zinc","91_discontinued, 91_discontinued"
+54993,73_morphine,73_active
+55203,"91_lisinopril, 91_omeprazole","91_expired, 91_expired"
+55398,79_apixaban,79_discontinued
+55492,79_mirtazapine,79_active
+55516,"67_spironolactone, 67_potassium chloride, 67_carvedilol","67_cancelled, 67_cancelled, 67_cancelled"
+55955,81_hydrocodone ; paracetamol (acetaminophen),81_active
+56035,"70_furosemide, 70_carvedilol, 70_empagliflozin, 70_spironolactone, 70_losartan","70_active, 70_active, 70_active, 70_active, 70_active"
+56635,"69_oxycodone, 69_insulin aspart fast-acting","69_active, 69_active"
+56968,57_warfarin,57_discontinued
+57173,"86_hydrogen peroxide, 86_furosemide, 86_ipratropium bromide ; salbutamol, 86_ranitidine, 86_hydrocortisone","86_expired, 86_expired, 86_expired, 86_expired, 86_expired"
+57404,90_clopidogrel,90_discontinued
+57509,79_mometasone furoate,79_expired
+57943,81_glyceryl trinitrate,81_discontinued
+57987,"85_amlodipine, 85_digoxin, 85_furosemide, 85_azithromycin, 85_glipizide, 85_lisinopril, 85_metformin, 85_carvedilol, 85_macrogol, 85_donepezil, 85_paracetamol (acetaminophen), 85_memantine","85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued"
+58622,"73_acetylsalicylic acid, 73_tamsulosin, 73_metoprolol","73_discontinued, 73_discontinued, 73_cancelled"
+58641,"39_melatonin, 39_prazosin, 39_lithium","39_active, 39_active, 39_active"
+58762,"78_acetylsalicylic acid, 78_acetylsalicylic acid, 78_epinephrine, 78_glucose","78_expired, 78_discontinued, 78_discontinued, 78_discontinued"
+58777,"55_enoxaparin, 55_hydrocodone ; paracetamol (acetaminophen)","55_expired, 55_expired"
+59112,77_terazosin,77_expired
+59183,78_furosemide,78_discontinued
+59447,"82_risperidone, 82_morphine, 82_morphine, 82_docusate, 82_haloperidol, 82_bisacodyl, 82_glycerol ; soft paraffin and fat products","82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued"
+59471,"86_amoxicillin, enzyme inhibitor, 86_zinc","86_expired, 86_active"
+59545,"76_apixaban, 76_fluocinonide, 76_colecalciferol, 76_omeprazole, 76_salbutamol, 76_magnesium oxide","76_active, 76_expired, 76_active, 76_active, 76_active, 76_active"
+59735,71_paracetamol (acetaminophen),71_expired
+59856,88_vancomycin,88_expired
+60206,"85_metoprolol, 85_furosemide, 85_Not specified, 85_potassium chloride, 85_lisinopril, 85_sertraline","85_expired, 85_expired, 85_expired, 85_expired, 85_expired, 85_expired"
+60339,84_hydrocodone ; paracetamol (acetaminophen),84_discontinued
+61061,"79_allopurinol, 79_tramadol, 79_ferrous sulfate, 79_metoprolol","79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued"
+61071,69_tramadol,69_discontinued
+61375,91_colecalciferol,91_discontinued
+61468,"64_nortriptyline, 64_gabapentin","64_discontinued, 64_discontinued"
+61548,"83_acyclovir, 83_lidocaine","83_cancelled, 83_cancelled"
+61583,"72_metoprolol, 72_glipizide","72_discontinued, 72_discontinued"
+61719,"67_paracetamol (acetaminophen), 67_heparin","67_discontinued, 67_discontinued"
+61749,"76_levothyroxine sodium, 76_Not a medication, 76_potassium citrate, 76_insulins and analogues, 76_gabapentin, 76_furosemide","76_active, 76_active, 76_active, 76_active, 76_active, 76_active"
+61795,"73_pravastatin, 73_amlodipine, 73_meloxicam, 73_cetirizine, 73_metoprolol, 73_colecalciferol, 73_levothyroxine sodium, 73_gabapentin, 73_doxazosin, 73_pantoprazole","73_active, 73_active, 73_active, 73_active, 73_active, 73_active, 73_active, 73_active, 73_active, 73_active"
+62023,76_warfarin,76_discontinued
+62143,74_ferrous sulfate,74_active
+62241,"69_bisacodyl, 69_electrolytes ; macrogol","69_expired, 69_expired"
+62249,"75_benzalkonium, 75_spironolactone","75_expired, 75_expired"
+62334,"78_sodium bicarbonate, 78_Not specified, 78_insulin aspart fast-acting, 78_glucagon, 78_Not specified, 78_lorazepam, 78_morphine, 78_sodium bicarbonate","78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_expired"
+62460,90_zinc,90_cancelled
+62821,78_carvedilol,78_discontinued
+62987,"75_furosemide, 75_furosemide","75_discontinued, 75_discontinued"
+63206,"89_ipratropium bromide ; salbutamol, 89_furosemide, 89_enalapril","89_discontinued, 89_discontinued, 89_discontinued"
+63564,"92_simvastatin, 92_digoxin, 92_carvedilol, 92_loratadine, 92_amlodipine, 92_omeprazole","92_expired, 92_expired, 92_expired, 92_expired, 92_expired, 92_expired"
+63615,79_dexamethasone,79_discontinued
+63963,"55_spironolactone, 55_glyceryl trinitrate, 55_furosemide, 55_digoxin, 55_isosorbide dinitrate, 55_fosinopril, 55_carvedilol","55_expired, 55_expired, 55_expired, 55_expired, 55_expired, 55_expired, 55_expired"
+64006,"76_artificial tears, other indifferent preparations",76_active
+64257,"66_hydrocodone ; paracetamol (acetaminophen), 66_camphor ; other antipruritics, 66_omeprazole, 66_furosemide, 66_lisinopril, 66_citalopram, 66_amitriptyline, 66_simvastatin","66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued"
+64295,"75_metoprolol, 75_furosemide, 75_sodium ; warfarin, 75_potassium chloride, 75_alfuzosin, 75_rosuvastatin, 75_acetylsalicylic acid, 75_glucosamine, 75_omega-3-triglycerides","75_active, 75_active, 75_active, 75_active, 75_active, 75_active, 75_active, 75_active, 75_active"
+64303,87_glycerol ; hydrogen peroxide,87_expired
+64393,"79_simvastatin, 79_omeprazole, 79_Not a medication, 79_isopropanol, 79_ferrous sulfate, 79_allopurinol, 79_calcium acetate anhydrous, 79_acetylsalicylic acid, 79_mexiletine, 79_digoxin, 79_glyceryl trinitrate ; isosorbide mononitrate, 79_hydralazine, 79_carvedilol, 79_Not a medication, 79_insulin (human) intermediate-acting combined with fast-acting","79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued"
+64450,"82_guaifenesin, 82_Not a medication, 82_zinc","82_discontinued, 82_discontinued, 82_discontinued"
+64701,"58_labetalol, 58_phenytoin, 58_ranitidine, 58_phenytoin, 58_paroxetine, 58_folic acid, 58_acetylsalicylic acid, 58_thiamine (vitamin b1), 58_clopidogrel","58_discontinued, 58_discontinued, 58_discontinued, 58_discontinued, 58_discontinued, 58_discontinued, 58_discontinued, 58_discontinued, 58_discontinued"
+65342,"59_lisinopril, 59_warfarin, 59_codeine ; paracetamol (acetaminophen), 59_hydrochlorothiazide ; triamterene, 59_nicotinic acid, 59_terazosin, 59_terazosin, 59_clopidogrel","59_expired, 59_expired, 59_expired, 59_expired, 59_expired, 59_expired, 59_expired, 59_expired"
+65684,70_furosemide,70_discontinued
+65973,"61_Not a medication, 61_zinc, 61_atropine, 61_oxycodone, 61_morphine","61_discontinued, 61_discontinued, 61_discontinued, 61_cancelled, 61_discontinued"
+66181,51_polystyrene sulfonate,51_cancelled
+66263,94_Not specified,94_active
+66379,77_semaglutide,77_active
+66497,"92_glyceryl trinitrate, 92_glyceryl trinitrate, 92_glyceryl trinitrate, 92_ampicillin, enzyme inhibitor ; sodium, 92_glyceryl trinitrate, 92_ampicillin, enzyme inhibitor ; sodium, 92_glyceryl trinitrate, 92_ampicillin, enzyme inhibitor ; sodium, 92_glyceryl trinitrate, 92_ampicillin, enzyme inhibitor ; sodium, 92_Not specified, 92_codeine ; paracetamol (acetaminophen)","92_complete, 92_expired, 92_expired, 92_expired, 92_expired, 92_expired, 92_complete, 92_discontinued, 92_discontinued, 92_complete, 92_discontinued, 92_discontinued"
+66508,76_alprazolam,76_expired
+66655,"83_warfarin, 83_doxazosin, 83_flunisolide, 83_mometasone furoate, 83_fluoxetine, 83_furosemide, 83_guaifenesin, 83_lorazepam","83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued"
+66821,"96_clotrimazole, 96_ketoconazole","96_cancelled, 96_active"
+67211,72_baclofen,72_unreleased
+67383,"75_Not specified, 75_artemisinin ; insulin (human) fast-acting","75_discontinued, 75_discontinued"
+67484,"87_furosemide, 87_levothyroxine sodium","87_discontinued, 87_discontinued"
+67582,"77_metformin, 77_tramadol","77_discontinued, 77_discontinued"
+68005,"77_pioglitazone, 77_tamsulosin, 77_Not specified","77_discontinued, 77_discontinued, 77_discontinued"
+68239,"75_melatonin, 75_hydroxyzine, 75_hydroxyzine","75_active, 75_active, 75_active"
+68454,81_omeprazole,81_active
+68636,67_losartan,67_expired
+68790,"76_diltiazem, 76_digoxin, 76_Not a medication, 76_levothyroxine sodium, 76_simvastatin, 76_allopurinol, 76_Not specified, 76_metformin, 76_atenolol, 76_warfarin, 76_warfarin","76_expired, 76_expired, 76_expired, 76_expired, 76_expired, 76_expired, 76_expired, 76_expired, 76_expired, 76_expired, 76_expired"
+68855,"81_levofloxacin, 81_Not specified, 81_levofloxacin, 81_salbutamol, 81_salmeterol, 81_ipratropium bromide, 81_oxygen, 81_Not a medication, 81_acetylsalicylic acid, 81_furosemide, 81_fluoxetine, 81_tocopherol (vitamin e), 81_lisinopril, 81_nifedipine, 81_methocarbamol, 81_magnesium hydroxide","81_discontinued/edit, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued"
+68858,76_Not specified,76_active
+69215,"88_furosemide, 88_lisinopril, 88_glibenclamide, 88_flutamide","88_expired, 88_expired, 88_expired, 88_expired"
+69283,"75_tolterodine, 75_fluoxetine, 75_apixaban, 75_ascorbic acid (vitamin c), 75_miconazole, 75_docusate","75_active, 75_active, 75_active, 75_active, 75_active, 75_discontinued"
+69390,"46_perflutren, phospholipid microspheres, 46_vaccines","46_expired, 46_expired"
+69918,"84_acetylcysteine, 84_heparin, 84_salbutamol, 84_hydralazine, 84_collagenase clostridium histolyticum, 84_furosemide, 84_calcium carbonate ; vitamin d and analogues, 84_lorazepam, 84_lactic acid producing organisms, 84_paracetamol (acetaminophen), 84_acetylsalicylic acid, 84_lansoprazole, 84_ipratropium bromide, 84_isosorbide dinitrate, 84_carbamide, 84_ferrous sulfate, 84_triamcinolone, 84_metoclopramide, 84_mupirocin, 84_Not specified, 84_glucose, 84_fentanyl","84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued"
+70170,"90_calcitriol, 90_furosemide","90_discontinued, 90_discontinued"
+70201,"90_ascorbic acid (vitamin c), 90_carvedilol, 90_acetylsalicylic acid, 90_digoxin, 90_ferrous sulfate, 90_folic acid, 90_isosorbide dinitrate, 90_magnesium oxide, 90_ranitidine, 90_vitamin b-complex, plain, 90_Not specified, 90_haloperidol","90_discontinued, 90_discontinued, 90_discontinued, 90_discontinued, 90_discontinued, 90_discontinued, 90_discontinued, 90_discontinued, 90_discontinued, 90_discontinued, 90_discontinued, 90_expired"
+70618,"71_clotrimazole, 71_glipizide, 71_hydrocortisone, 71_hydrocodone ; paracetamol (acetaminophen)","71_expired, 71_discontinued, 71_discontinued, 71_expired"
+70746,"67_metoprolol, 67_levothyroxine sodium, 67_donepezil, 67_triamcinolone, 67_atorvastatin, 67_tamsulosin, 67_omeprazole, 67_insulin glargine, 67_insulin aspart fast-acting, 67_ketoconazole, 67_contact laxatives, 67_hydrochlorothiazide ; losartan, 67_metformin","67_discontinued, 67_discontinued, 67_discontinued, 67_discontinued, 67_discontinued, 67_discontinued, 67_expired, 67_discontinued, 67_discontinued, 67_discontinued, 67_discontinued, 67_expired, 67_discontinued"
+70974,72_glipizide,72_active
+71312,"79_sulindac, 79_Not specified, 79_allopurinol, 79_digoxin","79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued"
+71452,74_brimonidine,74_active
+71469,"85_isosorbide dinitrate, 85_levothyroxine sodium","85_discontinued, 85_discontinued"
+71793,"78_Not specified, 78_ampicillin, enzyme inhibitor","78_discontinued, 78_discontinued"
+72174,"66_furosemide, 66_acyclovir, 66_oxycodone","66_discontinued, 66_discontinued, 66_discontinued"
+72208,70_tamsulosin,70_active
+72308,84_carbamide,84_active
+72812,"74_Not specified, 74_vancomycin, 74_lorazepam, 74_glycopyrronium bromide, 74_ondansetron, 74_morphine, 74_atropine, 74_artificial tears, other indifferent preparations, 74_Not a medication, 74_Not specified","74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued/edit, 74_discontinued, 74_discontinued"
+73063,67_barium sulfate with suspending agents,67_discontinued
+73165,"85_fluticasone ; salmeterol, 85_salbutamol","85_active, 85_active"
+73167,73_Not a medication,73_expired
+73411,57_carvedilol,57_active
+73466,"62_terazosin, 62_hydralazine, 62_digoxin, 62_felodipine, 62_metoprolol, 62_furosemide, 62_ranitidine, 62_glyceryl trinitrate, 62_spironolactone, 62_lisinopril, 62_acetylsalicylic acid, 62_glyceryl trinitrate, 62_tramadol, 62_simvastatin","62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued"
+73600,89_morphine,89_discontinued
+73855,85_enalapril,85_expired
+73980,"80_omeprazole, 80_calcium ; fat/carbohydrates/proteins/minerals/vitamins, combinations, 80_gemfibrozil, 80_ranitidine","80_discontinued, 80_discontinued, 80_discontinued, 80_discontinued"
+74273,81_amitriptyline,81_expired
+74303,"83_morphine, 83_dexamethasone, antiinfectives","83_discontinued, 83_discontinued"
+74317,"77_potassium chloride, 77_mirtazapine, 77_Not specified, 77_furosemide, 77_quetiapine, 77_temazepam","77_expired, 77_expired, 77_discontinued, 77_expired, 77_discontinued, 77_discontinued"
+74613,"61_glycerol ; hydrogen peroxide, 61_ergocalciferol","61_expired, 61_active"
+74825,85_latanoprost,85_expired
+75157,77_methenamine,77_discontinued
+75462,"78_acetylsalicylic acid, 78_clonazepam, 78_duloxetine, 78_losartan, 78_ranitidine, 78_simvastatin, 78_primidone","78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued"
+75484,90_galantamine,90_discontinued
+75714,85_paracetamol (acetaminophen),85_discontinued
+76007,"55_fluconazole, 55_potassium chloride, 55_potassium chloride, 55_morphine","55_discontinued, 55_discontinued, 55_expired, 55_discontinued"
+76196,"74_furosemide, 74_allopurinol, 74_amiodarone","74_discontinued, 74_discontinued, 74_discontinued"
+76555,74_fluvoxamine,74_discontinued
+76591,"92_moxifloxacin, 92_aluminium oxide ; magnesium hydroxide ; silicones, 92_hydrocodone ; paracetamol (acetaminophen), 92_Not specified, 92_potassium chloride, 92_furosemide, 92_paracetamol (acetaminophen), 92_magnesium hydroxide, 92_docusate, 92_sodium phosphate","92_discontinued, 92_discontinued, 92_discontinued, 92_discontinued, 92_discontinued, 92_discontinued, 92_discontinued, 92_discontinued, 92_discontinued, 92_discontinued"
+76680,68_Not specified,68_expired
+76744,69_ascorbic acid (vitamin c) ; macrogol ; potassium chloride ; sodium chloride ; sodium sulfate,69_active
+77137,"85_levothyroxine sodium, 85_colecalciferol, 85_calcium ; vitamin d and analogues, 85_Not specified, 85_salbutamol, 85_isopropanol, 85_salbutamol, 85_salbutamol, 85_salbutamol","85_expired, 85_expired, 85_expired, 85_expired, 85_discontinued/edit, 85_expired, 85_discontinued/edit, 85_expired, 85_expired"
+77142,57_morphine,57_discontinued
+77592,"87_dexamethasone, 87_eszopiclone, 87_dexamethasone, 87_ondansetron, 87_pantoprazole, 87_diclofenac","87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued"
+77665,93_guaifenesin,93_cancelled
+77723,"96_hydroxyzine, 96_triamcinolone, 96_naltrexone, 96_allopurinol, 96_simvastatin, 96_ferrous gluconate, 96_doxazosin, 96_lisinopril, 96_colchicine, 96_ascorbic acid (vitamin c)","96_expired, 96_expired, 96_expired, 96_expired, 96_expired, 96_expired, 96_expired, 96_expired, 96_expired, 96_expired"
+77747,85_omeprazole,85_expired
+77919,87_paroxetine,87_discontinued
+78039,"71_vitamin d and analogues, 71_tiotropium bromide","71_active, 71_active"
+78353,71_pindolol,71_active
+78424,"64_ranitidine, 64_diphenhydramine, 64_ranitidine, 64_sodium chloride, 64_dolasetron","64_discontinued/edit, 64_expired, 64_expired, 64_expired, 64_expired"
+78626,"64_alprazolam, 64_zolpidem","64_active, 64_active"
+79413,"69_lisinopril, 69_atorvastatin, 69_atorvastatin, 69_other antipruritics ; salicylic acid and derivatives, 69_other antipruritics ; salicylic acid and derivatives","69_active, 69_cancelled, 69_active, 69_cancelled, 69_active"
+79491,"85_alprazolam, 85_temazepam","85_discontinued, 85_discontinued"
+79826,"81_oxycodone ; paracetamol (acetaminophen), 81_oxycodone ; paracetamol (acetaminophen), 81_oxycodone ; paracetamol (acetaminophen)","81_cancelled, 81_discontinued/edit, 81_discontinued"
+79859,84_hydrocodone ; paracetamol (acetaminophen),84_expired
+80030,86_omeprazole,86_discontinued
+80242,"55_valsartan, sacubitril, 55_torasemide, 55_metoprolol, 55_spironolactone, 55_oxycodone","55_active, 55_active, 55_active, 55_active, 55_expired"
+80319,"76_morphine, 76_furosemide, 76_Not a medication, 76_hydrocortisone ; sodium, 76_hydrocortisone ; sodium","76_discontinued, 76_discontinued, 76_expired, 76_discontinued/edit, 76_discontinued"
+80713,77_lisinopril,77_expired
+81165,"63_metoprolol, 63_valsartan, sacubitril, 63_spironolactone, 63_rosuvastatin, 63_furosemide, 63_magnesium oxide","63_active, 63_active, 63_active, 63_active, 63_active, 63_active"
+81280,"88_lisinopril, 88_metoprolol, 88_glyceryl trinitrate, 88_ipratropium bromide, 88_folic acid, 88_Not specified, 88_salbutamol","88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued"
+82054,90_lorazepam,90_discontinued
+82070,"89_mometasone furoate, 89_olodaterol ; tiotropium bromide","89_discontinued, 89_discontinued"
+82176,"74_Not specified, 74_ketoconazole","74_active, 74_active"
+82267,"91_docusate, 91_levothyroxine sodium","91_discontinued, 91_discontinued"
+82273,74_glyceryl trinitrate,74_discontinued
+82314,49_propranolol,49_active
+82368,73_aluminium hydroxide ; magnesium hydroxide ; silicones,73_discontinued
+82570,"85_alprazolam, 85_simvastatin","85_expired, 85_expired"
+82860,"92_Not specified, 92_benzalkonium, 92_salbutamol, 92_Not specified, 92_glipizide, 92_levothyroxine sodium, 92_Not a medication, 92_acyclovir, 92_omeprazole, 92_tuberculin, 92_cyanocobalamin","92_discontinued, 92_discontinued, 92_discontinued, 92_expired, 92_discontinued, 92_discontinued, 92_discontinued, 92_discontinued, 92_discontinued, 92_discontinued, 92_discontinued"
+82915,"67_soft paraffin and fat products, 67_fentanyl","67_discontinued, 67_expired"
+82968,61_insulin glargine,61_active
+83577,"79_azithromycin, 79_ceftriaxone, 79_heparin","79_discontinued, 79_discontinued, 79_cancelled"
+83601,"67_Not specified, 67_cefazolin","67_expired, 67_expired"
+83710,"62_hydralazine, 62_carvedilol, 62_docusate, 62_valsartan, 62_isosorbide dinitrate, 62_simvastatin, 62_acetylsalicylic acid, 62_insulins and analogues for injection, intermediate-acting, 62_digoxin, 62_furosemide","62_discontinued, 62_discontinued, 62_expired, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued"
+83748,68_atorvastatin,68_active
+83792,"87_furosemide, 87_allopurinol, 87_carvedilol, 87_melatonin","87_active, 87_active, 87_active, 87_active"
+83822,"86_finasteride, 86_lovastatin","86_discontinued, 86_discontinued"
+83926,"88_carbamazepine, 88_carbamazepine, 88_Not a medication, 88_salbutamol, 88_silver sulfadiazine, 88_Not a medication, 88_ipratropium bromide, 88_morphine, 88_paracetamol (acetaminophen), 88_lorazepam, 88_haloperidol, 88_bisacodyl","88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued"
+84217,"73_spironolactone, 73_furosemide, 73_lovastatin, 73_lisinopril, 73_omeprazole, 73_clopidogrel, 73_ferrous sulfate, 73_carvedilol, 73_citalopram","73_discontinued, 73_expired, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued"
+84245,"72_chlorphenamine, 72_hydroxyzine, 72_furosemide, 72_clopidogrel, 72_salbutamol","72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued"
+84251,85_rivastigmine,85_discontinued
+84262,57_cetirizine,57_discontinued
+84301,72_insulin glargine,72_discontinued
+84413,"58_tamsulosin, 58_metoprolol","58_discontinued, 58_discontinued"
+84436,"84_levothyroxine sodium, 84_tamsulosin","84_discontinued, 84_discontinued"
+84501,93_Not a medication,93_discontinued
+84661,"76_Not specified, 76_cefepime, 76_Not specified, 76_oritavancin","76_discontinued, 76_discontinued, 76_expired, 76_expired"
+84682,70_atorvastatin,70_expired
+84815,"93_mometasone furoate, 93_aluminium compounds, combinations ; magnesium hydroxide ; silicones, 93_omeprazole, 93_cetylpyridinium, 93_furosemide, 93_dextromethorphan ; guaifenesin, 93_glibenclamide, 93_loperamide","93_expired, 93_expired, 93_expired, 93_expired, 93_expired, 93_expired, 93_expired, 93_expired"
+84821,"50_salbutamol, 50_acetylsalicylic acid, 50_allopurinol, 50_other lipid modifying agents, 50_levothyroxine sodium, 50_fluticasone ; salmeterol, 50_furosemide","50_active, 50_active, 50_active, 50_active, 50_active, 50_active, 50_active"
+84990,"68_Not a medication, 68_hydrochlorothiazide ; lisinopril","68_discontinued, 68_discontinued"
+85298,84_warfarin,84_discontinued
+85960,58_paracetamol (acetaminophen),58_discontinued
+85966,41_metformin,41_active
+85968,91_mirtazapine,91_active
+86140,67_insulin (human) fast-acting,67_discontinued
+86376,78_metoprolol,78_active
+86632,"83_metoprolol, 83_omeprazole","83_active, 83_active"
+87131,89_Not specified,89_discontinued
+87166,77_carvedilol,77_discontinued
+87579,"70_insulin glargine, 70_ferrous sulfate, 70_Not a medication, 70_metoprolol, 70_furosemide, 70_potassium chloride, 70_terazosin, 70_clindamycin, 70_Not a medication, 70_camphor ; other antipruritics, 70_clobetasol, 70_zoster, live attenuated","70_discontinued, 70_discontinued, 70_discontinued, 70_discontinued, 70_discontinued, 70_discontinued, 70_discontinued, 70_discontinued, 70_discontinued, 70_discontinued, 70_discontinued, 70_complete"
+87910,72_cefuroxime,72_discontinued
+88033,"75_apixaban, 75_insulin detemir, 75_salbutamol, 75_ipratropium bromide, 75_acetylsalicylic acid, 75_finasteride, 75_atorvastatin, 75_tamsulosin, 75_metoprolol","75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued, 75_discontinued"
+88042,"68_metoprolol, 68_amiodarone, 68_metoprolol, 68_docusate, 68_lidocaine, 68_cadexomer iodine, 68_warfarin, 68_omeprazole, 68_warfarin, 68_warfarin","68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued"
+88045,70_vancomycin,70_expired
+88068,75_atorvastatin,75_expired
+88071,"82_lactulose, 82_insulin glargine, 82_metoprolol","82_discontinued, 82_discontinued, 82_discontinued"
+88136,75_timolol,75_expired
+88289,93_testosterone,93_discontinued
+88457,"86_pantoprazole, 86_olodaterol ; tiotropium bromide, 86_isosorbide mononitrate","86_discontinued, 86_discontinued, 86_discontinued"
+88474,"68_lansoprazole, 68_furosemide, 68_digoxin, 68_ferrous sulfate","68_expired, 68_expired, 68_expired, 68_expired"
+88537,"78_pravastatin, 78_midodrine, 78_levothyroxine sodium","78_discontinued, 78_discontinued, 78_discontinued"
+88776,71_megestrol,71_discontinued
+88802,67_flunisolide,67_active
+88819,88_potassium chloride,88_discontinued
+88886,92_hydrocodone ; paracetamol (acetaminophen),92_discontinued
+88951,"83_amoxicillin, enzyme inhibitor, 83_methylprednisolone","83_expired, 83_expired"
+88977,90_metoprolol,90_active
+89178,93_morphine,93_discontinued
+89271,"72_lisinopril, 72_digoxin, 72_omeprazole","72_expired, 72_expired, 72_expired"
+89286,86_potassium chloride,86_discontinued
+89300,"51_tamsulosin, 51_valsartan, sacubitril","51_active, 51_active"
+89621,77_ranitidine,77_expired
+89673,"89_latanoprost, 89_donepezil, 89_memantine, 89_atorvastatin, 89_Not specified","89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued"
+89709,"75_paracetamol (acetaminophen), 75_insulin glargine ; oxymetazoline","75_discontinued, 75_discontinued"
+89715,"85_lisinopril, 85_rosuvastatin, 85_metoprolol, 85_glyceryl trinitrate, 85_furosemide","85_expired, 85_expired, 85_expired, 85_expired, 85_expired"
+89831,69_clopidogrel,69_active
+89854,"87_metoprolol, 87_metoprolol, 87_metoprolol, 87_salbutamol, 87_metoprolol, 87_ipratropium bromide, 87_omeprazole, 87_contact laxatives, 87_acetylsalicylic acid, 87_prednisone, 87_prednisone, 87_prednisone, 87_prednisone","87_expired, 87_discontinued, 87_complete, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_discontinued, 87_cancelled, 87_cancelled, 87_discontinued/edit, 87_discontinued"
+89989,56_glipizide,56_hold
+90028,76_hydrocodone ; paracetamol (acetaminophen),76_discontinued
+90052,"66_Not a medication, 66_Not a medication","66_expired, 66_expired"
+90132,66_pravastatin,66_discontinued
+90338,"82_ipratropium bromide ; salbutamol, 82_flunisolide, 82_formoterol, 82_lisinopril, 82_digoxin","82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued"
+90367,80_mometasone furoate,80_discontinued
+90472,74_rosuvastatin,74_active
+90535,"78_valsartan, sacubitril",78_active
+90608,89_mometasone furoate,89_discontinued
+90832,90_warfarin,90_discontinued
+90911,"65_lorazepam, 65_ipratropium bromide ; salbutamol, 65_ipratropium bromide ; salbutamol, 65_ipratropium bromide ; salbutamol, 65_lorazepam","65_discontinued/edit, 65_complete, 65_expired, 65_discontinued, 65_discontinued"
+91447,"75_lisinopril, 75_furosemide, 75_fluorometholone, 75_amiodarone","75_expired, 75_expired, 75_expired, 75_expired"
+91519,89_sodium,89_discontinued
+91548,"90_furosemide, 90_metoprolol","90_active, 90_active"
+91664,"90_Not a medication, 90_glipizide, 90_furosemide","90_active, 90_active, 90_active"
+91683,"78_insulin detemir, 78_vaccines, 78_glucagon, 78_Not specified, 78_Not specified, 78_isopropanol, 78_Not a medication","78_discontinued, 78_expired, 78_expired, 78_expired, 78_discontinued, 78_discontinued, 78_expired"
+91717,62_candesartan,62_discontinued
+92031,89_oxycodone ; paracetamol (acetaminophen),89_discontinued
+92079,"70_metoprolol, 70_rosuvastatin","70_active, 70_active"
+92189,"90_multivitamins, combinations",90_discontinued
+92288,"62_furosemide, 62_acetylsalicylic acid, 62_isosorbide mononitrate, 62_metoprolol, 62_hydrocodone ; paracetamol (acetaminophen)","62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued, 62_discontinued"
+92884,90_alprazolam,90_discontinued
+92921,"68_furosemide, 68_furosemide","68_cancelled, 68_active"
+93205,"87_methylphenidate, 87_colecalciferol","87_discontinued, 87_discontinued"
+93533,95_finasteride,95_discontinued
+93550,"92_acetylsalicylic acid, 92_terazosin, 92_isosorbide dinitrate, 92_amiodarone, 92_furosemide, 92_lisinopril, 92_prednisone, 92_theophylline","92_expired, 92_expired, 92_expired, 92_expired, 92_expired, 92_expired, 92_expired, 92_expired"
+93680,"73_losartan, 73_metoprolol, 73_rosuvastatin, 73_clopidogrel","73_active, 73_active, 73_active, 73_active"
+93917,"68_clopidogrel, 68_metoprolol, 68_isosorbide mononitrate, 68_lisinopril, 68_atorvastatin","68_active, 68_active, 68_active, 68_active, 68_active"
+94080,"76_Not specified, 76_Not a medication","76_discontinued, 76_discontinued"
+94450,92_nitrofurantoin,92_discontinued
+94720,"49_cetirizine, 49_cetirizine","49_cancelled, 49_discontinued"
+94935,83_omeprazole,83_active
+95041,88_prednisone,88_active
+95448,51_midodrine,51_discontinued
+95477,64_hydromorphone,64_discontinued
+95734,"89_risperidone, 89_gabapentin, 89_risperidone, 89_melatonin, 89_doxycycline, 89_magnesium oxide, 89_docusate","89_cancelled, 89_expired, 89_expired, 89_expired, 89_expired, 89_expired, 89_expired"
+95750,"74_zoster, purified antigen, 74_benzonatate","74_active, 74_active"
+95817,"65_fluoxetine, 65_citalopram","65_cancelled, 65_cancelled"
+96711,95_atorvastatin,95_discontinued
+96816,"86_electrolytes ; macrogol ; potassium chloride ; sodium chloride ; sodium sulfate, 86_bisacodyl","86_active, 86_active"
+96917,"71_cyanocobalamin, 71_lisinopril, 71_metformin, 71_atorvastatin","71_expired, 71_expired, 71_expired, 71_expired"
+97021,63_empagliflozin,63_active
+97245,79_Not specified,79_discontinued
+97370,47_morphine,47_discontinued
+97868,78_guaifenesin,78_expired
+98416,"79_moxifloxacin, 79_codeine ; guaifenesin","79_expired, 79_discontinued"
+98439,84_ketoconazole,84_active
+99024,"69_serum albumin, 69_serum albumin","69_discontinued, 69_discontinued"
+99137,88_benzalkonium,88_discontinued
+99143,"91_valproic acid, 91_valproic acid, 91_valproic acid","91_discontinued, 91_cancelled, 91_expired"
+99870,90_oxygen,90_discontinued
+99941,"77_atorvastatin, 77_paracetamol (acetaminophen)","77_discontinued, 77_discontinued"
+99944,84_zinc,84_expired
+100012,74_cetirizine,74_active
+100223,"88_lisinopril, 88_levothyroxine sodium, 88_tamsulosin, 88_apixaban, 88_atorvastatin, 88_metoprolol","88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued"
+100229,83_paracetamol (acetaminophen),83_discontinued
+100314,"74_midazolam, 74_fentanyl, 74_fentanyl","74_discontinued, 74_discontinued/edit, 74_discontinued"
+100399,88_hydromorphone,88_discontinued
+100681,"82_sodium, 82_ciclosporin","82_discontinued, 82_discontinued"
+100694,"91_omeprazole, 91_colecalciferol, 91_tocopherol (vitamin e)","91_hold, 91_active, 91_active"
+101225,"70_carvedilol, 70_acetylsalicylic acid, 70_baclofen","70_discontinued, 70_discontinued, 70_expired"
+101380,"84_Not specified, 84_Not specified, 84_Not specified","84_discontinued/edit, 84_discontinued, 84_expired"
+101407,"90_artificial tears, other indifferent preparations, 90_Not a medication","90_expired, 90_expired"
+101530,"90_citalopram, 90_Not specified","90_expired, 90_expired"
+101600,84_warfarin,84_expired
+101984,"65_famotidine, 65_metoprolol, 65_hydroxyzine, 65_buspirone, 65_prazosin, 65_citalopram, 65_allopurinol","65_active, 65_active, 65_active, 65_active, 65_active, 65_active, 65_active"
+102273,78_nitrofurantoin,78_active
+102450,"49_pantoprazole, 49_atorvastatin, 49_rifaximin, 49_metoclopramide, 49_sevelamer, 49_insulin lispro fast-acting, 49_insulin detemir","49_discontinued, 49_discontinued, 49_discontinued, 49_discontinued, 49_discontinued, 49_discontinued, 49_discontinued"
+102467,"76_ketoconazole, 76_ketoconazole, 76_fluocinonide","76_active, 76_active, 76_active"
+102468,70_hydrocodone ; paracetamol (acetaminophen),70_active
+102592,"57_prednisone, 57_apixaban, 57_mycophenolic acid, 57_tacrolimus","57_active, 57_active, 57_active, 57_active"
+102788,73_carbamide,73_active
+102857,"57_carvedilol, 57_glipizide, 57_metformin","57_cancelled, 57_discontinued, 57_discontinued"
+102905,"79_Not specified, 79_chloroxylenol ; miconazole, 79_lactulose","79_discontinued, 79_discontinued, 79_discontinued"
+103112,77_omeprazole,77_expired
+103133,100_warfarin,100_discontinued
+103169,"74_midazolam, 74_hydromorphone","74_discontinued, 74_discontinued"
+103190,90_barium sulfate with suspending agents,90_cancelled
+103335,89_ezetimibe,89_active
+103421,"71_eplerenone, 71_levothyroxine sodium, 71_atorvastatin, 71_metoprolol, 71_furosemide, 71_tamsulosin, 71_omeprazole","71_active, 71_active, 71_active, 71_active, 71_active, 71_active, 71_active"
+103462,70_fluticasone ; salmeterol,70_hold
+103513,"85_salbutamol, 85_famotidine, 85_apixaban, 85_tamsulosin, 85_metoprolol, 85_amiodarone, 85_trazodone, 85_aripiprazole, 85_ergocalciferol","85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued"
+103779,"72_prednisone, 72_warfarin","72_discontinued, 72_discontinued"
+104244,63_apixaban,63_active
+104339,"85_ipratropium bromide, 85_ipratropium bromide, 85_salbutamol, 85_salbutamol, 85_ipratropium bromide, 85_salbutamol","85_discontinued, 85_complete, 85_expired, 85_complete, 85_expired, 85_discontinued"
+104362,"63_artemisinin ; tiotropium bromide, 63_artemisinin ; tiotropium bromide","63_discontinued, 63_discontinued"
+104480,93_ipratropium bromide ; salbutamol,93_active
+104616,66_hydrocodone ; paracetamol (acetaminophen),66_expired
+105005,"67_aluminium chloride ; aluminium compounds, combinations, 67_Not a medication, 67_bacitracin","67_active, 67_active, 67_active"
+105077,"83_colecalciferol, 83_clopidogrel, 83_losartan, 83_ranitidine, 83_furosemide, 83_insulin (human) fast-acting, 83_zinc","83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued"
+105402,"70_Not specified, 70_magnesium citrate, 70_bisacodyl","70_expired, 70_expired, 70_expired"
+105425,"73_Not specified, 73_Not a medication","73_active, 73_active"
+105756,82_warfarin,82_active
+105769,"49_gabapentin, 49_insulin aspart fast-acting, 49_carvedilol, 49_empagliflozin, 49_ergocalciferol, 49_losartan, 49_Not specified, 49_Not a medication, 49_insulin glargine","49_active, 49_active, 49_active, 49_active, 49_active, 49_active, 49_active, 49_active, 49_active"
+105907,75_prednisone,75_active
+105924,86_Not specified,86_discontinued
+105947,"86_hydrocodone ; paracetamol (acetaminophen), 86_prednisone, 86_lidocaine, 86_oxycodone, 86_macrogol","86_expired, 86_expired, 86_expired, 86_expired, 86_expired"
+106023,70_oxycodone,70_expired
+106030,73_Not specified,73_expired
+106149,"89_carvedilol, 89_amlodipine","89_discontinued, 89_discontinued"
+106243,62_alprostadil,62_active
+106440,67_Not specified,67_active
+106576,78_lisinopril,78_expired
+106715,"94_hydromorphone, 94_hydromorphone, 94_hydromorphone, 94_hydromorphone, 94_scopolamine","94_expired, 94_complete, 94_discontinued, 94_discontinued, 94_discontinued"
+106818,52_metolazone,52_discontinued
+106827,"88_prednisone, 88_atenolol, 88_levothyroxine sodium, 88_theophylline, 88_paracetamol (acetaminophen), 88_amlodipine, 88_clonazepam, 88_potassium chloride, 88_Not specified, 88_furosemide, 88_ipratropium bromide ; salbutamol","88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued"
+106828,74_hydrocodone,74_expired
+107249,93_Not specified,93_active
+107471,"81_megestrol, 81_prednisone","81_discontinued, 81_discontinued"
+107645,"85_acetylsalicylic acid, 85_colecalciferol, 85_budesonide ; formoterol, 85_Not specified, 85_digoxin, 85_clopidogrel, 85_fludrocortisone, 85_losartan, 85_metolazone, 85_metoprolol, 85_potassium chloride, 85_spironolactone, 85_glyceryl trinitrate, 85_rosuvastatin, 85_warfarin, 85_cyanocobalamin","85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued"
+107792,65_lorazepam,65_discontinued
+107797,73_rivaroxaban,73_discontinued
+107880,74_furosemide,74_active
+108043,"72_sertraline, 72_naltrexone","72_active, 72_active"
+108047,86_rivaroxaban,86_discontinued
+108054,63_insulin glargine,63_active
+108167,67_metformin,67_discontinued
+108210,81_rosiglitazone,81_discontinued
+108307,"77_bumetanide, 77_insulins and analogues, 77_warfarin, 77_carvedilol, 77_lansoprazole, 77_tamsulosin, 77_simvastatin, 77_isosorbide mononitrate, 77_potassium chloride, 77_metolazone, 77_paracetamol (acetaminophen), 77_metformin","77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued"
+108502,75_furosemide,75_discontinued
+108611,"91_ipratropium bromide ; salbutamol, 91_lorazepam, 91_haloperidol, 91_lorazepam, 91_morphine, 91_haloperidol","91_discontinued, 91_discontinued, 91_discontinued, 91_discontinued, 91_discontinued, 91_discontinued"
+108668,"89_finasteride, 89_tamsulosin, 89_levothyroxine sodium, 89_simvastatin, 89_ketorolac, 89_furosemide","89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued"
+108901,"66_lorazepam, 66_furosemide, 66_docusate, 66_multivitamins, combinations, 66_rabeprazole, 66_potassium chloride, 66_morphine","66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued, 66_expired"
+109204,"74_digoxin, 74_quetiapine","74_discontinued, 74_discontinued"
+109566,"89_levodopa, decarboxylase inhibitor",89_cancelled
+109675,"80_folic acid, 80_allopurinol","80_discontinued, 80_discontinued"
+110734,"78_irbesartan, 78_nifedipine, 78_lisinopril, 78_acetylsalicylic acid, 78_atenolol","78_expired, 78_expired, 78_expired, 78_expired, 78_expired"
+111360,"84_amiodarone, 84_glimepiride","84_active, 84_active"
+111865,"58_metformin, 58_atenolol, 58_glyceryl trinitrate","58_discontinued, 58_discontinued, 58_discontinued"
+111922,"75_insulin glargine, 75_flowers ; naloxone, 75_oxycodone","75_active, 75_active, 75_expired"
+111947,72_dexamethasone,72_expired
+112212,"66_lactulose, 66_multienzymes (lipase, protease, etc.), 66_furosemide, 66_lansoprazole, 66_citalopram, 66_ipratropium bromide ; salbutamol","66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued"
+112457,64_hydrocodone ; paracetamol (acetaminophen),64_active
+112459,72_ceftriaxone,72_unreleased
+112511,65_dorzolamide,65_active
+112675,"82_metoprolol, 82_furosemide, 82_lisinopril, 82_potassium chloride, 82_atorvastatin","82_active, 82_active, 82_active, 82_active, 82_active"
+112807,78_lisinopril,78_active
+113606,69_oxycodone,69_active
+113626,78_nintedanib,78_active
+114033,84_metoprolol,84_active
+114062,66_ranibizumab,66_pending
+114205,"94_lisinopril, 94_potassium chloride","94_discontinued, 94_discontinued"
+114383,"73_bumetanide, 73_spironolactone, 73_lorazepam","73_discontinued, 73_discontinued, 73_discontinued"
+114425,90_Not specified,90_expired
+114689,"73_carvedilol, 73_torasemide, 73_diclofenac, 73_metolazone, 73_potassium chloride, 73_fluticasone, 73_other emollients and protectives, 73_salbutamol, 73_Not a medication, 73_insulin aspart fast-acting","73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued"
+114715,92_warfarin,92_active
+114805,"78_metformin, 78_simvastatin, 78_levothyroxine sodium, 78_doxycycline, 78_lisinopril, 78_omeprazole, 78_metoprolol","78_discontinued, 78_discontinued, 78_discontinued, 78_expired, 78_discontinued, 78_discontinued, 78_discontinued"
+114818,"96_fat/carbohydrates/proteins/minerals/vitamins, combinations, 96_guaifenesin, 96_glyceryl trinitrate, 96_furosemide, 96_temazepam, 96_digoxin, 96_docusate, 96_acetylsalicylic acid, 96_ferrous sulfate, 96_potassium chloride, 96_ascorbic acid (vitamin c) ; vitamin b-complex, plain, 96_calcium carbonate ; vitamin d and analogues, 96_dextropropoxyphene ; paracetamol (acetaminophen), 96_fat/carbohydrates/proteins/minerals/vitamins, combinations","96_cancelled, 96_discontinued, 96_discontinued, 96_discontinued, 96_discontinued, 96_discontinued, 96_discontinued, 96_discontinued, 96_discontinued, 96_discontinued, 96_cancelled, 96_cancelled, 96_discontinued, 96_discontinued"
+114884,"70_prochlorperazine, 70_abiraterone, 70_prednisone","70_discontinued, 70_discontinued, 70_discontinued"
+114976,75_dextropropoxyphene,75_discontinued
+115075,"71_metformin, 71_carvedilol, 71_glimepiride, 71_furosemide, 71_dutasteride, 71_tamsulosin","71_active, 71_active, 71_active, 71_active, 71_active, 71_active"
+115142,80_ipratropium bromide ; salbutamol,80_discontinued
+115167,"67_guaifenesin, 67_benzonatate","67_active, 67_active"
+115675,"77_hydrochlorothiazide, 77_lisinopril, 77_metoprolol, 77_isosorbide dinitrate, 77_clopidogrel","77_expired, 77_expired, 77_expired, 77_expired, 77_expired"
+115818,"83_potassium chloride, 83_rivaroxaban","83_active, 83_active"
+115904,"88_calcium ; vitamin d and analogues, 88_empagliflozin, 88_acetylsalicylic acid, 88_ipratropium bromide ; salbutamol, 88_budesonide ; formoterol, 88_loratadine","88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_discontinued, 88_expired"
+116482,"71_bisacodyl, 71_sodium phosphate, 71_Not specified, 71_castor oil","71_expired, 71_expired, 71_expired, 71_expired"
+116508,"68_doxycycline, 68_cefalexin ; cefradine","68_active, 68_active"
+116882,"91_memantine, 91_valproic acid","91_active, 91_active"
+117184,89_Not a medication,89_discontinued
+117225,"70_triamcinolone, 70_desonide, 70_zinc","70_active, 70_active, 70_active"
+117606,75_brimonidine,75_active
+117675,"68_fluticasone, 68_cineole ; other antipruritics ; salicylic acid and derivatives, 68_fexofenadine","68_active, 68_active, 68_active"
+117923,"68_ethanol, 68_Not a medication, 68_Not a medication, 68_Not specified","68_expired, 68_expired, 68_expired, 68_expired"
+118088,87_hydralazine,87_discontinued
+118578,71_nicotinic acid,71_expired
+118613,"66_Not a medication, 66_Not a medication, 66_Not specified","66_discontinued, 66_expired, 66_expired"
+118729,"71_clonidine, 71_felodipine, 71_levodopa, decarboxylase inhibitor","71_discontinued, 71_discontinued, 71_discontinued"
+119137,"79_medroxyprogesterone, 79_digoxin, 79_lisinopril, 79_atorvastatin, 79_levothyroxine sodium, 79_carvedilol, 79_fluocinonide, 79_clotrimazole, 79_torasemide","79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued, 79_discontinued"
+119278,"60_omeprazole, 60_Not a medication, 60_insulin (human) intermediate-acting, 60_Not specified, 60_gabapentin, 60_levothyroxine sodium, 60_glibenclamide, 60_simvastatin","60_expired, 60_expired, 60_expired, 60_expired, 60_expired, 60_expired, 60_expired, 60_expired"
+119298,"72_diltiazem, 72_salbutamol, 72_metoprolol, 72_diltiazem, 72_warfarin, 72_warfarin","72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_cancelled, 72_discontinued"
+119688,"81_Not a medication, 81_gentamicin, 81_Not a medication","81_expired, 81_discontinued, 81_discontinued"
+119741,"67_furosemide, 67_lisinopril, 67_amiodarone, 67_triamcinolone, 67_hydrogen peroxide","67_discontinued, 67_discontinued, 67_discontinued, 67_cancelled, 67_cancelled"
+119747,75_salbutamol,75_discontinued
+119756,85_furosemide,85_discontinued
+119853,68_oxycodone ; paracetamol (acetaminophen),68_active
+119994,90_hydromorphone,90_expired
+120135,"81_furosemide, 81_digoxin, 81_pergolide, 81_simvastatin, 81_ticlopidine, 81_povidone-iodine, 81_captopril, 81_levodopa, decarboxylase inhibitor","81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued"
+120418,77_glucose ; morphine,77_discontinued
+120485,"90_salbutamol, 90_salbutamol","90_discontinued, 90_discontinued"
+120557,90_olodaterol,90_discontinued
+120630,"87_carvedilol, 87_carvedilol","87_discontinued, 87_expired"
+120856,"81_warfarin, 81_tramadol, 81_furosemide, 81_hydralazine, 81_pantoprazole, 81_warfarin, 81_digoxin, 81_docusate, 81_acetylsalicylic acid, 81_isosorbide mononitrate, 81_simvastatin","81_discontinued, 81_expired, 81_expired, 81_expired, 81_expired, 81_expired, 81_expired, 81_expired, 81_expired, 81_expired, 81_expired"
+120950,"93_colecalciferol, 93_tamsulosin, 93_acetylsalicylic acid ; benzocaine ; isopropanol, 93_other emollients and protectives, 93_Not a medication","93_active, 93_active, 93_active, 93_active, 93_active"
+121147,"68_clopidogrel, 68_spironolactone, 68_atorvastatin, 68_carvedilol, 68_pantoprazole, 68_amlodipine, 68_acetylsalicylic acid","68_active, 68_active, 68_active, 68_active, 68_active, 68_active, 68_active"
+121237,"69_atenolol ; chlortalidone, 69_atorvastatin","69_active, 69_active"
+121348,65_fluticasone,65_active
+121453,"87_allopurinol, 87_Not specified, 87_Not a medication","87_active, 87_active, 87_active"
+121786,49_hydrocodone ; paracetamol (acetaminophen),49_discontinued
+121891,76_naloxone,76_expired
+121976,"60_morphine, 60_morphine, 60_morphine","60_discontinued, 60_discontinued/edit, 60_expired"
+122044,"92_insulin glargine, 92_omeprazole, 92_mirtazapine","92_active, 92_active, 92_active"
+122113,65_gabapentin,65_active
+122114,51_simvastatin,51_expired
+122407,84_senna glycosides,84_discontinued
+122432,"74_morphine, 74_morphine","74_discontinued, 74_discontinued"
+122468,97_warfarin,97_discontinued
+122697,92_citalopram,92_discontinued
+122705,"81_amoxicillin, enzyme inhibitor",81_expired
+122749,"73_rosuvastatin, 73_clopidogrel","73_discontinued, 73_discontinued"
+122799,88_Not a medication,88_discontinued
+122861,"77_metoprolol, 77_losartan","77_active, 77_active"
+123109,"54_sulfamethoxazole ; trimethoprim, 54_lactulose, 54_fluoxetine, 54_tramadol","54_expired, 54_expired, 54_expired, 54_expired"
+123470,"72_valsartan, sacubitril",72_active
+123952,59_apixaban,59_active
+123993,"81_amlodipine, 81_hydrochlorothiazide, 81_simvastatin, 81_sitagliptin, 81_benazepril, 81_acetylsalicylic acid, 81_carvedilol, 81_Not specified","81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued, 81_discontinued"
+124018,"80_cyclobenzaprine, 80_salsalate","80_expired, 80_expired"
+124113,82_sevelamer,82_discontinued
+124336,76_acetylsalicylic acid ; dipyridamole,76_discontinued
+124340,60_Not a medication,60_discontinued
+124345,"74_haloperidol, 74_lorazepam, 74_Not a medication, 74_morphine, 74_artificial tears, other indifferent preparations, 74_atropine, 74_ondansetron, 74_bisacodyl, 74_Not specified","74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued"
+124950,69_hydrocodone ; paracetamol (acetaminophen),69_expired
+124959,80_tramadol,80_expired
+125103,"79_carvedilol, 79_lisinopril, 79_digoxin, 79_acetylsalicylic acid","79_expired, 79_expired, 79_expired, 79_discontinued"
+125152,"81_vancomycin, 81_naloxone, 81_flumazenil","81_discontinued, 81_expired, 81_expired"
+125279,"78_furosemide, 78_carvedilol, 78_omeprazole, 78_trazodone, 78_Not specified, 78_digoxin, 78_benazepril, 78_amiodarone, 78_spironolactone, 78_levothyroxine sodium, 78_metformin, 78_glipizide","78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_expired, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued, 78_discontinued"
+125430,"89_fat/carbohydrates/proteins/minerals/vitamins, combinations",89_discontinued
+125917,77_amoxicillin,77_active
+126126,85_furosemide,85_active
+126149,"70_darbepoetin alfa, 70_filgrastim, 70_filgrastim","70_expired, 70_cancelled, 70_expired"
+126279,"86_metoprolol, 86_furosemide, 86_potassium chloride, 86_colecalciferol","86_discontinued, 86_discontinued, 86_discontinued, 86_discontinued"
+126400,79_clopidogrel,79_discontinued
+126572,89_atropine,89_discontinued
+126755,"58_acetylcysteine, 58_morphine, 58_salbutamol, 58_ipratropium bromide, 58_Not specified, 58_salbutamol, 58_morphine, 58_acetylcysteine, 58_Not specified, 58_ipratropium bromide","58_expired, 58_expired, 58_expired, 58_expired, 58_expired, 58_discontinued, 58_discontinued, 58_discontinued, 58_discontinued, 58_discontinued"
+126818,74_fluticasone ; salmeterol,74_discontinued
+126919,"78_tamsulosin, 78_hydrocodone ; paracetamol (acetaminophen)","78_discontinued, 78_discontinued"
+127188,76_cefalexin,76_expired
+127619,"70_collagen, 70_Not specified, 70_Not a medication","70_expired, 70_expired, 70_expired"
+127970,"76_Not specified, 76_heparin, 76_Not specified","76_discontinued/edit, 76_discontinued, 76_discontinued"
+128094,75_furosemide,75_discontinued
+128427,"96_hydrochlorothiazide ; reserpine, 96_triamcinolone","96_discontinued, 96_discontinued"
+128866,86_tramadol,86_discontinued
+128935,"95_sodium ; sodium phosphate, 95_magnesium hydroxide, 95_atropine, 95_paracetamol (acetaminophen), 95_hyoscyamine, 95_morphine, 95_docusate, 95_ondansetron, 95_bisacodyl, 95_lorazepam, 95_artificial tears, other indifferent preparations, 95_Not a medication, 95_ipratropium bromide ; salbutamol, 95_paracetamol (acetaminophen), 95_paracetamol (acetaminophen), 95_paracetamol (acetaminophen), 95_morphine, 95_morphine, 95_morphine, 95_salbutamol, 95_ipratropium bromide ; salbutamol, 95_bimatoprost, 95_latanoprost, 95_ondansetron, 95_haloperidol","95_discontinued, 95_discontinued, 95_discontinued, 95_discontinued, 95_discontinued, 95_discontinued, 95_discontinued, 95_discontinued/edit, 95_discontinued, 95_discontinued, 95_discontinued, 95_discontinued, 95_discontinued/edit, 95_complete, 95_discontinued, 95_expired, 95_complete, 95_expired, 95_discontinued, 95_discontinued, 95_discontinued, 95_discontinued, 95_discontinued, 95_discontinued, 95_discontinued"
+129054,"60_bupropion, 60_sertraline","60_active, 60_active"
+129156,96_levothyroxine sodium,96_discontinued
+129236,"89_hydrocodone ; paracetamol (acetaminophen), 89_bumetanide","89_expired, 89_expired"
+129320,"64_alprazolam, 64_sertraline, 64_alprazolam","64_cancelled, 64_discontinued, 64_discontinued"
+129641,76_glipizide,76_discontinued
+129928,"73_diltiazem, 73_diltiazem, 73_salbutamol, 73_ipratropium bromide, 73_magnesium sulfate, 73_enoxaparin, 73_magnesium sulfate","73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_expired"
+129977,"85_dextromethorphan ; guaifenesin, 85_amlodipine, 85_acetylsalicylic acid, 85_ascorbic acid (vitamin c), 85_colecalciferol, 85_apixaban, 85_citalopram, 85_dextran ; hypromellose, 85_donepezil, 85_melatonin, 85_ibuprofen, 85_metoprolol, 85_multivitamins, combinations, 85_memantine, 85_potassium chloride, 85_risperidone, 85_omeprazole, 85_furosemide","85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_cancelled, 85_discontinued, 85_discontinued, 85_cancelled, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_cancelled, 85_cancelled, 85_discontinued"
+130264,"82_omeprazole, 82_hydrocodone ; paracetamol (acetaminophen), 82_tamsulosin, 82_bupropion, 82_ketoconazole","82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued"
+130294,79_alprazolam,79_discontinued
+130442,80_warfarin,80_discontinued
+130476,81_Not a medication,81_active
+131065,89_amlodipine,89_discontinued
+131301,"71_amoxicillin, enzyme inhibitor",71_active
+131408,64_botulinum toxin,64_expired
+131489,93_trazodone,93_discontinued
+131516,56_warfarin,56_discontinued
+131548,"86_aluminium compounds, combinations ; magnesium ; silicones, 86_silicones, 86_aluminium compounds, combinations ; magnesium ; silicones","86_discontinued, 86_discontinued, 86_expired"
+131776,96_amlodipine,96_expired
+131865,"96_hydralazine, 96_amlodipine, 96_macrogol, 96_docusate, 96_hydralazine, 96_amlodipine, 96_macrogol, 96_docusate","96_discontinued, 96_discontinued, 96_discontinued, 96_discontinued, 96_discontinued, 96_discontinued, 96_discontinued, 96_discontinued"
+132010,79_morphine,79_discontinued
+132018,"87_furosemide, 87_furosemide, 87_melatonin","87_discontinued, 87_discontinued, 87_discontinued"
+132165,"46_zolpidem, 46_quetiapine","46_cancelled, 46_active"
+132647,"88_hydroxyzine, 88_doxepin, 88_etacrynic acid, 88_lorazepam, 88_doxepin","88_cancelled, 88_cancelled, 88_discontinued, 88_discontinued, 88_discontinued"
+133437,79_potassium chloride,79_discontinued
+133446,"82_Not specified, 82_benzalkonium, 82_benzalkonium, 82_Not a medication","82_expired, 82_expired, 82_expired, 82_expired"
+133523,83_furosemide,83_discontinued
+133583,75_Not specified,75_active
+133681,"80_potassium chloride, 80_potassium chloride, 80_Not specified","80_expired, 80_discontinued, 80_discontinued"
+133723,75_salbutamol,75_expired
+133752,"76_hydralazine, 76_influenza vaccines","76_cancelled, 76_cancelled"
+133861,"86_Not specified, 86_isosorbide dinitrate","86_expired, 86_expired"
+133943,"81_metoprolol, 81_lisinopril","81_discontinued, 81_discontinued"
+134019,"82_salbutamol, 82_metoprolol, 82_metoprolol, 82_metoprolol, 82_atropine ; diphenoxylate, 82_hydrocodone ; paracetamol (acetaminophen), 82_metoprolol, 82_nystatin ; triamcinolone, 82_entacapone, 82_gatifloxacin, 82_levobunolol, 82_simvastatin, 82_brimonidine, 82_thiamine (vitamin b1), 82_levodopa, decarboxylase inhibitor, 82_folic acid, 82_paracetamol (acetaminophen), 82_ranitidine, 82_terazosin, 82_potassium chloride, 82_risperidone, 82_galantamine, 82_acetylsalicylic acid, 82_temazepam","82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued"
+134341,69_Not specified,69_active
+134490,"58_lisinopril, 58_atorvastatin","58_active, 58_active"
+134549,"87_levamlodipine, 87_apixaban, 87_metoprolol, 87_hydrochlorothiazide, 87_simvastatin, 87_losartan, 87_levothyroxine sodium, 87_carbamide, 87_triamcinolone","87_active, 87_active, 87_active, 87_active, 87_active, 87_active, 87_active, 87_active, 87_active"
+134627,"91_Not specified, 91_insulin glargine","91_expired, 91_expired"
+134663,80_tamsulosin,80_expired
+135090,69_Not a medication,69_active
+135216,58_lisinopril,58_discontinued
+135293,"83_furosemide, 83_carvedilol, 83_fentanyl, 83_lisinopril, 83_docusate, 83_Not specified, 83_omeprazole, 83_spironolactone, 83_oxycodone ; paracetamol (acetaminophen), 83_tamsulosin, 83_promethazine, 83_warfarin, 83_tramadol","83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued"
+135390,76_pantoprazole,76_discontinued
+135461,"83_atenolol, 83_atenolol, 83_atenolol, 83_metoprolol, 83_Not specified, 83_furosemide, 83_atropine, 83_Not specified, 83_metoprolol, 83_ondansetron, 83_Not specified, 83_glucagon, 83_Not specified","83_complete, 83_expired, 83_discontinued, 83_discontinued, 83_discontinued, 83_expired, 83_expired, 83_lapsed, 83_expired, 83_expired, 83_discontinued, 83_cancelled, 83_cancelled"
+135507,"85_warfarin, 85_nystatin ; triamcinolone","85_expired, 85_expired"
+135685,"73_sertraline, 73_apixaban, 73_furosemide, 73_amiodarone, 73_thiamine (vitamin b1) ; vitamin b-complex, plain, 73_atorvastatin, 73_folic acid, 73_trazodone","73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued, 73_discontinued"
+135750,"72_Not specified, 72_ipratropium bromide, 72_hydromorphone","72_discontinued, 72_discontinued, 72_discontinued"
+135917,"89_morphine ; paracetamol (acetaminophen), 89_morphine, 89_Not specified","89_discontinued, 89_discontinued, 89_discontinued"
+136003,84_formoterol,84_expired
+136230,56_meloxicam,56_cancelled
+136451,"68_phytomenadione (vitamin k1), 68_Not specified, 68_nitroprusside, 68_Not specified, 68_potassium chloride","68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued"
+136502,"68_insulin detemir, 68_isosorbide dinitrate, 68_carvedilol, 68_hydralazine, 68_furosemide, 68_furosemide, 68_carvedilol, 68_furosemide, 68_hydralazine, 68_isosorbide dinitrate, 68_insulin detemir","68_cancelled, 68_cancelled, 68_cancelled, 68_cancelled, 68_cancelled, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued"
+136533,52_rosuvastatin,52_active
+136544,"71_furosemide, 71_rosuvastatin","71_active, 71_active"
+136590,81_miconazole,81_discontinued
+136628,"77_ciprofloxacin, 77_Not specified, 77_mitomycin","77_expired, 77_expired, 77_expired"
+136730,63_furosemide,63_cancelled
+137040,"53_pertussis vaccines ; tetanus toxoid, 53_cefalexin, 53_clobetasol","53_expired, 53_expired, 53_expired"
+137111,61_sulfamethoxazole ; trimethoprim,61_discontinued
+137294,71_glibenclamide,71_discontinued
+137322,"69_acetylsalicylic acid, 69_furosemide","69_active, 69_active"
+137433,68_apixaban,68_discontinued
+137771,"40_amoxicillin, enzyme inhibitor, 40_ibuprofen, 40_chlorhexidine","40_expired, 40_expired, 40_active"
+137888,91_tramadol,91_discontinued
+137973,59_Not a medication,59_active
+138177,"88_metoprolol, 88_furosemide","88_discontinued, 88_discontinued"
+138195,42_topiramate,42_active
+138266,77_methotrexate,77_active
+138450,"80_metoprolol, 80_morphine","80_discontinued, 80_discontinued"
+138567,"70_ranitidine, 70_nystatin","70_discontinued, 70_discontinued"
+138579,"77_zoster, purified antigen, 77_metformin, 77_colecalciferol, 77_omeprazole, 77_atorvastatin, 77_verapamil, 77_amlodipine, 77_insulin glargine, 77_lisinopril","77_cancelled, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued, 77_discontinued"
+138631,"68_dopamine, 68_piperacillin ; tazobactam, 68_Not specified, 68_Not specified, 68_norepinephrine, 68_norepinephrine, 68_Not specified","68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued, 68_discontinued"
+138941,"65_Not specified, 65_Not specified","65_discontinued, 65_discontinued"
+138942,83_ergocalciferol,83_expired
+139521,"88_lorazepam, 88_glycopyrronium bromide, 88_atropine","88_cancelled, 88_cancelled, 88_cancelled"
+139741,"65_calcium carbonate, 65_paracetamol (acetaminophen), 65_alogliptin","65_active, 65_active, 65_active"
+139877,"71_tiotropium bromide, 71_ipratropium bromide ; salbutamol","71_discontinued, 71_discontinued"
+139982,84_Not specified,84_discontinued
+140213,63_lovastatin,63_cancelled
+140280,"80_atorvastatin, 80_zoster, purified antigen, 80_zoster, purified antigen, 80_zoster, purified antigen, 80_acetylsalicylic acid","80_active, 80_active, 80_expired, 80_active, 80_active"
+140430,73_dulaglutide,73_discontinued
+140556,65_soft paraffin and fat products,65_discontinued
+140757,77_simvastatin,77_discontinued
+141344,65_Not specified,65_expired
+141895,90_rivastigmine,90_discontinued
+141925,"92_Not a medication, 92_clindamycin, 92_memantine, 92_isosorbide mononitrate","92_discontinued, 92_discontinued, 92_discontinued, 92_discontinued"
+142117,78_darbepoetin alfa,78_expired
+142259,86_ipratropium bromide ; salbutamol,86_active
+143048,"72_glycopyrronium bromide, 72_glycopyrronium bromide, 72_oxycodone, 72_hydromorphone, 72_lorazepam, 72_haloperidol","72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued, 72_discontinued"
+143290,82_cefalexin,82_expired
+143291,"80_loperamide, 80_retinol (vitamin a)","80_discontinued, 80_discontinued"
+143356,78_morphine,78_discontinued
+143470,71_ferrous sulfate,71_discontinued
+143492,"94_morphine, 94_lorazepam","94_discontinued, 94_discontinued"
+143583,"63_povidone-iodine, 63_Not specified, 63_zinc","63_active, 63_expired, 63_active"
+143766,"89_isosorbide mononitrate, 89_doxazosin","89_discontinued, 89_discontinued"
+143885,65_simvastatin,65_discontinued
+144349,"60_diclofenac, 60_carbamide","60_active, 60_active"
+144351,93_triamcinolone,93_discontinued
+144395,"64_acetylsalicylic acid, 64_other emollients and protectives, 64_allopurinol, 64_levothyroxine sodium, 64_fluocinonide, 64_rosuvastatin, 64_Not specified","64_discontinued, 64_discontinued, 64_discontinued, 64_discontinued, 64_discontinued, 64_discontinued, 64_discontinued"
+144514,"77_metolazone, 77_ipratropium bromide, 77_salmeterol, 77_folic acid, 77_hydralazine, 77_prednisone, 77_ranitidine, 77_lovastatin, 77_isosorbide dinitrate, 77_fluticasone, 77_theophylline, 77_bumetanide","77_expired, 77_expired, 77_expired, 77_expired, 77_expired, 77_expired, 77_expired, 77_expired, 77_expired, 77_expired, 77_expired, 77_expired"
+144994,"82_atenolol, 82_levothyroxine sodium, 82_spironolactone, 82_venlafaxine, 82_lisinopril, 82_isosorbide mononitrate, 82_lisinopril","82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued"
+145086,"62_phytomenadione (vitamin k1), 62_phytomenadione (vitamin k1)","62_discontinued/edit, 62_discontinued"
+145249,88_furosemide,88_discontinued
+145480,64_glucose,64_discontinued
+145807,"85_metoprolol, 85_senna glycosides, 85_docusate, 85_Not specified, 85_docusate, 85_senna glycosides, 85_prednisone, 85_metoprolol","85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_cancelled, 85_cancelled, 85_discontinued, 85_cancelled"
+145995,"81_fosinopril, 81_magnesium oxide","81_discontinued, 81_discontinued"
+146092,"74_glipizide, 74_Not a medication, 74_lovastatin, 74_nifedipine, 74_Not a medication, 74_losartan, 74_ranitidine, 74_metformin, 74_rosiglitazone, 74_metoprolol, 74_furosemide","74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued"
+146246,95_lidocaine,95_discontinued
+146366,83_Not specified,83_active
+146435,73_bupropion,73_discontinued
+146481,73_sucralfate,73_discontinued
+146483,67_haloperidol,67_discontinued
+146487,"58_gabapentin, 58_other antipruritics ; salicylic acid and derivatives, 58_naproxen, 58_triamcinolone","58_expired, 58_expired, 58_expired, 58_cancelled"
+146510,"79_oxycodone, 79_morphine","79_expired, 79_expired"
+146612,90_guaifenesin,90_discontinued
+147111,"69_methocarbamol, 69_Not a medication, 69_captopril, 69_verapamil, 69_paracetamol (acetaminophen), 69_ferrous sulfate, 69_levothyroxine sodium, 69_allopurinol, 69_furosemide, 69_prazosin, 69_ascorbic acid (vitamin c) ; biotin ; calcium pantothenate ; cyanocobalamin ; folic acid ; nicotinic acid ; pyridoxine (vitamin b6) ; riboflavin (vitamin b2) ; thiamine (vitamin b1), 69_gemfibrozil, 69_cimetidine","69_expired, 69_expired, 69_expired, 69_expired, 69_expired, 69_expired, 69_expired, 69_expired, 69_expired, 69_expired, 69_expired, 69_expired, 69_expired"
+147237,"76_macrogol, 76_bisacodyl","76_expired, 76_expired"
+147420,"84_amiodarone, 84_hydrocodone ; paracetamol (acetaminophen), 84_simvastatin","84_discontinued, 84_discontinued, 84_discontinued"
+147606,90_salbutamol,90_discontinued
+147619,"85_morphine, 85_morphine, 85_tuberculin, 85_paracetamol (acetaminophen), 85_lidocaine, 85_paracetamol (acetaminophen), 85_ondansetron, 85_morphine, 85_bisacodyl, 85_Not specified, 85_Not a medication, 85_morphine, 85_morphine, 85_prochlorperazine, 85_morphine, 85_bisacodyl, 85_ipratropium bromide ; salbutamol, 85_ipratropium bromide ; salbutamol, 85_bisacodyl, 85_various, 85_tuberculin, 85_morphine, 85_dexamethasone, antiinfectives, 85_morphine, 85_ipratropium bromide ; salbutamol","85_cancelled, 85_cancelled, 85_discontinued/edit, 85_cancelled, 85_discontinued, 85_discontinued, 85_discontinued, 85_cancelled, 85_discontinued/edit, 85_discontinued, 85_discontinued, 85_cancelled, 85_cancelled, 85_cancelled, 85_cancelled, 85_discontinued/edit, 85_discontinued/edit, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued, 85_discontinued"
+147971,"89_multivitamins, combinations, 89_cyanocobalamin","89_discontinued, 89_discontinued"
+148042,80_procainamide,80_expired
+148654,"67_guaifenesin, 67_azithromycin, 67_ibuprofen, 67_ipratropium bromide","67_expired, 67_expired, 67_expired, 67_expired"
+148893,61_pregabalin,61_discontinued
+149040,"90_simvastatin, 90_finasteride","90_expired, 90_expired"
+149417,"83_potassium chloride, 83_carvedilol, 83_furosemide, 83_lisinopril, 83_levothyroxine sodium, 83_pantoprazole, 83_tamsulosin, 83_acetylsalicylic acid","83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued"
+149483,97_potassium chloride,97_discontinued
+149757,"89_budesonide ; formoterol, 89_ipratropium bromide ; salbutamol, 89_lorazepam, 89_atropine","89_discontinued, 89_discontinued, 89_discontinued, 89_cancelled"
+149787,"64_atropine, 64_atropine","64_discontinued/edit, 64_discontinued"
+150157,73_famotidine,73_active
+150783,71_diclofenac,71_active
+151159,"72_ethanol, 72_soft paraffin and fat products, 72_sodium","72_discontinued, 72_discontinued, 72_discontinued"
+151180,66_glucose,66_discontinued
+151359,"88_levodopa, decarboxylase inhibitor, 88_levodopa, decarboxylase inhibitor","88_cancelled, 88_discontinued"
+151375,68_budesonide ; formoterol,68_discontinued
+151867,100_furosemide,100_discontinued
+151921,"74_Not specified, 74_ciprofloxacin, 74_ciprofloxacin, 74_Not specified, 74_Not specified, 74_Not specified, 74_ciprofloxacin, 74_morphine","74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued"
+152040,71_fluticasone ; salmeterol,71_active
+152061,85_latanoprost,85_discontinued
+152238,71_nicotine,71_discontinued
+152481,"76_glyceryl trinitrate, 76_lansoprazole, 76_docusate, 76_acetylsalicylic acid, 76_hydrochlorothiazide, 76_furosemide, 76_lisinopril, 76_potassium chloride, 76_salbutamol, 76_digoxin, 76_triamcinolone","76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued, 76_discontinued"
+152587,92_Not a medication,92_expired
+152768,"66_dexamethasone, 66_temazepam, 66_levetiracetam, 66_ondansetron","66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued"
+152816,82_simvastatin,82_expired
+153055,83_salbutamol,83_discontinued
+153129,65_warfarin,65_expired
+153146,84_morphine,84_expired
+153207,"85_digoxin, 85_simvastatin","85_discontinued, 85_discontinued"
+153265,84_chlorhexidine,84_discontinued
+153408,"57_furosemide, 57_glibenclamide, 57_lisinopril, 57_acetylsalicylic acid, 57_clonidine, 57_potassium chloride","57_expired, 57_expired, 57_expired, 57_expired, 57_expired, 57_expired"
+153684,"71_ascorbic acid (vitamin c), 71_ferrous gluconate","71_active, 71_active"
+153870,84_darbepoetin alfa,84_discontinued
+153925,94_lactulose,94_expired
+154137,79_Not specified,79_discontinued
+154561,"84_melatonin, 84_buspirone, 84_empagliflozin, 84_insulin glargine, 84_insulin aspart fast-acting, 84_isopropanol, 84_Not a medication","84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued, 84_discontinued"
+154720,"58_acarbose, 58_Not a medication, 58_hydroxyzine, 58_hydrocortisone, 58_other antipruritics ; salicylic acid and derivatives, 58_Not specified, 58_carbamazepine, 58_carvedilol, 58_ipratropium bromide, 58_Not specified","58_discontinued, 58_discontinued, 58_discontinued, 58_discontinued, 58_discontinued, 58_discontinued/edit, 58_discontinued, 58_discontinued, 58_discontinued, 58_discontinued"
+154784,"72_salbutamol, 72_thiamine (vitamin b1)","72_active, 72_active"
+154957,"82_glyceryl trinitrate, 82_carvedilol, 82_digoxin, 82_docusate, 82_salbutamol, 82_furosemide, 82_temazepam, 82_hydrocodone ; paracetamol (acetaminophen)","82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_expired, 82_expired"
+155331,"95_Not specified, 95_Not a medication, 95_Not a medication","95_discontinued, 95_discontinued, 95_discontinued"
+155332,91_cefalexin,91_expired
+156508,"57_lidocaine, 57_Not a medication, 57_Not specified, 57_gabapentin","57_active, 57_active, 57_active, 57_active"
+156560,"76_ferrous gluconate, 76_atorvastatin, 76_Not specified, 76_carvedilol, 76_sildenafil, 76_bupropion, 76_trazodone, 76_pantoprazole, 76_mirtazapine","76_active, 76_active, 76_active, 76_active, 76_active, 76_active, 76_active, 76_active, 76_active"
+156667,88_timolol,88_discontinued
+156705,"84_salbutamol, 84_ipratropium bromide","84_discontinued, 84_discontinued"
+156719,66_oxycodone,66_discontinued
+156832,72_oxycodone,72_active
+156956,"82_metoclopramide, 82_hydralazine","82_discontinued, 82_discontinued"
+157002,78_simvastatin,78_expired
+157362,84_moxifloxacin,84_complete
+157826,"55_oxycodone, 55_oxycodone","55_expired, 55_expired"
+157903,"90_colecalciferol, 90_alfuzosin, 90_metformin, 90_lisinopril","90_active, 90_active, 90_active, 90_active"
+157947,"85_valproic acid, 85_risperidone","85_discontinued, 85_discontinued"
+157952,77_zinc,77_expired
+157987,67_iodixanol,67_discontinued
+158264,"71_potassium phosphate, including combinations with other potassium salts",71_discontinued
+158472,"79_camphor ; other antipruritics, 79_ipratropium bromide ; salbutamol, 79_methylprednisolone, 79_Not specified, 79_paracetamol (acetaminophen)","79_discontinued, 79_expired, 79_expired, 79_expired, 79_cancelled"
+158742,"77_hydromorphone, 77_midazolam","77_discontinued, 77_discontinued"
+158889,"64_povidone-iodine, 64_Not a medication","64_discontinued, 64_discontinued"
+159062,83_acetylsalicylic acid ; dipyridamole,83_expired
+159640,79_carvedilol,79_expired
+159755,72_metoprolol,72_discontinued
+160058,"83_clonazepam, 83_phenytoin, 83_folic acid, 83_furosemide, 83_potassium chloride, 83_morphine, 83_glyceryl trinitrate, 83_Not specified, 83_methylprednisolone, 83_ceftriaxone, 83_ipratropium bromide, 83_atropine, 83_prochlorperazine, 83_pethidine, 83_hydroxyzine, 83_paracetamol (acetaminophen), 83_codeine ; paracetamol (acetaminophen), 83_magnesium hydroxide, 83_temazepam, 83_codeine ; paracetamol (acetaminophen), 83_paracetamol (acetaminophen), 83_pethidine, 83_hydroxyzine, 83_magnesium hydroxide, 83_temazepam","83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_expired, 83_discontinued, 83_expired, 83_discontinued, 83_expired, 83_expired, 83_discontinued/edit, 83_discontinued/edit, 83_discontinued/edit, 83_discontinued/edit, 83_discontinued/edit, 83_discontinued/edit, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued"
+160193,"68_metformin, 68_insulin glargine","68_active, 68_active"
+160215,81_lorazepam,81_expired
+161317,"89_dexamethasone, 89_metoprolol, 89_paracetamol (acetaminophen), 89_other antipruritics ; salicylic acid and derivatives, 89_alprazolam, 89_diphenhydramine, 89_ethanol, 89_guaifenesin, 89_ondansetron, 89_Not specified, 89_Not specified, 89_Not specified, 89_chlorhexidine, 89_atropine, 89_fentanyl","89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued, 89_discontinued"
+161353,"54_insulins and analogues for injection, fast-acting",54_discontinued
+161449,"98_furosemide, 98_acetylsalicylic acid, 98_latanoprost","98_active, 98_active, 98_active"
+161539,89_hydralazine,89_active
+161807,"62_valsartan, sacubitril, 62_temazepam, 62_rivaroxaban, 62_acetylsalicylic acid, 62_salbutamol","62_active, 62_active, 62_active, 62_active, 62_active"
+161864,"97_other antipruritics ; salicylic acid and derivatives, 97_tramadol, 97_capsaicin","97_cancelled, 97_expired, 97_expired"
+161905,89_guaifenesin,89_discontinued
+161933,"56_ergocalciferol, 56_vitamin d and analogues","56_discontinued, 56_discontinued"
+161971,"69_oxycodone, 69_amitriptyline, 69_pravastatin, 69_tadalafil, 69_allopurinol","69_expired, 69_active, 69_active, 69_active, 69_active"
+162002,76_glyceryl trinitrate,76_active
+162077,"82_prednisone, 82_prednisone, 82_azithromycin, 82_Not a medication, 82_benzalkonium, 82_Not specified","82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued, 82_discontinued"
+162217,"85_clopidogrel, 85_rivaroxaban, 85_potassium chloride, 85_levothyroxine sodium, 85_furosemide, 85_atorvastatin, 85_amiodarone, 85_liothyronine sodium, 85_metoprolol, 85_mirabegron, 85_pantoprazole, 85_potassium chloride, 85_colecalciferol","85_unreleased, 85_unreleased, 85_unreleased, 85_unreleased, 85_unreleased, 85_unreleased, 85_unreleased, 85_unreleased, 85_unreleased, 85_unreleased, 85_unreleased, 85_unreleased, 85_unreleased"
+162316,"61_Not specified, 61_Not specified","61_discontinued, 61_discontinued"
+162328,"81_morphine, 81_morphine, 81_ethanol","81_discontinued/edit, 81_discontinued, 81_discontinued"
+162355,"66_hydrochlorothiazide, 66_allopurinol, 66_metoprolol, 66_metformin, 66_atorvastatin","66_active, 66_active, 66_active, 66_active, 66_active"
+162404,"74_furosemide, 74_rabeprazole, 74_potassium chloride, 74_Not specified, 74_temazepam, 74_ipratropium bromide ; salbutamol, 74_bupropion, 74_salbutamol, 74_warfarin, 74_digoxin, 74_diltiazem, 74_spironolactone, 74_mirtazapine","74_expired, 74_expired, 74_expired, 74_expired, 74_expired, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued, 74_discontinued"
+162507,"54_colecalciferol, 54_bumetanide, 54_Not specified, 54_folic acid, 54_metoprolol ; oxymetazoline, 54_metolazone, 54_multivitamins with minerals, 54_thiamine (vitamin b1), 54_valsartan, sacubitril, 54_Not specified","54_cancelled, 54_expired, 54_cancelled, 54_cancelled, 54_discontinued, 54_expired, 54_cancelled, 54_cancelled, 54_discontinued, 54_discontinued"
+162727,85_warfarin,85_discontinued
+162755,"58_salbutamol, 58_lidocaine ; prilocaine, 58_gabapentin, 58_fluticasone, 58_hydroxyzine, 58_salbutamol, 58_montelukast, 58_electrolytes ; macrogol ; potassium chloride ; sodium chloride ; sodium sulfate, 58_Not specified, 58_Not specified","58_active, 58_expired, 58_expired, 58_active, 58_expired, 58_active, 58_active, 58_expired, 58_discontinued/edit, 58_active"
+163120,82_benzonatate,82_discontinued
+163598,"51_multivitamins, combinations",51_active
+163686,"66_oxycodone, 66_oxycodone, 66_oxycodone, 66_oxycodone, 66_contact laxatives, 66_prochlorperazine","66_discontinued/edit, 66_discontinued/edit, 66_discontinued, 66_discontinued, 66_discontinued, 66_discontinued"
+163867,80_insulin aspart fast-acting,80_discontinued
+163951,"83_bumetanide, 83_morphine, 83_lorazepam, 83_midodrine, 83_bumetanide, 83_amoxicillin, enzyme inhibitor, 83_ipratropium bromide ; salbutamol, 83_lidocaine, 83_morphine, 83_morphine","83_expired, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_discontinued, 83_cancelled, 83_discontinued"
+164176,82_promethazine,82_discontinued
+164385,"96_potassium chloride, 96_tamsulosin, 96_torasemide, 96_pantoprazole, 96_metoprolol, 96_atorvastatin","96_discontinued, 96_discontinued, 96_cancelled, 96_discontinued, 96_discontinued, 96_discontinued"
+164582,85_paroxetine,85_discontinued
+164617,78_fluticasone,78_discontinued
+165235,"70_metoprolol, 70_metoprolol","70_cancelled, 70_active"
+165265,85_loratadine,85_expired
+165284,69_mexiletine,69_active
+165445,"59_morphine, 59_morphine","59_expired, 59_expired"
+165517,"81_metoprolol, 81_irbesartan, 81_metoprolol","81_discontinued/edit, 81_discontinued, 81_discontinued"
+165836,"84_vancomycin, 84_vancomycin, 84_vancomycin","84_discontinued, 84_expired, 84_complete"
+165904,87_furosemide,87_discontinued
+166007,"67_prednisone, 67_Not specified, 67_salbutamol, 67_flunisolide","67_discontinued, 67_discontinued, 67_discontinued, 67_discontinued"
+166169,83_Not specified,83_expired
+166211,"84_cefepime, 84_cefepime, 84_salbutamol, 84_salbutamol, 84_lorazepam, 84_buspirone","84_discontinued/edit, 84_discontinued, 84_discontinued/edit, 84_discontinued, 84_discontinued, 84_discontinued"
+166229,43_clonidine,43_complete
+166535,"76_tamsulosin, 76_clopidogrel","76_active, 76_active"
+166603,89_Not specified,89_expired
+166671,"81_hydrocortisone, 81_ketoconazole, 81_clobetasol","81_active, 81_active, 81_active"
+166856,"69_codeine, 69_levetiracetam, 69_amlodipine, 69_omeprazole, 69_levetiracetam, 69_simvastatin, 69_carvedilol, 69_hydralazine, 69_tramadol, 69_trazodone, 69_acetylsalicylic acid","69_active, 69_active, 69_active, 69_active, 69_active, 69_active, 69_active, 69_active, 69_active, 69_active, 69_active"
+166881,77_oxycodone ; paracetamol (acetaminophen),77_expired
+167102,"81_lisinopril, 81_lisinopril","81_active, 81_cancelled"
+167404,78_diazepam,78_discontinued
+167842,"75_hydrocodone ; paracetamol (acetaminophen), 75_omeprazole, 75_morphine","75_active, 75_active, 75_active"
+167907,88_furosemide,88_discontinued
+167917,51_carvedilol,51_active
+168008,"73_hydromorphone, 73_hydromorphone, 73_hydromorphone, 73_haloperidol, 73_hydromorphone","73_expired, 73_complete, 73_discontinued/edit, 73_discontinued, 73_discontinued"
+168496,"99_fluticasone, 99_fluticasone","99_cancelled, 99_pending"
+168899,97_dutasteride,97_discontinued

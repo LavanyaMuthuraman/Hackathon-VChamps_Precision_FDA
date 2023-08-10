@@ -1,0 +1,633 @@
+,Internalpatientid,inpatient_admissions_First_listed_discharge_diagnosis_icd10_subcategory,inpatient_admissions_Second_listed_discharge_diagnosis_icd10_subcategory
+0,67,57_COVID-19,"57_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+1,200,84_Acute and chronic respiratory failure,84_(Censored)
+2,291,"83_Malignant neoplasm of middle lobe, bronchus or lung",83_Secondary malignant neoplasm of lung
+3,330,73_Other specified sepsis,73_Other specified bacterial agents as the cause of diseases classified elsewhere
+4,351,86_Hypertensive heart disease with heart failure,86_Diastolic (congestive) heart failure
+5,444,"70_Atherosclerosis of native arteries of the extremities ; Peripheral vascular disease, unspecified",70_Postprocedural shock
+6,785,73_Occlusion and stenosis of carotid artery,73_Type 2 diabetes mellitus with other specified complications
+7,960,"59_Non-pressure chronic ulcer of other part of foot,59_Encounter for other specified aftercare","59_Cutaneous abscess, furuncle and carbuncle of foot ; Cellulitis and acute lymphangitis of other parts of limb,59_Other specified disorders of muscle"
+8,1429,82_Non-ST elevation (NSTEMI) myocardial infarction,82_Acute respiratory failure
+9,1477,"86_Pneumonia, unspecified organism","86_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified"
+10,1568,68_Unspecified atrial fibrillation and atrial flutter,68_Encounter for adjustment and management of cardiac device
+11,1805,"84_Sepsis, unspecified organism",84_Essential (primary) hypertension
+12,2500,61_Unspecified abdominal pain,61_Hypokalemia
+13,3450,70_Unilateral primary osteoarthritis of hip,70_Essential (primary) hypertension
+14,3547,"78_Combined systolic (congestive) and diastolic (congestive) heart failure,78_Combined systolic (congestive) and diastolic (congestive) heart failure","78_Major depressive disorder, single episode, moderate,78_Vascular dementia"
+15,3606,64_Cocaine dependence,64_Systolic (congestive) heart failure
+16,4128,"76_Heart failure, unspecified",76_Other forms of chronic ischemic heart disease
+17,4177,"87_Collapsed vertebra, not elsewhere classified,87_Pain in joint","87_Disorder of kidney and ureter, unspecified,87_Opioid abuse"
+18,4203,"66_Hydronephrosis with renal and ureteral calculous obstruction,66_Hydronephrosis with renal and ureteral calculous obstruction","66_Mechanical complication of other vascular grafts,66_Mechanical complication of other vascular grafts"
+19,4246,68_Systolic (congestive) heart failure,"68_Heart failure, unspecified"
+20,4611,66_Ventricular tachycardia,66_Pleural effusion in other conditions classified elsewhere
+21,4641,"84_Myelodysplastic syndrome, unspecified","84_Non-Hodgkin lymphoma, unspecified"
+22,4845,68_Hypertensive heart disease with heart failure,68_Diastolic (congestive) heart failure
+23,5653,"64_Heart failure, unspecified",64_Pulmonary embolism without acute cor pulmonale
+24,5872,"52_Not specified,52_Acute myeloblastic leukemia","52_Acute myeloblastic leukemia,52_Other streptococcus as the cause of diseases classified elsewhere"
+25,6370,"98_Lobar pneumonia, unspecified organism",98_Dysphagia
+26,6421,"72_Sepsis, unspecified organism",72_Acute and chronic respiratory failure
+27,6584,62_Gastro-esophageal reflux disease without esophagitis,62_Other chest pain
+28,6859,78_Alcohol dependence,78_Hypo-osmolality and hyponatremia
+29,7185,88_Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,88_Dysphasia and aphasia
+30,7320,72_Atherosclerotic heart disease of native coronary artery,72_Diastolic (congestive) heart failure
+31,7572,"84_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",84_Diastolic (congestive) heart failure
+32,7792,"56_Chronic atrophic gastritis,56_Unstable angina","56_Iron deficiency anemia secondary to blood loss (chronic),56_Acute kidney failure, unspecified"
+33,7925,85_Chronic osteomyelitis with draining sinus,85_Stricture of artery
+34,8286,"79_Transient cerebral ischemic attack, unspecified",79_Not specified
+35,8320,80_Secondary malignant neoplasm of liver and intrahepatic bile duct,80_Personal history of malignant neoplasm of digestive organs
+36,9535,"76_Nausea with vomiting, unspecified",76_Hypovolemia
+37,9929,74_Ventricular tachycardia,74_End stage renal disease
+38,9947,76_Acute and chronic respiratory failure,76_Chronic obstructive pulmonary disease with (acute) exacerbation
+39,10469,68_Other symptoms and signs involving cognitive functions and awareness,68_Essential (primary) hypertension
+40,10505,72_Acute respiratory failure,"72_Pneumonia, unspecified organism"
+41,10633,70_Cellulitis and acute lymphangitis of other parts of limb,"70_Sepsis, unspecified organism"
+42,10948,"78_Major depressive disorder, single episode, unspecified",78_Other symptoms and signs involving emotional state
+43,11618,65_Other chest pain,65_Other symptoms and signs involving emotional state
+44,12356,88_Unilateral primary osteoarthritis of hip,88_Arthritis and polyarthritis due to other bacteria
+45,12457,66_Atherosclerotic heart disease of native coronary artery,66_Presence of aortocoronary bypass graft ; Other specified postprocedural states
+46,12601,"85_Acute kidney failure, unspecified","85_Urinary tract infection, site not specified"
+47,13257,82_Acute respiratory failure,82_Pneumonitis due to inhalation of food and vomit
+48,13910,"58_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified ; Unspecified kidney failure,58_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified ; Unspecified kidney failure,58_Cocaine dependence,58_End stage renal disease,58_Acute embolism and thrombosis of veins of upper extremity","58_Type 2 diabetes mellitus with kidney complications,58_End stage renal disease,58_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified ; Unspecified kidney failure,58_Encounter for other specified aftercare,58_End stage renal disease"
+49,14169,"59_Mechanical complication of other internal orthopedic devices, implants and grafts","59_Poisoning by, adverse effect of and underdosing of other and unspecified drugs, medicaments and biological substances"
+50,14532,"74_Chronic obstructive pulmonary disease with (acute) exacerbation,74_Chronic obstructive pulmonary disease with (acute) exacerbation,74_Acute respiratory failure","74_Urinary tract infection, site not specified,74_Urinary tract infection, site not specified,74_Chronic obstructive pulmonary disease with (acute) exacerbation"
+51,14918,59_Other restrictive cardiomyopathy,59_Systolic (congestive) heart failure
+52,15529,"97_Obstructive and reflux uropathy, unspecified","97_Acute kidney failure, unspecified"
+53,15548,"77_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",77_Diastolic (congestive) heart failure
+54,15803,"84_Acute kidney failure, unspecified",84_Hypo-osmolality and hyponatremia
+55,16325,78_Malignant neoplasm of overlapping sites of bladder,78_Other and unspecified encephalopathy
+56,16588,66_Other esophagitis,66_Hematemesis
+57,16841,"91_Heart failure, unspecified",91_Unspecified atrial fibrillation and atrial flutter
+58,16955,"78_Heart failure, unspecified,78_Acute respiratory failure,78_Chronic obstructive pulmonary disease with (acute) exacerbation","78_Diastolic (congestive) heart failure,78_Chronic obstructive pulmonary disease with (acute) exacerbation,78_Acute respiratory failure"
+59,17182,76_Sepsis due to other Gram-negative organisms,"76_Urinary tract infection, site not specified"
+60,17193,"58_Osteoarthritis, unspecified site",58_Not specified
+61,17216,"66_Volume depletion, unspecified","66_Diarrhea, unspecified"
+62,17326,93_Unspecified protein-calorie malnutrition,"93_Cerebral infarction, unspecified"
+63,17380,"81_Chest pain, unspecified","81_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+64,18270,"93_Urinary tract infection, site not specified",93_Hypo-osmolality and hyponatremia
+65,18389,"82_Heart failure, unspecified,82_Heart failure, unspecified,82_Other interstitial pulmonary diseases with fibrosis","82_Other interstitial pulmonary diseases with fibrosis,82_Pulmonary embolism without acute cor pulmonale,82_Heart failure, unspecified"
+66,18599,"62_Osteoarthritis, unspecified site",62_Not specified
+67,18775,"68_Major depressive disorder, single episode, unspecified",68_Type 1 diabetes mellitus without complications
+68,18839,69_Encounter for other specified aftercare,69_Not specified
+69,19714,"76_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",76_Diastolic (congestive) heart failure
+70,20630,72_Post-traumatic stress disorder (PTSD),"72_Major depressive disorder, recurrent, unspecified"
+71,20814,68_Other restrictive cardiomyopathy,68_Essential (primary) hypertension
+72,20962,86_Unspecified mental disorder due to known physiological condition,86_Unspecified convulsions
+73,21338,85_Parkinson's disease,"85_Acute kidney failure, unspecified"
+74,21360,77_Unspecified atrial fibrillation and atrial flutter,77_Systolic (congestive) heart failure
+75,21426,84_Unspecified atrial fibrillation and atrial flutter,84_Melena
+76,21909,64_Not specified,64_Not specified
+77,22107,91_Unspecified atrial fibrillation and atrial flutter,91_Pleural effusion in other conditions classified elsewhere
+78,22154,70_Acute pancreatitis,70_Alcohol dependence
+79,22221,74_Pneumonia due to Klebsiella pneumoniae,74_Chronic lymphocytic leukemia of B-cell type
+80,23414,80_Encounter for other specified aftercare,80_Encounter for fitting and adjustment of artificial leg
+81,23485,79_Hypertensive heart disease with heart failure,79_Acute and chronic respiratory failure
+82,23626,"59_Heart failure, unspecified","59_Chronic obstructive pulmonary disease, unspecified"
+83,23850,66_Rheumatic disorders of both mitral and aortic valves,"66_Abdominal aortic aneurysm, without rupture"
+84,24374,"88_Sepsis, unspecified organism",88_Systemic inflammatory response syndrome (SIRS) of non-infectious origin
+85,24552,71_Cerebral infarction due to embolism of cerebral arteries,"71_Hemiplegia, unspecified"
+86,24984,"71_Hypotension, unspecified","71_Poisoning by, adverse effect of and underdosing of other and unspecified drugs, medicaments and biological substances"
+87,25241,65_Ventricular tachycardia,"65_Urinary tract infection, site not specified"
+88,25516,"70_Syncope and collapse,70_Orthostatic hypotension","70_Diastolic (congestive) heart failure,70_Acute respiratory failure"
+89,25654,"87_Bradycardia, unspecified",87_Essential (primary) hypertension
+90,26517,75_Encounter for other orthopedic aftercare,75_Encounter for palliative care
+91,26762,"73_Acute and chronic respiratory failure,73_Acute and chronic respiratory failure","73_Chronic obstructive pulmonary disease, unspecified,73_Heart failure, unspecified"
+92,26981,74_Varicose veins of lower extremities with both ulcer and inflammation,74_Cellulitis and acute lymphangitis of other parts of limb
+93,27031,"81_Adult failure to thrive,81_Other esophagitis","81_Malignant neoplasm of upper lobe, bronchus or lung,81_Malignant neoplasm of unspecified part of bronchus or lung"
+94,27819,"78_Infections following infusion, transfusion and therapeutic injection",78_Other type of myocardial infarction
+95,27940,67_Incisional hernia without obstruction or gangrene,67_Tobacco use
+96,27998,60_Malignant neoplasm of unspecified part of bronchus or lung,60_Secondary malignant neoplasm of pleura
+97,28154,74_Chronic obstructive pulmonary disease with (acute) exacerbation,"74_Edema, unspecified"
+98,28682,65_Acute respiratory failure,65_Pneumonitis due to inhalation of food and vomit
+99,28878,68_Persistent atrial fibrillation,68_Other forms of chronic ischemic heart disease
+100,28938,68_Alcohol dependence,"68_Major depressive disorder, recurrent, unspecified"
+101,28954,78_COVID-19,78_Other viral pneumonia
+102,29315,90_Unspecified abnormalities of gait and mobility,90_Unspecified dementia
+103,29412,76_Chronic obstructive pulmonary disease with (acute) exacerbation,76_Chronic obstructive pulmonary disease with (acute) lower respiratory infection
+104,29488,84_Sepsis due to other Gram-negative organisms,84_Diastolic (congestive) heart failure
+105,29765,"67_Encounter for attention to dressings, sutures and drains",67_Presence of other cardiac and vascular implants and grafts
+106,29798,"64_Malignant neoplasm of lower lobe, bronchus or lung",64_Essential (primary) hypertension
+107,29913,84_(Censored),84_End stage renal disease
+108,30073,76_Chronic respiratory failure,76_Chronic obstructive pulmonary disease with (acute) exacerbation
+109,30137,"67_Heart failure, unspecified","67_Acute kidney failure, unspecified"
+110,30772,"66_Other chest pain,66_Heart failure, unspecified","66_Heart failure, unspecified,66_Atherosclerotic heart disease of native coronary artery"
+111,30868,77_ST elevation (STEMI) myocardial infarction of unspecified site,"77_Heart failure, unspecified"
+112,30933,"61_Other specified complications of surgical and medical care, not elsewhere classified","61_Hemorrhage, not elsewhere classified"
+113,31356,88_Non-ST elevation (NSTEMI) myocardial infarction,"88_Pneumonia, unspecified organism"
+114,32615,74_Precordial pain,"74_Heart failure, unspecified"
+115,32652,70_Atherosclerotic heart disease of native coronary artery,70_Systolic (congestive) heart failure
+116,32970,65_Pneumonitis due to inhalation of food and vomit,65_Opioid dependence
+117,33411,79_Nonrheumatic aortic (valve) stenosis,79_Encounter for examination for normal comparison and control in clinical research program
+118,34287,"86_Interstitial pulmonary disease, unspecified",86_Acute and chronic respiratory failure
+119,34385,"85_Sepsis, unspecified organism",85_Systemic inflammatory response syndrome (SIRS) of non-infectious origin
+120,35076,"64_Bladder disorder, unspecified",64_Gross hematuria
+121,35087,"81_Anemia, unspecified,81_Malignant neoplasm of prostate","81_Gastrointestinal hemorrhage, unspecified,81_Systemic inflammatory response syndrome (SIRS) of non-infectious origin"
+122,35332,"67_Heart failure, unspecified","67_Chronic obstructive pulmonary disease, unspecified"
+123,36160,"90_Heart failure, unspecified",90_Essential (primary) hypertension
+124,36281,"76_Anemia, unspecified,76_Gastrointestinal hemorrhage, unspecified,76_Sepsis due to other Gram-negative organisms","76_Gastrointestinal hemorrhage, unspecified,76_Sepsis due to other Gram-negative organisms,76_Gastrointestinal hemorrhage, unspecified"
+125,36414,57_Idiopathic aseptic necrosis of bone,57_Unspecified atrial fibrillation and atrial flutter
+126,36434,72_Acute respiratory failure,72_Acute and subacute hepatic failure
+127,36766,70_Acute pancreatitis,"70_Thrombocytopenia, unspecified"
+128,36905,83_Other abnormalities of breathing,83_Pneumonitis due to inhalation of food and vomit
+129,37152,60_Ventricular tachycardia,60_Other specified cardiac arrhythmias
+130,37366,"76_Sepsis due to streptococcus, group B",76_Acute and subacute infective endocarditis
+131,37417,"72_Encounter for other specified aftercare,72_Sepsis, unspecified organism","72_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified ; Unspecified kidney failure,72_Candidiasis, unspecified"
+132,37508,"66_Combined systolic (congestive) and diastolic (congestive) heart failure,66_Other malaise and fatigue","66_Sequelae of cerebral infarction,66_Sequelae of cerebral infarction"
+133,37682,"67_Abdominal aortic aneurysm, without rupture",67_Infection following a procedure
+134,38043,65_Other cerebral infarction,65_Diastolic (congestive) heart failure
+135,38493,"80_Hypotension, unspecified","80_Acute kidney failure, unspecified"
+136,38585,84_Vascular dementia,84_Cerebral atherosclerosis
+137,38696,"79_Pleural effusion, not elsewhere classified",79_Hypertensive heart disease with heart failure
+138,38785,77_Systolic (congestive) heart failure,77_Non-ST elevation (NSTEMI) myocardial infarction
+139,39394,50_Alcohol dependence,50_Alcohol dependence
+140,39490,"70_Pneumonia, unspecified organism",70_Systolic (congestive) heart failure
+141,39707,"95_Hypertensive urgency,95_Other acute kidney failure,95_Other acute kidney failure,95_Other acute kidney failure","95_Diastolic (congestive) heart failure,95_Secondary malignant neoplasm of bone and bone marrow,95_Secondary malignant neoplasm of bone and bone marrow,95_Hypo-osmolality and hyponatremia"
+142,39771,77_Chronic obstructive pulmonary disease with (acute) exacerbation,77_Other type of myocardial infarction
+143,39909,55_Other intraoperative and postprocedural complications and disorders of digestive system,55_Melena
+144,39975,94_Pulmonary embolism without acute cor pulmonale,94_Essential (primary) hypertension
+145,40058,65_Multiple myeloma,"65_Pneumonia, unspecified organism"
+146,40152,71_Atherosclerotic heart disease of native coronary artery,71_Other forms of angina pectoris
+147,40532,82_Calculus of bile duct with cholangitis,"82_Gastrointestinal hemorrhage, unspecified"
+148,41041,94_Fracture of lumbar vertebra,94_Retroperitoneal abscess
+149,41309,66_Encounter for other specified aftercare,"66_Myositis, unspecified"
+150,41407,50_(Censored),50_Cryptococcosis
+151,41595,"69_Iron deficiency anemia, unspecified",69_Other forms of acute ischemic heart disease
+152,41667,"74_Chest pain, unspecified,74_Urinary tract infection, site not specified","74_Urinary tract infection, site not specified,74_Chronic respiratory failure"
+153,41761,"57_Heart failure, unspecified",57_Atherosclerotic heart disease of native coronary artery
+154,42402,76_(Censored),"76_Cutaneous abscess, furuncle and carbuncle of foot ; Cellulitis and acute lymphangitis of other parts of limb"
+155,42933,"67_Pathological fracture, not elsewhere classified",67_Subacute osteomyelitis
+156,42951,76_Unspecified mental disorder due to known physiological condition,"76_Heart failure, unspecified"
+157,43104,"85_Sepsis, unspecified organism",85_Unspecified bacterial pneumonia
+158,43141,80_Traumatic ischemia of muscle,80_ST elevation (STEMI) myocardial infarction of unspecified site
+159,43238,84_(Censored),84_Unspecified protein-calorie malnutrition
+160,43476,"66_Heart failure, unspecified",66_Unspecified atrial fibrillation and atrial flutter
+161,43802,72_Hypotension due to drugs,"72_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+162,44003,"62_Chest pain, unspecified","62_Acute pancreatitis, unspecified"
+163,44393,"89_Acute kidney failure, unspecified","89_Pneumonia, unspecified organism"
+164,44835,"86_Malignant neoplasm of unspecified part of bronchus or lung,86_Malignant neoplasm of unspecified part of bronchus or lung","86_Unspecified severe protein-calorie malnutrition,86_Unspecified severe protein-calorie malnutrition"
+165,44836,77_Paroxysmal atrial fibrillation,"77_Cardiomyopathy, unspecified"
+166,45161,"62_Urinary tract infection, site not specified","62_Pneumonia, unspecified organism"
+167,45285,"77_Heart failure, unspecified",77_Type 2 diabetes mellitus without complications
+168,45342,71_Systolic (congestive) heart failure,71_Acute kidney failure with tubular necrosis
+169,45742,72_Spinal stenosis,72_Cervical disc disorder with myelopathy
+170,46039,"76_Dyspnea,76_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease","76_Other intraoperative and postprocedural complications and disorders of nervous system,76_Diastolic (congestive) heart failure"
+171,46107,72_Other interstitial pulmonary diseases with fibrosis,72_Acute pulmonary coccidioidomycosis
+172,46154,93_Sprain of ligaments of thoracic spine,93_Unspecified atrial fibrillation and atrial flutter
+173,46177,"90_Urinary tract infection, site not specified,90_Hypo-osmolality and hyponatremia","90_Hypo-osmolality and hyponatremia,90_Urinary tract infection, site not specified"
+174,46189,68_Acute cholecystitis,"68_Chronic obstructive pulmonary disease, unspecified"
+175,47012,29_Post-traumatic stress disorder (PTSD),29_Other symptoms and signs involving emotional state
+176,47138,"74_Chronic pulmonary edema,74_Heart failure, unspecified","74_Unspecified bacterial pneumonia,74_Urinary tract infection, site not specified"
+177,47454,85_Diverticular disease of large intestine without perforation or abscess,85_Diastolic (congestive) heart failure
+178,48647,"87_Other and unspecified intestinal obstruction,87_Secondary malignant neoplasm of retroperitoneum and peritoneum,87_Encounter for attention to dressings, sutures and drains,87_Hematuria, unspecified","87_Malignant melanoma of skin, unspecified,87_Secondary malignant neoplasm of liver and intrahepatic bile duct,87_Not specified,87_Encounter for attention to colostomy"
+179,49014,71_Other chest pain,71_Pain localized to upper abdomen
+180,49127,69_Sick sinus syndrome,"69_Atrioventricular block, first degree"
+181,50264,"93_Pneumonia, unspecified organism",93_Diastolic (congestive) heart failure
+182,50323,"74_Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts,74_Chronic kidney disease, unspecified ; Unspecified kidney failure,74_Unspecified complication of internal prosthetic device, implant and graft","74_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified ; Unspecified kidney failure,74_Calculus of bile duct without cholangitis or cholecystitis,74_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified ; Unspecified kidney failure"
+183,50345,59_Other chronic osteomyelitis,59_Pressure ulcer of unspecified site
+184,51070,91_Acute and chronic respiratory failure,91_Unspecified bacterial pneumonia
+185,51215,88_Other specified cerebrovascular diseases,"88_Urinary tract infection, site not specified"
+186,51456,"70_Tachycardia, unspecified","70_Malignant neoplasm of esophagus, unspecified"
+187,51551,61_Systolic (congestive) heart failure,61_Acute respiratory failure
+188,52128,77_Encounter for other specified postprocedural aftercare,77_Unspecified protein-calorie malnutrition
+189,52143,"74_Polyosteoarthritis, unspecified ; Osteoarthritis, unspecified site","74_Urinary tract infection, site not specified"
+190,52256,72_Encounter for other specified postprocedural aftercare,72_Encounter for aftercare following organ transplant
+191,52608,82_Other specified sepsis,82_Severe sepsis
+192,52681,85_Other symptoms and signs involving cognitive functions and awareness,"85_Hypotension, unspecified"
+193,52752,"82_Diastolic (congestive) heart failure,82_Chronic obstructive pulmonary disease with (acute) exacerbation","82_Chronic obstructive pulmonary disease with (acute) exacerbation,82_Diastolic (congestive) heart failure"
+194,52767,"78_Unspecified psychosis not due to a substance or known physiological condition,78_Unspecified psychosis not due to a substance or known physiological condition","78_Other and unspecified encephalopathy,78_Other and unspecified encephalopathy"
+195,52886,73_Sepsis due to other Gram-negative organisms,"73_Acute kidney failure, unspecified"
+196,52973,74_Unstable angina,74_Essential (primary) hypertension
+197,53150,70_Portal vein thrombosis,70_Sepsis due to other Gram-negative organisms
+198,53236,70_Malignant neoplasm of prostate,"70_Pneumonia, unspecified organism"
+199,53548,"83_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease,83_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease","83_Systolic (congestive) heart failure,83_Combined systolic (congestive) and diastolic (congestive) heart failure"
+200,53703,75_Spinal stenosis,75_Other intraoperative and postprocedural complications and disorders of digestive system
+201,53843,72_Other diseases of spleen,72_Acute and subacute infective endocarditis
+202,54446,61_Unspecified atrial fibrillation and atrial flutter,"61_Hypotension, unspecified"
+203,54638,"91_Sepsis, unspecified organism",91_Systemic inflammatory response syndrome (SIRS) of non-infectious origin
+204,54669,66_Umbilical hernia without obstruction or gangrene,66_End stage renal disease
+205,55398,72_Other diseases of vocal cords,72_Personal history of other specified conditions
+206,55492,68_Post-traumatic stress disorder (PTSD),68_Cannabis dependence
+207,56635,"69_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease,69_Weakness","69_Diastolic (congestive) heart failure,69_Not specified"
+208,56968,"56_Unstable angina,56_Chronic obstructive pulmonary disease with (acute) exacerbation","56_Acute kidney failure, unspecified,56_Other restrictive cardiomyopathy"
+209,57173,86_Alcohol dependence,"86_Chronic obstructive pulmonary disease, unspecified"
+210,57987,84_Benign neoplasm of nasopharynx,84_Atherosclerotic heart disease of native coronary artery
+211,58641,36_Parainfluenza virus pneumonia,36_Other viral pneumonia
+212,58762,78_Essential (primary) hypertension,78_Cardiac arrest
+213,58777,55_Fracture of head and neck of femur,55_Sequelae of unspecified cerebrovascular diseases
+214,59112,77_Atherosclerotic heart disease of native coronary artery ; Other forms of chronic ischemic heart disease,77_Unspecified atrial fibrillation and atrial flutter
+215,59447,"82_Vascular dementia,82_Unspecified mental disorder due to known physiological condition,82_Vascular dementia","82_Malignant neoplasm of colon, unspecified,82_Malignant neoplasm of colon, unspecified,82_Candidiasis of other urogenital sites"
+216,59471,86_Syndrome of inappropriate secretion of antidiuretic hormone,"86_Atrioventricular block, complete"
+217,59545,65_Unspecified age-related cataract,65_Not specified
+218,59735,"68_Pneumonia, unspecified organism",68_Pleural effusion in other conditions classified elsewhere
+219,60206,78_Unspecified atrial fibrillation and atrial flutter,"78_Heart failure, unspecified"
+220,60339,84_Atherosclerotic heart disease of native coronary artery,84_Other forms of chronic ischemic heart disease
+221,61375,90_Vascular dementia,90_Holiday relief care
+222,61468,58_Perianal venous thrombosis,"58_Anal fissure, unspecified"
+223,61548,"83_Heart failure, unspecified",83_Acidosis
+224,61719,"66_Contusion of wrist and hand,66_Other chondrocalcinosis","66_Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease,66_Sleep apnea"
+225,61749,64_Other hemorrhoids,64_Orthostatic hypotension
+226,62143,74_Influenza due to other identified influenza virus with pneumonia,"74_Respiratory failure, unspecified"
+227,62241,"60_Calculus of gallbladder without cholecystitis,60_Calculus of gallbladder without cholecystitis","60_Not specified,60_Not specified"
+228,62334,"78_Dyspnea ; Unspecified abnormalities of breathing,78_Chronic obstructive pulmonary disease with (acute) exacerbation,78_Heart failure, unspecified","78_Pleural effusion in other conditions classified elsewhere,78_Pleural effusion in other conditions classified elsewhere,78_Pneumonia, unspecified organism"
+229,63615,"76_Atherosclerosis of native arteries of the extremities ; Disorder of the skin and subcutaneous tissue, unspecified",76_Other acute osteomyelitis
+230,64006,"76_Unilateral inguinal hernia, without obstruction or gangrene",76_Encounter for other specified postprocedural aftercare
+231,64257,"66_Gastrointestinal hemorrhage, unspecified","66_Crohn's disease, unspecified"
+232,64450,"82_Dehydration,82_Orthostatic hypotension","82_Secondary malignant neoplasm of lung,82_Malignant poorly differentiated neuroendocrine tumors"
+233,64701,58_Other specified cerebrovascular diseases,"58_Heart failure, unspecified"
+234,65342,51_Other specified cardiac arrhythmias,51_Presence of prosthetic heart valve
+235,65684,"68_Osteoarthritis, unspecified site",68_Liver transplant status
+236,65973,61_Other symptoms and signs involving cognitive functions and awareness,61_Cardiac arrest
+237,66181,"51_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified ; Unspecified kidney failure,51_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified ; Unspecified kidney failure","51_Patient's noncompliance with medical treatment and regimen,51_Not specified"
+238,66379,"74_Other specified complications of cardiac and vascular prosthetic devices, implants and grafts",74_Acquired absence of leg above knee
+239,66497,"92_Sepsis, unspecified organism",92_Pressure ulcer of unspecified site
+240,66655,83_Unspecified mental disorder due to known physiological condition,83_Dysthymic disorder
+241,66821,96_Hypertensive heart disease with heart failure,96_Systolic (congestive) heart failure
+242,67211,69_Chronic obstructive pulmonary disease with (acute) exacerbation,"69_Chronic kidney disease, stage 2 (mild)"
+243,67383,75_Unspecified disorder of circulatory system,75_Non-pressure chronic ulcer of heel and midfoot
+244,67484,81_Systolic (congestive) heart failure,81_Atherosclerotic heart disease of native coronary artery
+245,68005,"77_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",77_Acute kidney failure with medullary necrosis
+246,68239,"69_ST elevation (STEMI) myocardial infarction of inferior wall,69_Encounter for other specified postprocedural aftercare","69_Major depressive disorder, recurrent, unspecified,69_Presence of aortocoronary bypass graft"
+247,68636,63_Unspecified atrial fibrillation and atrial flutter,63_Systolic (congestive) heart failure
+248,68855,81_Chronic obstructive pulmonary disease with (acute) exacerbation,81_Chronic respiratory failure
+249,68858,72_Fracture of other and unspecified carpal bone(s),72_Diastolic (congestive) heart failure
+250,69390,"39_Benign neoplasm of colon, unspecified","39_Diarrhea, unspecified"
+251,69918,83_Sepsis due to Staphylococcus aureus,83_Acute and subacute infective endocarditis
+252,70201,"90_Heart failure, unspecified",90_Cardiac arrest
+253,70618,68_Systolic (congestive) heart failure,"68_Heart failure, unspecified"
+254,70746,62_Other chest pain,62_Type 2 diabetes mellitus without complications
+255,70974,61_Pneumonitis due to inhalation of food and vomit,61_Asphyxia and hypoxemia
+256,71452,"71_Type 2 diabetes mellitus with other specified complications,71_Sequelae of cerebral infarction","71_Other and unspecified encephalopathy,71_Anoxic brain damage, not elsewhere classified"
+257,71469,85_Unspecified fracture of femur,85_Other and unspecified fall on same level
+258,71793,78_Pneumonitis due to inhalation of food and vomit,78_Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+259,72208,66_Encounter for other specified postprocedural aftercare,66_Unspecified atrial fibrillation and atrial flutter
+260,72308,75_Syncope and collapse,"75_Urinary tract infection, site not specified"
+261,72812,"74_Sepsis, unspecified organism",74_Unspecified bacterial pneumonia
+262,73063,62_Pulmonary embolism without acute cor pulmonale,62_Essential (primary) hypertension
+263,73167,72_Type 2 diabetes mellitus with other specified complications,"72_Cutaneous abscess, furuncle and carbuncle of limb ; Cellulitis and acute lymphangitis of other parts of limb"
+264,73411,"51_Atherosclerotic heart disease of native coronary artery,51_Non-ST elevation (NSTEMI) myocardial infarction","51_Essential (primary) hypertension,51_Body mass index [BMI] 40 or greater, adult"
+265,73600,"89_Obstructive and reflux uropathy, unspecified",89_Diastolic (congestive) heart failure
+266,73855,84_Other restrictive cardiomyopathy,84_Melena
+267,74303,83_Pneumonitis due to inhalation of food and vomit,83_Acute respiratory failure
+268,74317,77_Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,77_Atherosclerotic heart disease of native coronary artery
+269,74613,56_Systolic (congestive) heart failure,56_Supraventricular tachycardia
+270,75275,74_Not specified,74_Not specified
+271,75462,"71_Retained dental root,71_Embolism and thrombosis of unspecified vein","71_Dental caries, unspecified,71_Encounter for other specified aftercare"
+272,75484,"90_Systolic (congestive) heart failure,90_Pneumonitis due to inhalation of food and vomit","90_Other and unspecified encephalopathy,90_Unspecified mental disorder due to known physiological condition"
+273,75714,85_Syncope and collapse,"85_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+274,76007,55_Plasma cell leukemia,55_Multiple myeloma
+275,76555,74_Dementia in other diseases classified elsewhere,74_Sequelae of cerebral infarction
+276,76591,92_Other and unspecified hydronephrosis,"92_Pneumonia, unspecified organism"
+277,76680,"68_Sepsis, unspecified organism",68_Acute and chronic respiratory failure
+278,76744,67_Atherosclerotic heart disease of native coronary artery,"67_Other specified complications of cardiac and vascular prosthetic devices, implants and grafts"
+279,77142,"56_Other specified complications of surgical and medical care, not elsewhere classified","56_Heart failure, unspecified"
+280,77592,"87_Malignant neoplasm of lower lobe, bronchus or lung",87_Unspecified severe protein-calorie malnutrition
+281,77665,92_Systolic (congestive) heart failure,92_Pleural effusion in other conditions classified elsewhere
+282,78039,"66_Chronic obstructive pulmonary disease with (acute) exacerbation,66_Influenza due to other identified influenza virus with other respiratory manifestations","66_Dyspnea,66_Acute and chronic respiratory failure"
+283,78424,"64_Gangrene, not elsewhere classified","64_Chest pain, unspecified"
+284,78626,60_Atherosclerotic heart disease of native coronary artery,"60_Body mass index [BMI] 40 or greater, adult"
+285,79826,"81_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified ; Unspecified kidney failure","81_Heart failure, unspecified"
+286,79859,"81_Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage",81_Unspecified atrial fibrillation and atrial flutter
+287,80030,78_Mechanical complication of other vascular grafts,78_End stage renal disease
+288,80242,55_Systolic (congestive) heart failure,"55_Coagulation defect, unspecified"
+289,80319,"76_Other giant cell arteritis,76_Acute pancreatitis","76_Pneumonia, unspecified organism,76_Heart failure, unspecified"
+290,80713,76_Other forms of angina pectoris,76_Atherosclerotic heart disease of native coronary artery
+291,81165,63_Hypertensive heart disease with heart failure,63_Systolic (congestive) heart failure
+292,82054,86_Parkinson's disease,86_Dementia in other diseases classified elsewhere
+293,82176,63_Umbilical hernia without obstruction or gangrene,"63_Encounter for attention to dressings, sutures and drains"
+294,82267,90_ST elevation (STEMI) myocardial infarction of inferior wall,"90_Heart failure, unspecified"
+295,82273,"64_Atherosclerotic heart disease of native coronary artery,64_Dyspnea ; Unspecified abnormalities of breathing","64_Bifascicular block,64_Not specified"
+296,82314,48_Other chest pain,"48_Herpesviral infection, unspecified"
+297,82368,"73_Malignant neoplasm of middle lobe, bronchus or lung",73_Secondary malignant neoplasm of brain and cerebral meninges
+298,82915,"67_Malignant neoplasm of lower lobe, bronchus or lung",67_Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+299,82968,59_Atherosclerotic heart disease of native coronary artery,59_Systolic (congestive) heart failure
+300,83577,78_Encounter for other specified aftercare,"78_Heart failure, unspecified"
+301,83601,65_Pneumonitis due to inhalation of food and vomit,65_End stage renal disease
+302,83710,62_Angioneurotic edema,"62_Heart failure, unspecified"
+303,83748,61_Alcohol dependence,61_Other hyperlipidemia
+304,83926,88_Pertrochanteric fracture,88_Encounter for palliative care
+305,84245,"69_Chronic obstructive pulmonary disease, unspecified","69_Heart failure, unspecified"
+306,84262,55_Cocaine abuse,55_Acute pulmonary edema
+307,84301,64_Systolic (congestive) heart failure,"64_Major depressive disorder, recurrent, unspecified"
+308,84413,58_Alcohol dependence,"58_Malignant neoplasm of upper lobe, bronchus or lung"
+309,84661,"76_Finding of other specified substances, not normally found in blood","76_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+310,84682,70_Systolic (congestive) heart failure,"70_Heart failure, unspecified"
+311,84815,94_Dehydration,94_Other and unspecified noninfective gastroenteritis and colitis
+312,84821,47_Calculus of gallbladder with other cholecystitis,47_Peritoneal adhesions (postprocedural) (postinfection)
+313,84990,"52_Heart failure, unspecified",52_Melena
+314,85484,61_Atherosclerotic heart disease of native coronary artery,61_Unstable angina
+315,85960,"58_Ventricular tachycardia,58_Malignant neoplasm of upper lobe, bronchus or lung","58_Atherosclerotic heart disease of native coronary artery,58_Secondary malignant neoplasm of bone and bone marrow"
+316,85966,40_Other streptococcal sepsis,40_Acute respiratory failure
+317,86140,"66_Urinary tract infection, site not specified","66_Other psychoactive substance use, unspecified"
+318,87131,89_Cerebral infarction due to embolism of cerebral arteries,89_Unspecified severe protein-calorie malnutrition
+319,87166,77_Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,77_End stage renal disease
+320,88033,"75_Non-ST elevation (NSTEMI) myocardial infarction,75_Acute and chronic respiratory failure","75_Pulmonary embolism without acute cor pulmonale,75_Combined systolic (congestive) and diastolic (congestive) heart failure"
+321,88042,68_Unspecified atrial fibrillation and atrial flutter,68_Other restrictive cardiomyopathy
+322,88045,70_Other hypotension,70_Other shock
+323,88071,82_Malignant neoplasm of submandibular gland,82_Chronic atrial fibrillation
+324,88289,"87_Abscess of epididymis or testis,87_Unspecified atrial fibrillation and atrial flutter","87_Not specified,87_Not specified"
+325,88474,"68_Heart failure, unspecified","68_Chronic obstructive pulmonary disease, unspecified"
+326,88776,71_Other and unspecified intestinal obstruction,"71_Heart failure, unspecified"
+327,88819,88_Diastolic (congestive) heart failure,"88_Heart failure, unspecified"
+328,88886,"92_Poisoning by, adverse effect of and underdosing of cardiac-stimulant glycosides and drugs of similar action","92_Acute kidney failure, unspecified"
+329,88951,82_Chronic obstructive pulmonary disease with (acute) exacerbation,"82_Pneumonia, unspecified organism"
+330,88977,"86_Chest pain, unspecified",86_Atherosclerotic heart disease of native coronary artery
+331,89178,"93_Heart failure, unspecified,93_Heart failure, unspecified,93_Heart failure, unspecified,93_Heart failure, unspecified","93_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified,93_Pleural effusion in other conditions classified elsewhere,93_Nonrheumatic aortic valve disorder, unspecified,93_Pleural effusion in other conditions classified elsewhere"
+332,89300,50_Hypertensive heart disease with heart failure,50_Cardiogenic shock
+333,89709,"75_Sepsis, unspecified organism",75_End stage renal disease
+334,89831,65_Non-ST elevation (NSTEMI) myocardial infarction,"65_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+335,89854,"87_Other specified soft tissue disorders,87_Non-ST elevation (NSTEMI) myocardial infarction","87_Dyspnea,87_Heart failure, unspecified"
+336,89989,54_Other stimulant dependence,"54_Major depressive disorder, recurrent, moderate"
+337,90028,"75_Collapsed vertebra, not elsewhere classified",75_Type 2 diabetes mellitus without complications
+338,90052,"65_Heart failure, unspecified",65_Essential (primary) hypertension
+339,90367,77_Pressure ulcer of buttock,77_Quadriplegia
+340,90472,73_Dyspnea,73_Other specified pulmonary heart diseases
+341,90535,65_Post-traumatic stress disorder (PTSD),65_Other hyperlipidemia
+342,90608,88_Non-ST elevation (NSTEMI) myocardial infarction,"88_Nausea with vomiting, unspecified"
+343,90832,"84_Heart failure, unspecified",84_Hypo-osmolality and hyponatremia
+344,90911,64_Other specified diseases of upper respiratory tract,"64_Sepsis, unspecified organism"
+345,91519,88_Other symptoms and signs involving cognitive functions and awareness,88_Abnormal results of liver function studies
+346,92079,63_Allergic urticaria,63_Acute and subacute infective endocarditis
+347,92288,"54_Schizoaffective disorder, unspecified","54_Bipolar disorder, unspecified"
+348,93205,86_Asphyxia and hypoxemia,"86_Heart failure, unspecified"
+349,93680,"70_Acute pancreatitis, unspecified",70_Essential (primary) hypertension
+350,93917,"64_Abdominal aortic aneurysm, without rupture",64_Not specified
+351,94080,76_Systolic (congestive) heart failure,76_Acute and chronic respiratory failure
+352,94935,82_COVID-19,82_Acute respiratory failure
+353,95041,"88_Unspecified atrial fibrillation and atrial flutter,88_Unspecified atrial fibrillation and atrial flutter","88_Acute kidney failure, unspecified,88_Long term (current) use of anticoagulants and antithrombotics/antiplatelets"
+354,95448,"51_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified ; Unspecified kidney failure",51_End stage renal disease
+355,95477,"64_Neoplasm related pain (acute) (chronic),64_Sepsis, unspecified organism","64_Secondary malignant neoplasm of bone and bone marrow,64_Pneumonitis due to inhalation of food and vomit"
+356,95734,89_Type 2 diabetes mellitus with other specified complications,89_Other osteomyelitis
+357,95750,70_Hypertensive urgency,70_Systemic inflammatory response syndrome (SIRS) of non-infectious origin
+358,95817,65_Other restrictive cardiomyopathy,65_Not specified
+359,96711,"93_Cerebral infarction, unspecified",93_Essential (primary) hypertension
+360,96816,"85_Pneumonitis due to inhalation of food and vomit,85_Umbilical hernia without obstruction or gangrene","85_Acute respiratory failure,85_Chronic embolism and thrombosis of deep veins of lower extremity"
+361,97021,63_Hypertensive heart disease with heart failure,63_Systolic (congestive) heart failure
+362,97370,"47_Malignant neoplasm of unspecified part of bronchus or lung,47_Malignant neoplasm of vertebral column,47_Mechanical complication of other vascular grafts","47_Encounter for attention to dressings, sutures and drains,47_Secondary malignant neoplasm of lung,47_Malignant neoplasm of upper lobe, bronchus or lung"
+363,98416,78_Hypovolemia,"78_Heart failure, unspecified"
+364,98439,63_Chronic obstructive pulmonary disease with (acute) exacerbation,63_Essential (primary) hypertension
+365,99024,69_Portal hypertension,69_Other ascites
+366,99137,88_Diastolic (congestive) heart failure,"88_Chronic kidney disease, stage 4 (severe)"
+367,99143,91_Unspecified mental disorder due to known physiological condition,91_Contusion of eyelid and periocular area
+368,99870,"88_Spinal stenosis,88_Acute and subacute infective endocarditis","88_Other thoracic, thoracolumbar and lumbosacral intervertebral disc displacement,88_Bacterial infection, unspecified"
+369,99941,73_Diastolic (congestive) heart failure,73_Other specified cerebrovascular diseases
+370,100012,70_Hypotension due to drugs,"70_Poisoning by, adverse effect of and underdosing of other antihypertensive drugs"
+371,100229,"83_Sepsis, unspecified organism",83_Pneumonia due to Pseudomonas
+372,100314,74_Cardiogenic shock,74_Combined systolic (congestive) and diastolic (congestive) heart failure
+373,100399,"86_Type 2 diabetes mellitus with other specified complications,86_Type 2 diabetes mellitus with other specified complications","86_Orthostatic hypotension,86_Unspecified mental disorder due to known physiological condition"
+374,100694,"90_Acute ischemic heart disease, unspecified",90_Personal history of diseases of the circulatory system
+375,101380,84_Sepsis due to Staphylococcus aureus,84_Adult failure to thrive
+376,101407,89_Unspecified dementia,"89_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified"
+377,101530,90_Post-traumatic stress disorder (PTSD),90_Alcohol abuse
+378,102467,76_Other chest pain,76_Hypertensive heart disease with heart failure
+379,102468,66_Acute posthemorrhagic anemia,66_Other specified diseases of stomach and duodenum
+380,102592,"55_Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",55_Acute and subacute hepatic failure
+381,102788,70_Atherosclerotic heart disease of native coronary artery,70_Other acute kidney failure
+382,103133,99_Gross hematuria,"99_Chronic kidney disease, stage 4 (severe)"
+383,103169,74_Secondary malignant neoplasm of lung,74_End stage renal disease
+384,103335,68_ST elevation (STEMI) myocardial infarction of inferior wall,"68_Heart failure, unspecified"
+385,103462,"70_Hypertensive heart disease with heart failure,70_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease","70_Systolic (congestive) heart failure,70_Systolic (congestive) heart failure"
+386,104244,63_Hypertensive heart disease with heart failure,63_Diastolic (congestive) heart failure
+387,104339,85_Malignant otitis externa,85_Alzheimer's disease
+388,104362,63_Chronic obstructive pulmonary disease with (acute) exacerbation,63_Systolic (congestive) heart failure
+389,104480,"93_Pneumonia, unspecified organism","93_Gastrointestinal hemorrhage, unspecified"
+390,104616,"66_Unspecified mood [affective] disorder,66_Hyperkalemia","66_Acute kidney failure, unspecified,66_Other specified abnormal findings of blood chemistry"
+391,105005,66_Other chest pain,"66_Body mass index [BMI] 40 or greater, adult"
+392,105077,"83_Heart failure, unspecified","83_Chest pain, unspecified"
+393,105402,70_Type 2 diabetes mellitus with other specified complications,"70_Urinary tract infection, site not specified"
+394,105425,72_Rectal abscess,"72_Urinary tract infection, site not specified"
+395,105769,"48_Other spondylosis with radiculopathy,48_Other spondylosis","48_Atherosclerotic heart disease of native coronary artery,48_Carpal tunnel syndrome"
+396,105907,70_Other chest pain,70_Systolic (congestive) heart failure
+397,105924,"86_Heart failure, unspecified",86_Non-ST elevation (NSTEMI) myocardial infarction
+398,105947,"85_Hypertensive heart disease with heart failure,85_Hypertensive heart disease with heart failure","85_Systolic (congestive) heart failure,85_Organ-limited amyloidosis"
+399,106030,73_Type 2 diabetes mellitus with other specified complications,73_Acute and chronic respiratory failure
+400,106440,67_Cellulitis and acute lymphangitis of other parts of limb,"67_Acute kidney failure, unspecified"
+401,106715,"94_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease,94_Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system","94_Other type of myocardial infarction,94_Acute kidney failure with tubular necrosis"
+402,106818,"52_Acidosis,52_Systolic (congestive) heart failure","52_Hypo-osmolality and hyponatremia,52_Dilated cardiomyopathy"
+403,107471,"81_Orthostatic hypotension,81_Orthostatic hypotension","81_Malignant neoplasm of unspecified part of bronchus or lung,81_Malignant neoplasm of unspecified part of bronchus or lung"
+404,107797,66_Other forms of chronic ischemic heart disease,66_Nausea
+405,107880,71_Pneumonitis due to inhalation of food and vomit,71_Cellulitis and acute lymphangitis of finger and toe
+406,108043,"72_Chronic obstructive pulmonary disease with (acute) exacerbation,72_Chronic obstructive pulmonary disease with (acute) exacerbation","72_Alcohol dependence,72_Alcohol dependence"
+407,108054,62_Atherosclerotic heart disease of native coronary artery,"62_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+408,108167,67_Obstruction of bile duct,67_Diastolic (congestive) heart failure
+409,108307,74_Atherosclerotic heart disease of native coronary artery,74_Encounter for observation for other suspected diseases and conditions ruled out
+410,108502,"75_Urinary tract infection, site not specified",75_Other specified bacterial agents as the cause of diseases classified elsewhere
+411,108611,"91_Other specified degenerative diseases of nervous system,91_Other specified degenerative diseases of nervous system","91_Pneumonitis due to inhalation of food and vomit,91_Supraventricular tachycardia"
+412,108901,65_Adult hypertrophic pyloric stenosis,65_Paralysis of vocal cords and larynx
+413,109204,74_Unspecified convulsions,"74_Heart failure, unspecified"
+414,109675,"72_Atherosclerosis of native arteries of the extremities ; Peripheral vascular disease, unspecified",72_Stricture of artery
+415,111865,56_Stricture of artery,56_Atherosclerotic heart disease of native coronary artery
+416,111922,"75_Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",75_End stage renal disease
+417,112212,66_Pneumonia due to staphylococcus,66_Severe sepsis
+418,112457,49_Adjustment disorders,49_Alcohol abuse
+419,112675,"75_Systolic (congestive) heart failure,75_Encounter for other specified aftercare","75_Heart failure, unspecified,75_Heart failure, unspecified"
+420,112807,73_Atherosclerosis of coronary artery bypass graft(s) and coronary artery of transplanted heart with angina pectoris,73_Diastolic (congestive) heart failure
+421,113606,"66_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease,66_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease","66_Chronic atrial fibrillation,66_Chronic atrial fibrillation"
+422,114033,"83_Pneumonia, unspecified organism",83_Acute respiratory failure
+423,114062,"65_Bradycardia, unspecified",65_Other chest pain
+424,114383,"72_Atherosclerosis of native arteries of the extremities ; Disorder of the skin and subcutaneous tissue, unspecified",72_Non-pressure chronic ulcer of other part of foot
+425,114689,"72_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",72_Diastolic (congestive) heart failure
+426,114805,"72_Fever, unspecified","72_Diarrhea, unspecified"
+427,114818,"95_Heart failure, unspecified",95_Pleural effusion in other conditions classified elsewhere
+428,115142,79_Unspecified dementia,79_Diastolic (congestive) heart failure
+429,115167,65_COVID-19,65_Other viral pneumonia
+430,115675,77_Hypertensive heart disease with heart failure,"77_Chronic obstructive pulmonary disease, unspecified"
+431,115818,77_Diastolic (congestive) heart failure,77_Other forms of acute ischemic heart disease
+432,115904,"86_Sepsis, unspecified organism","86_Pneumonia, unspecified organism"
+433,116482,"71_Gastrointestinal hemorrhage, unspecified","71_Anemia, unspecified"
+434,116508,68_Essential (primary) hypertension,"68_Cardiomyopathy, unspecified"
+435,117225,59_Mood disorder due to known physiological condition,59_Alcohol dependence
+436,118088,87_Nephrotic syndrome with unspecified morphologic changes,"87_Hypothyroidism, unspecified"
+437,118613,66_Other symptoms and signs involving cognitive functions and awareness,66_Cocaine dependence
+438,118729,71_Malignant neoplasm of rectum,71_Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+439,119278,59_Type 2 diabetes mellitus with neurological complications,59_Charcot's joint
+440,119298,"72_Heart failure, unspecified","72_Acute kidney failure, unspecified"
+441,119741,"66_Somnolence, stupor and coma","66_Poisoning by, adverse effect of and underdosing of other and unspecified drugs, medicaments and biological substances ; Encounter for other specified aftercare"
+442,119747,75_Chronic obstructive pulmonary disease with (acute) exacerbation,75_Malignant neoplasm of unspecified part of bronchus or lung
+443,119756,"85_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",85_Diastolic (congestive) heart failure
+444,119853,"67_Acute kidney failure, unspecified","67_Poisoning by, adverse effect of and underdosing of other opioids"
+445,119994,"90_Diastolic (congestive) heart failure,90_Diastolic (congestive) heart failure","90_Acute respiratory failure,90_Other heart failure"
+446,120135,"80_Polyosteoarthritis, unspecified ; Osteoarthritis, unspecified site",80_Holiday relief care
+447,120418,"77_Acute pulmonary manifestations due to radiation,77_Pneumonia, unspecified organism","77_Malignant neoplasm of unspecified part of bronchus or lung,77_Acute respiratory failure"
+448,120485,88_Other specified cardiac arrhythmias,88_Atherosclerotic heart disease of native coronary artery
+449,120630,"87_Heart failure, unspecified","87_Gastrointestinal hemorrhage, unspecified"
+450,120856,82_Systolic (congestive) heart failure,"82_Chronic kidney disease, stage 4 (severe)"
+451,120950,"85_Cutaneous abscess, furuncle and carbuncle of limb ; Cellulitis and acute lymphangitis of other parts of limb",85_Non-pressure chronic ulcer of unspecified part of lower leg
+452,121348,"62_Sick sinus syndrome,62_Ventricular premature depolarization","62_Systolic (congestive) heart failure,62_Paroxysmal atrial fibrillation"
+453,121453,65_Type 2 diabetes mellitus with other specified complications,65_Essential (primary) hypertension
+454,121786,"48_Other intraoperative and postprocedural complications and disorders of respiratory system, not elsewhere classified",48_Pleural effusion in other conditions classified elsewhere
+455,121891,"71_Non-ST elevation (NSTEMI) myocardial infarction,71_Atherosclerotic heart disease of native coronary artery","71_Atherosclerotic heart disease of native coronary artery,71_Pain localized to upper abdomen"
+456,121976,60_Acute respiratory failure,60_Pneumonitis due to inhalation of food and vomit
+457,122044,"90_Diverticulitis of intestine, part unspecified, with perforation and abscess","90_Sepsis, unspecified organism"
+458,122113,"60_Pain in limb, hand, foot, fingers and toes",60_Other symptoms and signs involving emotional state
+459,122114,49_ST elevation (STEMI) myocardial infarction of anterior wall,"49_Atrioventricular block, complete"
+460,122432,"74_Dyspnea,74_Cardiogenic shock","74_Systolic (congestive) heart failure,74_Acute respiratory failure"
+461,122697,"89_Sepsis, unspecified organism,89_Sepsis, unspecified organism","89_Non-ST elevation (NSTEMI) myocardial infarction,89_Non-ST elevation (NSTEMI) myocardial infarction"
+462,122705,81_Anemia in neoplastic disease,"81_Bronchopneumonia, unspecified organism"
+463,122861,76_Other type of myocardial infarction,76_Systolic (congestive) heart failure
+464,123109,"54_Alcoholic cirrhosis of liver,54_Other ascites","54_Other ascites,54_Alcoholic cirrhosis of liver"
+465,123470,70_Ischemic cardiomyopathy,70_Systolic (congestive) heart failure
+466,124113,"81_Unspecified complication of internal prosthetic device, implant and graft","81_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified ; Unspecified kidney failure"
+467,124336,76_Secondary malignant neoplasm of pleura,76_Secondary malignant neoplasm of lung
+468,124345,74_Other heart failure,74_Acute and chronic respiratory failure
+469,124950,68_Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,68_Systolic (congestive) heart failure
+470,124959,78_Other hypotension,78_Unspecified protein-calorie malnutrition
+471,125103,72_Syncope and collapse,"72_Atrioventricular block, first degree"
+472,125152,"81_Heart failure, unspecified,81_Pneumonia due to staphylococcus","81_Chronic kidney disease, unspecified ; Unspecified kidney failure,81_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease ; Chronic kidney disease, unspecified ; Unspecified kidney failure"
+473,125279,"78_Heart failure, unspecified","78_Acute kidney failure, unspecified"
+474,125917,"74_Urinary tract infection, site not specified","74_Acute kidney failure, unspecified"
+475,126126,85_Non-ST elevation (NSTEMI) myocardial infarction,85_Systolic (congestive) heart failure
+476,126149,"70_Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",70_Paranoid schizophrenia
+477,126279,"78_Nonrheumatic aortic valve disorder, unspecified",78_Hairy cell leukemia
+478,126400,"78_Iron deficiency anemia, unspecified",78_Systolic (congestive) heart failure
+479,126572,"89_Fracture of thoracic vertebra,89_Acute pain, not elsewhere classified,89_Osteomyelitis of vertebra","89_Fracture of lumbar vertebra,89_Sepsis, unspecified organism,89_Intraspinal abscess and granuloma"
+480,126755,"58_Anoxic brain damage, not elsewhere classified",58_Systolic (congestive) heart failure
+481,126919,75_Atherosclerotic heart disease of native coronary artery,75_Systolic (congestive) heart failure
+482,127188,"67_Polyosteoarthritis, unspecified ; Osteoarthritis, unspecified site",67_Not specified
+483,127970,"76_Heart failure, unspecified,76_Heart failure, unspecified","76_Malignant neoplasm of unspecified part of bronchus or lung,76_Chronic obstructive pulmonary disease, unspecified"
+484,128094,66_Diastolic (congestive) heart failure,"66_Heart failure, unspecified"
+485,128427,96_Systolic (congestive) heart failure,96_Acute respiratory failure
+486,128866,86_Other malaise and fatigue,86_Personal history of diseases of the respiratory system
+487,128935,95_Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,95_End stage renal disease
+488,129054,50_Adjustment disorders,50_Other disorders of lacrimal gland
+489,129156,"95_Urinary tract infection, site not specified","95_Hypotension, unspecified"
+490,129236,88_Hypo-osmolality and hyponatremia,88_Multiple myeloma
+491,129320,61_Systolic (congestive) heart failure,"61_Other intraoperative and postprocedural complications and disorders of the circulatory system, not elsewhere classified"
+492,129641,76_Atherosclerotic heart disease of native coronary artery,76_Other forms of chronic ischemic heart disease
+493,129928,73_Atherosclerotic heart disease of native coronary artery,73_Unspecified atrial fibrillation and atrial flutter
+494,129977,85_COVID-19,85_Other viral pneumonia
+495,130476,"81_Sepsis, unspecified organism",81_Pneumonia due to other specified bacteria
+496,131065,"88_Alzheimer's disease, unspecified","88_Major depressive disorder, recurrent, unspecified"
+497,131301,54_Type 2 diabetes mellitus with unspecified complications,"54_Obesity, unspecified"
+498,131408,"56_Migraine, unspecified",56_Cluster headaches and other trigeminal autonomic cephalgias (TAC)
+499,131516,56_Hypertensive heart disease with heart failure,56_Acute respiratory failure
+500,131548,"84_Orchitis,84_Orchitis","84_Acute kidney failure, unspecified,84_Urinary tract infection, site not specified"
+501,131776,96_Weakness,96_Syncope and collapse
+502,132010,79_Pneumonitis due to inhalation of food and vomit,79_Acute respiratory failure
+503,132018,86_Other specified diseases of stomach and duodenum,86_Acute and chronic respiratory failure
+504,132165,36_Post-traumatic stress disorder (PTSD),36_Alcohol dependence
+505,132647,"88_Other malaise and fatigue,88_Encounter for other specified aftercare,88_Chronic obstructive pulmonary disease, unspecified","88_Venous insufficiency (chronic) (peripheral),88_Chronic obstructive pulmonary disease, unspecified,88_Encounter for palliative care"
+506,133681,"80_Pneumonia, unspecified organism",80_Other degenerative diseases of basal ganglia
+507,133752,76_Acute respiratory failure,76_Chronic respiratory failure
+508,134019,"82_Pneumonia, unspecified organism","82_Heart failure, unspecified"
+509,134341,"67_Atrioventricular block, complete",67_Essential (primary) hypertension
+510,134490,"57_Chest pain, unspecified",57_Essential (primary) hypertension
+511,134549,"86_Traumatic subdural hemorrhage,86_Nontraumatic subdural hemorrhage","86_Systolic (congestive) heart failure,86_Systolic (congestive) heart failure"
+512,135090,"51_Acute kidney failure, unspecified",51_Hyperkalemia
+513,135216,"58_Other chest pain,58_Transient cerebral ischemic attack, unspecified,58_Transient cerebral ischemic attack, unspecified","58_Migraine, unspecified,58_Hemiplegia, unspecified,58_Candidal sepsis"
+514,135461,"83_Vascular disorder of intestine, unspecified",83_Other hypotension
+515,135685,72_Systolic (congestive) heart failure,72_Varicose veins of lower extremities with inflammation
+516,135750,72_Malignant neoplasm of duodenum,"72_Sepsis, unspecified organism"
+517,135917,"88_Sepsis, unspecified organism,88_Sepsis, unspecified organism,88_Pneumonitis due to inhalation of food and vomit","88_Urinary tract infection, site not specified,88_Systemic inflammatory response syndrome (SIRS) of non-infectious origin,88_Severe sepsis"
+518,136230,56_Chronic obstructive pulmonary disease with (acute) exacerbation,"56_Body mass index [BMI] 40 or greater, adult"
+519,136451,"64_Polyosteoarthritis, unspecified ; Osteoarthritis, unspecified site",64_Essential (primary) hypertension
+520,136502,"68_Sepsis, unspecified organism",68_Systolic (congestive) heart failure
+521,136533,"49_Cardiomyopathy, unspecified",49_Systolic (congestive) heart failure
+522,136544,"69_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",69_Other specified disorders of muscle
+523,136628,73_Malignant neoplasm of lateral wall of bladder,73_Diverticulum of bladder
+524,136730,"63_Acute embolism and thrombosis of deep veins of lower extremity,63_Portal vein thrombosis","63_Malignant neoplasm of pancreas, unspecified,63_Unspecified severe protein-calorie malnutrition"
+525,137040,"52_Bipolar disorder, unspecified","52_Urinary tract infection, site not specified"
+526,137111,"61_Systolic (congestive) heart failure,61_Systolic (congestive) heart failure","61_Heart failure, unspecified,61_Hypo-osmolality and hyponatremia"
+527,137294,71_Secondary malignant neoplasm of brain and cerebral meninges,71_Malignant neoplasm of overlapping sites of bronchus and lung
+528,137322,"67_Influenza due to other identified influenza virus with other respiratory manifestations,67_Sequelae of cerebral infarction","67_Acute respiratory failure,67_Moderate protein-calorie malnutrition"
+529,137771,"38_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",38_Systolic (congestive) heart failure
+530,137973,59_Hemorrhagic disorder due to circulating anticoagulants,59_COVID-19
+531,138177,87_Rheumatic disorders of both mitral and aortic valves,"87_Anemia, unspecified"
+532,138266,72_Atherosclerotic heart disease of native coronary artery,"72_Inflammatory and immune myopathies, not elsewhere classified"
+533,138450,80_Malignant neoplasm of unspecified part of bronchus or lung,80_Orthostatic hypotension
+534,138567,"70_Pneumonitis due to inhalation of food and vomit,70_Sequelae of unspecified cerebrovascular diseases","70_Essential (primary) hypertension,70_Encounter for palliative care"
+535,138631,"68_Anaphylactic shock, unspecified,68_Hypotension, unspecified","68_Poisoning by, adverse effect of and underdosing of other and unspecified drugs, medicaments and biological substances,68_Cardiac arrest"
+536,139521,88_COVID-19,88_Other viral pneumonia
+537,139741,58_Non-ST elevation (NSTEMI) myocardial infarction,58_Atherosclerotic heart disease of native coronary artery
+538,139877,66_Chronic obstructive pulmonary disease with (acute) exacerbation,66_Diastolic (congestive) heart failure
+539,139982,"84_Dehydration,84_Acute kidney failure, unspecified","84_Acute kidney failure, unspecified,84_Nutritional marasmus"
+540,140430,"63_Abdominal aortic aneurysm, without rupture",63_Atherosclerotic heart disease of native coronary artery
+541,140556,64_Essential (primary) hypertension,64_Systolic (congestive) heart failure
+542,141895,86_Other malaise and fatigue,86_Unspecified atrial fibrillation and atrial flutter
+543,142117,77_Other and unspecified noninfective gastroenteritis and colitis,"77_Acute kidney failure, unspecified"
+544,143048,72_Pulmonary collapse,"72_Malignant neoplasm of lower lobe, bronchus or lung"
+545,143290,"81_Urinary tract infection, site not specified",81_Atherosclerosis of native arteries of the extremities
+546,143356,78_Other abnormalities of breathing,78_Chronic obstructive pulmonary disease with (acute) exacerbation
+547,143470,"62_Atherosclerotic heart disease of native coronary artery,62_Non-ST elevation (NSTEMI) myocardial infarction,62_Non-ST elevation (NSTEMI) myocardial infarction","62_Non-ST elevation (NSTEMI) myocardial infarction,62_Other forms of chronic ischemic heart disease,62_Gastrointestinal hemorrhage, unspecified"
+548,143492,"91_Heart failure, unspecified","91_Chronic kidney disease, unspecified"
+549,143583,63_Alcoholic cirrhosis of liver,63_Alcoholic hepatitis
+550,143885,65_Secondary malignant neoplasm of brain and cerebral meninges,65_Secondary malignant neoplasm of lung
+551,144395,"56_Heart failure, unspecified",56_Other restrictive cardiomyopathy
+552,145086,"62_ST elevation (STEMI) myocardial infarction of inferior wall,62_ST elevation (STEMI) myocardial infarction of inferior wall","62_Chronic kidney disease, unspecified ; Unspecified kidney failure,62_Atrioventricular block, complete"
+553,145480,64_Malignant neoplasm of unspecified part of bronchus or lung,64_Unspecified abdominal pain
+554,145807,"85_Pneumonia, unspecified organism,85_Poisoning by, adverse effect of and underdosing of other antihypertensive drugs","85_Chronic obstructive pulmonary disease with (acute) exacerbation,85_Pneumonia, unspecified organism"
+555,145995,81_Asphyxia and hypoxemia,81_Syncope and collapse
+556,146435,68_Other restrictive cardiomyopathy,68_Systolic (congestive) heart failure
+557,146481,"73_Hypotension, unspecified,73_Pneumonia, unspecified organism","73_Malignant neoplasm of unspecified part of bronchus or lung,73_Heart failure, unspecified"
+558,146483,"67_Chronic kidney disease, unspecified ; Unspecified kidney failure",67_Not specified
+559,146612,90_Intussusception,90_Encounter for attention to other artificial openings of digestive tract
+560,147237,"70_Hypotension, unspecified,70_Encounter for antineoplastic radiation therapy","70_Other and unspecified adrenocortical insufficiency,70_Other and unspecified adrenocortical insufficiency"
+561,147606,"90_Non-ST elevation (NSTEMI) myocardial infarction,90_Acute respiratory failure,90_Pressure ulcer of ankle","90_Pneumonia, unspecified organism,90_Pneumonitis due to inhalation of food and vomit,90_Pressure ulcer of unspecified site"
+562,147619,"85_Non-ST elevation (NSTEMI) myocardial infarction,85_ST elevation (STEMI) myocardial infarction of inferior wall","85_Pneumonia, unspecified organism,85_Acute respiratory failure"
+563,147971,89_Laryngocele,89_Hemoptysis
+564,148042,80_Non-ST elevation (NSTEMI) myocardial infarction,"80_Urinary tract infection, site not specified"
+565,148893,"61_Other specified complications of cardiac and vascular prosthetic devices, implants and grafts",61_Acute pulmonary insufficiency following nonthoracic surgery
+566,149040,"86_Osteoarthritis, unspecified site",86_Unspecified atrial fibrillation and atrial flutter
+567,149483,"94_Acute kidney failure, unspecified","94_Chronic kidney disease, unspecified"
+568,149757,"89_Pneumonia, unspecified organism,89_Malignant neoplasm of prostate","89_Other and unspecified encephalopathy,89_Pneumonitis due to inhalation of food and vomit"
+569,149787,"64_Sepsis, unspecified organism,64_Other restrictive cardiomyopathy","64_Acute respiratory failure,64_End stage renal disease"
+570,150157,69_Angioneurotic edema,"69_Anaphylactic shock, unspecified"
+571,151180,"65_Encounter for other specified aftercare,65_Chronic obstructive pulmonary disease, unspecified","65_Chronic obstructive pulmonary disease, unspecified,65_Fracture of head and neck of femur"
+572,151867,"98_Urinary tract infection, site not specified",98_Other and unspecified encephalopathy
+573,151921,"74_Heart failure, unspecified,74_Pleural effusion in other conditions classified elsewhere","74_Urinary tract infection, site not specified,74_Heart failure, unspecified"
+574,152040,69_Other chest pain,69_Dyspnea
+575,152061,80_Trochanteric bursitis,"80_Myositis, unspecified"
+576,152238,66_Atherosclerosis of native arteries of the extremities,66_Atherosclerotic heart disease of native coronary artery
+577,152481,76_Aortic aneurysm and dissection,"76_Heart failure, unspecified"
+578,152587,"92_Acute upper respiratory infection, unspecified","92_Heart failure, unspecified"
+579,152768,"66_Malignant neoplasm of lower lobe, bronchus or lung",66_Diastolic (congestive) heart failure
+580,153055,83_Pleural effusion in other conditions classified elsewhere,83_Enterocolitis due to Clostridium difficile
+581,153146,"84_Heart failure, unspecified,84_Heart failure, unspecified","84_Chronic obstructive pulmonary disease with (acute) exacerbation,84_Chronic obstructive pulmonary disease, unspecified"
+582,153265,83_Synovial cyst of popliteal space [Baker],83_Other specified soft tissue disorders
+583,153408,57_Encounter for other specified aftercare,"57_Encounter for attention to dressings, sutures and drains"
+584,153870,77_Encounter for adjustment and management of cardiac device,77_Other restrictive cardiomyopathy
+585,154561,75_Benign prostatic hyperplasia,75_Not specified
+586,154720,"52_Heart failure, unspecified",52_Unspecified atrial fibrillation and atrial flutter
+587,154784,70_Dilated cardiomyopathy,70_Sleep apnea
+588,155331,"95_Pneumonia, unspecified organism",95_Pyothorax without fistula
+589,155332,91_Intestinal adhesions [bands] with obstruction (postinfection),91_Enterocolitis due to Clostridium difficile
+590,156560,70_Diaphragmatic hernia without obstruction or gangrene,"70_Hyperlipidemia, unspecified"
+591,156705,84_Chronic obstructive pulmonary disease with (acute) exacerbation,84_Nonrheumatic mitral (valve) insufficiency
+592,156832,72_COVID-19,72_Other viral pneumonia
+593,157362,84_Unspecified mental disorder due to known physiological condition,"84_Urinary tract infection, site not specified"
+594,157903,88_Nonrheumatic aortic (valve) stenosis,88_Non-pressure chronic ulcer of unspecified part of lower leg
+595,157947,"85_Pneumonia, unspecified organism,85_Hypotension due to drugs,85_Hypotension due to drugs,85_Major depressive disorder, recurrent severe without psychotic features","85_Acute kidney failure, unspecified,85_Acute kidney failure, unspecified,85_Acute kidney failure, unspecified,85_Quadriplegia"
+596,157987,65_Chronic or unspecified gastric ulcer with hemorrhage,65_Not specified
+597,158264,"71_Nonrheumatic aortic valve disorder, unspecified",71_Atherosclerotic heart disease of native coronary artery
+598,158472,78_Acute and chronic respiratory failure,78_Moderate protein-calorie malnutrition
+599,158742,76_Cardiogenic shock,76_Non-ST elevation (NSTEMI) myocardial infarction
+600,159062,"83_Heart failure, unspecified","83_Pneumonia, unspecified organism"
+601,159755,71_Chronic obstructive pulmonary disease with (acute) exacerbation,71_Chronic respiratory failure
+602,160058,83_Pertrochanteric fracture,"83_Other slipping, tripping and stumbling and falls"
+603,160193,68_Ventricular tachycardia,68_Ventricular premature depolarization
+604,161353,"54_Heart failure, unspecified,54_Sepsis due to Staphylococcus aureus","54_Ventricular tachycardia,54_Encounter for palliative care"
+605,161539,"74_Acute kidney failure, unspecified,74_Other cervical disc disorders","74_Chronic kidney disease, unspecified,74_Discitis, unspecified"
+606,161864,88_Third [oculomotor] nerve palsy,88_Diplopia
+607,162002,68_Pneumonia due to staphylococcus,"68_Localized swelling, mass and lump, trunk"
+608,162077,"79_Chronic obstructive pulmonary disease with (acute) exacerbation,79_Chronic obstructive pulmonary disease with (acute) exacerbation","79_Other restrictive cardiomyopathy,79_Other restrictive cardiomyopathy"
+609,162328,81_Hematemesis,"81_Gastritis, unspecified"
+610,162404,"73_Pneumonia, unspecified organism","73_Heart failure, unspecified"
+611,162507,"54_Systolic (congestive) heart failure,54_Systolic (congestive) heart failure,54_Encounter for palliative care","54_Ventricular tachycardia,54_Acute kidney failure, unspecified,54_Not specified"
+612,162727,85_Other specified rheumatic heart diseases,"85_Acute kidney failure, unspecified"
+613,162755,58_Other chest pain,"58_Cocaine use, unspecified"
+614,163598,"34_Major depressive disorder, single episode, unspecified",34_Post-traumatic stress disorder (PTSD)
+615,163686,66_Nonrheumatic aortic (valve) stenosis,"66_Body mass index [BMI] 40 or greater, adult"
+616,163867,80_Other acute osteomyelitis,80_Infection of amputation stump
+617,163951,83_Hypertensive heart disease with heart failure,"83_Acute kidney failure, unspecified"
+618,164176,"82_Obstructive and reflux uropathy, unspecified","82_Acute kidney failure, unspecified"
+619,165265,84_Diastolic (congestive) heart failure,"84_Heart failure, unspecified"
+620,165836,"84_Alzheimer's disease,84_Vascular dementia","84_Dementia in other diseases classified elsewhere,84_Cerebral atherosclerosis"
+621,165904,82_Enterocolitis due to Clostridium difficile,82_Systolic (congestive) heart failure
+622,166007,66_Chronic obstructive pulmonary disease with (acute) exacerbation,"66_Heart failure, unspecified"
+623,166211,84_Sepsis due to other Gram-negative organisms,84_Acute respiratory failure
+624,166229,"43_Essential (primary) hypertension,43_Essential (primary) hypertension","43_Unspecified viral hepatitis B,43_Unspecified viral hepatitis C"
+625,166603,"89_Urinary tract infection, site not specified",89_Unspecified mental disorder due to known physiological condition
+626,166856,"63_Cutaneous abscess, furuncle and carbuncle of limb ; Cellulitis and acute lymphangitis of other parts of limb","63_Heart failure, unspecified"
+627,166881,76_Secondary malignant neoplasm of liver and intrahepatic bile duct,"76_Chronic obstructive pulmonary disease, unspecified"
+628,167102,75_Unspecified atrial fibrillation and atrial flutter,"75_Thoracic aortic aneurysm, without rupture"
+629,167404,"78_Nonrheumatic aortic valve disorder, unspecified",78_Non-ST elevation (NSTEMI) myocardial infarction
+630,167917,50_Hypertensive emergency,50_Systolic (congestive) heart failure
+631,168008,"73_End stage renal disease,73_Other specified diseases of intestine,73_Unspecified bacterial pneumonia,73_Malignant carcinoid tumors","73_Unspecified bacterial pneumonia,73_End stage renal disease,73_End stage renal disease,73_End stage renal disease"

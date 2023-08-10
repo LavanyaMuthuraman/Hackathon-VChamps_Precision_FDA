@@ -1,0 +1,322 @@
+,Internalpatientid,ed_visit_first_listed_icd10_subcategory,ed_visit_second_listed_icd10_subcategory
+0,67,57_Hematospermia,57_Not specified
+1,200,86_Epistaxis,86_Not specified
+2,330,73_Fracture of upper end of humerus,73_Not specified
+3,351,"86_Unilateral inguinal hernia, without obstruction or gangrene",86_Not specified
+4,1568,75_Procedure and treatment not carried out because of patient's decision for other and unspecified reasons,75_Not specified
+5,1805,"84_Bronchitis, not specified as acute or chronic",84_Bronchiectasis with (acute) exacerbation
+6,3450,"67_Diarrhea, unspecified",67_Disorders of magnesium metabolism
+7,3547,78_Non-ST elevation (NSTEMI) myocardial infarction,78_Other symptoms and signs involving cognitive functions and awareness
+8,3606,64_Contusion of elbow,64_Contusion of hip
+9,4203,"66_Acute sinusitis, unspecified",66_Not specified
+10,4641,"85_Myelodysplastic disease, not classified",85_Not specified
+11,4845,68_Encounter for palliative care,"68_Chronic obstructive pulmonary disease, unspecified"
+12,5653,73_Generalized anxiety disorder,73_Systolic (congestive) heart failure
+13,6370,99_Open wound of scalp,99_Striking against stationary object
+14,6421,"72_Sepsis, unspecified organism",72_Sunburn of first degree
+15,6584,"79_Pneumonia, unspecified organism",79_Not specified
+16,7572,83_Influenza due to unidentified influenza virus with other manifestations,"83_Pneumonia, unspecified organism"
+17,7925,"85_Gangrene, not elsewhere classified",85_Not specified
+18,8286,"83_Edema, unspecified",83_Not specified
+19,8320,"80_Urinary tract infection, site not specified",80_Hypertensive heart disease without heart failure
+20,9947,77_Sudden idiopathic hearing loss,77_Not specified
+21,10469,68_Pain localized to other parts of lower abdomen,"68_Cardiac arrest, cause unspecified"
+22,10633,"70_Cellulitis and acute lymphangitis, unspecified",70_Other specified dermatitis
+23,10948,78_Other symptoms and signs involving emotional state,78_Not specified
+24,11521,83_Unspecified atrial fibrillation and atrial flutter,83_Old myocardial infarction
+25,11674,"70_Acute upper respiratory infection, unspecified","70_Diarrhea, unspecified"
+26,12356,88_Other specified disorders of muscle,88_Dehydration
+27,12601,87_Dehydration,87_Not specified
+28,14169,70_Cervical disc disorder with radiculopathy,70_Not specified
+29,15168,84_Actinic keratosis,84_Not specified
+30,15529,99_Mechanical complication of urinary catheter,"99_Urinary catheterization as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+31,15803,"84_Acute kidney failure, unspecified",84_Not specified
+32,16325,78_Other abdominal pain,78_Other long term (current) drug therapy
+33,16588,66_Other esophagitis,66_Vomiting
+34,17182,"76_Urinary tract infection, site not specified",76_Other specified disorders of muscle
+35,17326,93_Dysphagia,93_Not specified
+36,17380,81_Dysphagia,81_Dyspnea
+37,18599,"75_Gout, unspecified",75_Not specified
+38,19714,76_Systolic (congestive) heart failure,76_Asphyxia and hypoxemia
+39,20309,74_Encounter for issue of repeat prescription,74_Not specified
+40,20630,72_Irritability and anger,72_Cocaine abuse
+41,21360,"77_Pneumonia, unspecified organism",77_Not specified
+42,21909,64_Systemic inflammatory response syndrome (SIRS) of non-infectious origin,"64_Acute kidney failure, unspecified"
+43,23485,79_Systolic (congestive) heart failure,"79_Chronic obstructive pulmonary disease, unspecified"
+44,24984,77_Encounter for issue of repeat prescription,77_Not specified
+45,25516,70_Syncope and collapse,70_Paroxysmal atrial fibrillation
+46,25654,87_Open wound of lower leg,"87_Bipolar disorder, current episode depressed, mild or moderate severity"
+47,26517,"75_Sepsis, unspecified organism",75_Gas gangrene
+48,26981,76_Solitary pulmonary nodule,76_Systolic (congestive) heart failure
+49,27819,78_Unspecified abdominal pain,"78_Anemia, unspecified"
+50,28878,68_Unspecified atrial fibrillation and atrial flutter,68_Not specified
+51,28954,78_COVID-19,"78_Osteoarthritis, unspecified site"
+52,29315,90_Localized edema,90_Abnormal results of cardiovascular function studies
+53,29412,76_Acute and chronic respiratory failure,76_Not specified
+54,30079,62_Cough,62_Other chest pain
+55,31586,77_Unspecified visual disturbance,77_Not specified
+56,32652,"72_Chest pain, unspecified",72_Systolic (congestive) heart failure
+57,32970,66_Other abdominal pain,66_Not specified
+58,33411,76_Cough,76_Not specified
+59,34282,70_Other specified counseling,70_Lumbago with sciatica
+60,34287,86_Weakness,86_Not specified
+61,35076,"77_Cellulitis and acute lymphangitis, unspecified",77_Not specified
+62,35087,81_Injury of muscle and tendon of long flexor muscle of toe at ankle and foot level,81_Not specified
+63,36160,"94_Pain in limb, hand, foot, fingers and toes",94_Not specified
+64,36414,"64_Pain in limb, hand, foot, fingers and toes","64_Pain in limb, hand, foot, fingers and toes"
+65,36434,"72_Pneumonia, unspecified organism",72_Not specified
+66,37366,"76_Finding of other specified substances, not normally found in blood","76_Fall on same level from slipping, tripping and stumbling with subsequent striking against object"
+67,37508,66_Systolic (congestive) heart failure,66_Dyspnea
+68,38043,"65_Strain of muscle, fascia and tendon at neck level","65_Cerebral infarction, unspecified"
+69,38696,79_Pleural effusion in other conditions classified elsewhere,79_Not specified
+70,38785,77_Constipation,77_Not specified
+71,39490,70_Systolic (congestive) heart failure,70_Silent myocardial ischemia
+72,39707,95_Other symptoms and signs involving the genitourinary system,95_Not specified
+73,39771,77_Dyspnea,"77_Hypotension, unspecified"
+74,39909,57_Unspecified abdominal pain,57_Not specified
+75,40532,83_Acute cholecystitis,83_Not specified
+76,41041,"94_Fall on same level from slipping, tripping and stumbling with subsequent striking against object",94_Fracture of lumbar vertebra
+77,41595,"67_Iron deficiency anemia, unspecified",67_Not specified
+78,42933,67_Stress fracture,67_Hypokalemia
+79,43141,77_Other abnormalities of gait and mobility,77_Not specified
+80,43238,84_Generalized edema,84_Not specified
+81,43802,73_Dizziness and giddiness,73_Orthostatic hypotension
+82,43829,"37_Headache, unspecified",37_Not specified
+83,44003,63_Unspecified abdominal pain,63_Not specified
+84,44393,89_Type 2 diabetes mellitus without complications,89_Not specified
+85,44835,86_Adult failure to thrive,86_Dysphagia
+86,44836,77_Unspecified atrial fibrillation and atrial flutter,"77_Tachycardia, unspecified"
+87,45342,71_Systolic (congestive) heart failure,71_Not specified
+88,45742,72_Adult failure to thrive,72_Not specified
+89,46039,"76_Systolic (congestive) heart failure, 76_Systolic (congestive) heart failure","76_Other and unspecified right bundle-branch block, 76_Not specified"
+90,46177,"93_Malignant neoplasm of head, face and neck",93_Benign prostatic hyperplasia with lower urinary tract symptoms
+91,47012,39_Other peripheral vertigo,39_Not specified
+92,47138,74_Combined systolic (congestive) and diastolic (congestive) heart failure,"74_Chronic kidney disease, unspecified"
+93,47454,92_Acute gastritis,92_Not specified
+94,49014,"71_Chest pain, unspecified",71_Not specified
+95,49127,76_Sprain of acromioclavicular joint,"76_Fall on same level from slipping, tripping and stumbling without subsequent striking against object"
+96,50264,93_Chronic atrial fibrillation,93_Orthostatic hypotension
+97,51456,"69_Pneumonia, unspecified organism","69_Chest pain, unspecified"
+98,51551,"61_Hypotension, unspecified",61_Not specified
+99,52128,"81_Chest pain, unspecified","81_Chronic kidney disease, stage 3 (moderate)"
+100,52256,72_Pain in joint,"72_Pain in limb, hand, foot, fingers and toes"
+101,52752,82_Subacute cough,82_Asphyxia and hypoxemia
+102,52767,79_Open wound of shoulder,79_Not specified
+103,52886,73_Severe sepsis,"73_Tachycardia, unspecified"
+104,53150,70_(Censored),70_Not specified
+105,53236,71_Type 2 diabetes mellitus with other specified complications,71_Long term (current) use of insulin
+106,53548,84_Pain in joint,84_Not specified
+107,54993,66_Encounter for examination and observation for unspecified reason,66_Not specified
+108,55492,78_Traumatic subdural hemorrhage,78_Not specified
+109,56635,69_Weakness,"69_Localized swelling, mass and lump, lower limb"
+110,58641,37_Dyspnea,37_Not specified
+111,59471,86_Hypo-osmolality and hyponatremia,86_Not specified
+112,59735,71_Localized edema,71_Alcohol abuse
+113,61375,91_Person with feared health complaint in whom no diagnosis is made,91_Not specified
+114,61719,"66_Pain in limb, hand, foot, fingers and toes",66_Not specified
+115,62143,74_Influenza due to identified novel influenza A virus,74_Asphyxia and hypoxemia
+116,63615,79_Cellulitis and acute lymphangitis of other parts of limb,"79_Peripheral vascular disease, unspecified"
+117,64006,69_Pain in joint,69_Not specified
+118,64450,"82_Strain of muscle, fascia and tendon at neck level",82_Pain in joint
+119,65684,70_Syncope and collapse,70_Not specified
+120,66379,"74_Dental caries, unspecified",74_Not specified
+121,66821,96_Unspecified atrial fibrillation and atrial flutter,96_Fluid overload
+122,67211,72_Other specified cough,"72_Chronic obstructive pulmonary disease, unspecified"
+123,67484,81_Systolic (congestive) heart failure,81_Not specified
+124,68005,"77_Encounter for attention to dressings, sutures and drains",77_Not specified
+125,68239,"75_Chest pain, unspecified",75_Not specified
+126,68636,66_Syncope and collapse,66_Not specified
+127,68858,"76_Localized swelling, mass and lump, head","76_Localized swelling, mass and lump, trunk"
+128,69390,43_Low back pain,43_Not specified
+129,70974,72_Other chronic suppurative otitis media,72_Unspecified hearing loss
+130,71452,"71_Hyperglycemia, unspecified",71_Not specified
+131,72208,69_Cough,69_Other malaise and fatigue
+132,72308,84_Acquired keratosis [keratoderma] palmaris et plantaris,84_Not specified
+133,72812,"74_Sepsis, unspecified organism","74_Cerebral infarction, unspecified"
+134,73063,67_Cardiac arrest due to other underlying condition,67_Carcinoma in situ of prostate
+135,73411,"52_Chest pain, unspecified, 52_Dizziness and giddiness","52_Not specified, 52_Not specified"
+136,74613,"61_Cellulitis and acute lymphangitis, unspecified",61_Not specified
+137,75275,74_COVID-19,74_Chronic obstructive pulmonary disease with (acute) exacerbation
+138,75714,85_Pain in joint,85_Not specified
+139,76555,"74_Schizoaffective disorder, bipolar type",74_Essential (primary) hypertension
+140,76680,68_Drug-induced hypoglycemia without coma,68_Not specified
+141,76744,68_Pain localized to upper abdomen,68_Not specified
+142,77592,85_Weakness,85_Not specified
+143,77665,"92_COVID-19, 92_COVID-19","92_Not specified, 92_Body mass index [BMI] 30-39, adult"
+144,78039,71_Unspecified atrial fibrillation and atrial flutter,71_Tobacco use
+145,78626,60_Headache,60_Other long term (current) drug therapy
+146,80242,55_Systolic (congestive) heart failure,55_Other stimulant abuse
+147,81165,63_Pneumonia in diseases classified elsewhere,63_Not specified
+148,82070,"87_Dermatitis, unspecified",87_Not specified
+149,82273,73_Other infective otitis externa,73_Impacted cerumen
+150,82314,48_Other specified headache syndromes,48_Not specified
+151,82968,60_Combined systolic (congestive) and diastolic (congestive) heart failure,60_Not specified
+152,83601,"65_Hyperglycemia, unspecified","65_Pleural effusion, not elsewhere classified"
+153,84262,"57_Other pneumonia, unspecified organism",57_Not specified
+154,84413,58_Chronic obstructive pulmonary disease with (acute) exacerbation,58_Disorders of calcium metabolism
+155,84661,76_Weakness,76_Not specified
+156,84821,49_Low back pain,49_Not specified
+157,84990,67_Fluid overload,"67_Acute bronchitis, unspecified"
+158,85966,40_Asphyxia and hypoxemia,"40_Pleural effusion, not elsewhere classified"
+159,85968,91_Not specified,91_Vascular dementia
+160,87131,89_Dizziness and giddiness,89_Presence of urogenital implants
+161,87166,77_Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,"77_Major depressive disorder, recurrent, unspecified"
+162,87910,"71_Alzheimer's disease, unspecified","71_Iron deficiency anemia, unspecified"
+163,88033,75_Systolic (congestive) heart failure,75_Not specified
+164,88071,"82_Sepsis, unspecified organism",82_Other acute kidney failure
+165,88886,"92_Gangrene, not elsewhere classified",92_Not specified
+166,88977,"89_Pneumonia, unspecified organism","89_Hypothyroidism, unspecified"
+167,89300,50_Systolic (congestive) heart failure,50_Not specified
+168,89709,75_Other specified diabetes mellitus with other specified complications,75_Not specified
+169,89831,66_Acute embolism and thrombosis of veins of upper extremity,"66_Local infection of the skin and subcutaneous tissue, unspecified"
+170,89989,54_Other psychoactive substance abuse,54_Not specified
+171,90472,73_Dyspnea,73_Dyspnea
+172,91519,88_Acute and chronic respiratory failure,88_Not specified
+173,92079,69_Toxic gastroenteritis and colitis,69_Not specified
+174,93680,"70_Acute pancreatitis, unspecified",70_Not specified
+175,94080,76_Combined systolic (congestive) and diastolic (congestive) heart failure,76_Not specified
+176,94935,83_Sprain of ankle,83_Overexertion from strenuous movement or load
+177,95041,"88_Anemia, unspecified","88_Thrombocytopenia, unspecified"
+178,95734,89_Idiopathic hypotension,89_Dementia in other diseases classified elsewhere
+179,95750,"72_Retention of urine, unspecified",72_Not specified
+180,96711,94_Systolic (congestive) heart failure,94_Not specified
+181,96816,85_Candidal stomatitis,85_Not specified
+182,97021,63_Systolic (congestive) heart failure,"63_Edema, unspecified"
+183,98439,79_Unspecified atrial fibrillation and atrial flutter,79_Not specified
+184,99137,88_Diastolic (congestive) heart failure,88_Not specified
+185,100012,71_Pain in joint,71_Pain in joint
+186,100223,86_Dizziness and giddiness,86_Not specified
+187,100314,"74_Shock, unspecified",74_Not specified
+188,100694,90_Acute bronchitis due to respiratory syncytial virus,90_Not specified
+189,101984,"61_Gout, unspecified","61_Hyperlipidemia, unspecified"
+190,102273,77_Vitreous hemorrhage,77_Unspecified atrial fibrillation and atrial flutter
+191,102467,"76_Chest pain, unspecified",76_Not specified
+192,102468,"67_Dental caries, unspecified",67_Not specified
+193,102592,55_Encounter for issue of repeat prescription,55_Not specified
+194,102788,70_ST elevation (STEMI) myocardial infarction of unspecified site,70_Not specified
+195,103462,70_Systolic (congestive) heart failure,70_Not specified
+196,104244,63_Combined systolic (congestive) and diastolic (congestive) heart failure,63_Not specified
+197,104362,63_Other chest pain,"63_Chronic obstructive pulmonary disease, unspecified"
+198,104480,"92_Chest pain, unspecified",92_Not specified
+199,105005,66_Personal history of diseases of the circulatory system,66_Not specified
+200,105425,73_Mechanical complication of other urinary devices and implants,73_Not specified
+201,105769,48_Pain in joint,48_Not specified
+202,105907,72_Olecranon bursitis,72_Not specified
+203,105947,86_Low back pain,86_Not specified
+204,106440,67_Encounter for examination and observation for unspecified reason,67_Encounter for examination for admission to residential institution
+205,106715,"94_Anemia, unspecified",94_Not specified
+206,106818,52_Cardiac arrest due to other underlying condition,52_Hyperkalemia
+207,107471,"81_Hyperlipidemia, unspecified","81_Hypotension, unspecified"
+208,107880,"73_Gout, unspecified",73_Not specified
+209,108043,72_Chronic obstructive pulmonary disease with (acute) exacerbation,72_Not specified
+210,108054,59_Hyperkalemia,59_Not specified
+211,108167,67_Encounter for examination and observation for unspecified reason,67_Not specified
+212,111922,69_Type 2 diabetes mellitus with other specified complications,69_Not specified
+213,112457,64_Low back pain,64_Not specified
+214,112511,65_Unspecified abdominal pain,65_Not specified
+215,112675,"79_Fall on same level from slipping, tripping and stumbling with subsequent striking against object",79_Supraventricular tachycardia
+216,112807,77_Chronic obstructive pulmonary disease with (acute) exacerbation,77_Dyspnea
+217,113606,68_Cellulitis and acute lymphangitis of other parts of limb,68_Cellulitis and acute lymphangitis of other parts of limb
+218,114033,83_Acute respiratory failure,83_Not specified
+219,114062,66_Pain in joint,66_Not specified
+220,114689,73_Unspecified atrial fibrillation and atrial flutter,73_Systolic (congestive) heart failure
+221,115142,79_Other and unspecified encephalopathy,79_Not specified
+222,115167,"65_Viral pneumonia, unspecified, 65_Other specified anemias","65_Diastolic (congestive) heart failure, 65_Viral pneumonia, unspecified"
+223,115818,79_Unspecified symptoms and signs involving general sensations and perceptions,79_Not specified
+224,115904,"88_Urinary tract infection, site not specified",88_Not specified
+225,117675,68_Dysuria,68_Not specified
+226,118613,66_Type 2 diabetes mellitus with other specified complications,66_(Censored)
+227,119853,67_Other symptoms and signs involving cognitive functions and awareness,67_Not specified
+228,119994,90_Acute pulmonary edema,90_Weakness
+229,120630,87_Systolic (congestive) heart failure,87_Not specified
+230,120950,92_Venous insufficiency (chronic) (peripheral),92_Not specified
+231,121348,65_Other and unspecified diseases of pulp and periapical tissues,65_Not specified
+232,121891,"71_Chest pain, unspecified",71_Unspecified abdominal pain
+233,122044,90_Unspecified atrial fibrillation and atrial flutter,90_Not specified
+234,122113,63_Traumatic subdural hemorrhage,63_Not specified
+235,122432,"74_Hypotension, unspecified",74_Not specified
+236,122861,75_Dyspnea,75_Not specified
+237,123952,"58_Not specified, 58_Embolism and thrombosis of unspecified artery","58_Localized edema, 58_Not specified"
+238,124345,74_Systolic (congestive) heart failure,74_Other symptoms and signs involving cognitive functions and awareness
+239,124959,"78_Acute bronchitis, unspecified",78_Other specified abnormal findings of blood chemistry
+240,125430,"89_Gastrointestinal hemorrhage, unspecified",89_Not specified
+241,125917,76_Open wound of lower leg,76_Other heart failure
+242,126126,85_Idiopathic peripheral autonomic neuropathy,85_Type 2 diabetes mellitus with other specified complications
+243,126400,"79_Pain, unspecified",79_Unspecified dementia
+244,126572,89_Low back pain,89_Not specified
+245,126919,77_Pain localized to upper abdomen,77_Not specified
+246,127188,"76_Cutaneous abscess, furuncle and carbuncle of trunk",76_Not specified
+247,128427,96_Dyspnea,96_Unspecified abdominal pain
+248,129054,56_Sprain of ankle,56_Not specified
+249,129156,"95_Urinary tract infection, site not specified",95_Not specified
+250,129977,"85_Urinary tract infection, site not specified",85_Not specified
+251,130294,"74_Acute pharyngitis, unspecified",74_Not specified
+252,130476,81_Asphyxia and hypoxemia,"81_Pneumonia, unspecified organism"
+253,131301,67_Sprain of unspecified site of knee,67_Not specified
+254,131516,56_Chronic pulmonary edema,56_Not specified
+255,131548,86_Other abdominal pain,86_Not specified
+256,131776,96_Weakness,96_Not specified
+257,132010,79_Pain in joint,79_(Censored)
+258,132018,86_Other specified disorders of muscle,86_Chronic atrial fibrillation
+259,132165,46_(Censored),46_Not specified
+260,133583,75_Sciatica,"75_Anxiety disorder, unspecified"
+261,133752,76_Diastolic (congestive) heart failure,76_Other specified pulmonary heart diseases
+262,134341,"69_Acute upper respiratory infection, unspecified","69_Illness, unspecified"
+263,134490,"57_Chest pain, unspecified",57_Essential (primary) hypertension
+264,134549,86_Nontraumatic subdural hemorrhage,86_Not specified
+265,135216,58_Other transient cerebral ischemic attacks and related syndromes,58_Other chest pain
+266,135685,72_Open wound of foot,72_Venous insufficiency (chronic) (peripheral)
+267,135750,72_Dehydration,72_Malignant neoplasm of duodenum
+268,136230,56_Other specified arthritis,56_Sprain of other specified parts of knee
+269,136502,"68_Cellulitis and acute lymphangitis, unspecified",68_Not specified
+270,136533,48_Dyspnea,48_Abnormal findings on diagnostic imaging of heart and coronary circulation
+271,136544,70_Diverticular disease of both small and large intestine without perforation or abscess,70_Not specified
+272,136730,63_Unspecified abdominal pain,63_Personal history of malignant neoplasm of digestive organs
+273,137040,53_Open wound of upper arm,53_Not specified
+274,137322,"67_Chest pain, unspecified",67_Systolic (congestive) heart failure
+275,137771,"38_Chest pain, unspecified",38_Not specified
+276,137973,59_Gross hematuria,59_Not specified
+277,138195,37_Encounter for examination and observation for unspecified reason,37_Not specified
+278,138266,73_Paresthesia of skin,73_Not specified
+279,139521,88_Weakness,88_COVID-19
+280,139741,58_Non-ST elevation (NSTEMI) myocardial infarction,58_Not specified
+281,140430,72_Unspecified atrial fibrillation and atrial flutter,72_Not specified
+282,140556,64_Pericardial effusion (noninflammatory),"64_Pleural effusion, not elsewhere classified"
+283,143290,80_COVID-19,80_Not specified
+284,143492,93_Dyspnea,93_Not specified
+285,143583,"63_Alcoholic liver disease, unspecified",63_Not specified
+286,147237,"70_Edema, unspecified",70_Not specified
+287,147971,89_Hemoptysis,89_Other specified health status
+288,148893,60_Cellulitis and acute lymphangitis of other parts of limb,60_Other specified postprocedural states
+289,149757,"89_Pneumonia, unspecified organism",89_Asphyxia and hypoxemia
+290,150157,71_(Censored),71_Unspecified external cause status
+291,151867,99_Pressure ulcer of buttock,99_Non-pressure chronic ulcer of other part of foot
+292,152040,"70_Hypotension, unspecified",70_Hypovolemia
+293,152768,66_Encounter for other administrative examinations,66_Not specified
+294,153684,67_Encounter for issue of repeat prescription,67_Not specified
+295,154561,84_Dyspnea,84_Essential (primary) hypertension
+296,154784,71_Fracture of lower end of radius,71_Not specified
+297,155331,95_Unspecified bacterial pneumonia,95_Not specified
+298,155332,91_Other and unspecified intestinal obstruction,91_Not specified
+299,156560,74_Rash and other nonspecific skin eruption,74_Not specified
+300,156832,71_Unspecified abdominal pain,71_Gastrostomy complications
+301,157826,55_Encounter for other specified special examinations,55_Constipation
+302,157947,85_Other symptoms and signs involving emotional state,"85_Urinary tract infection, site not specified"
+303,158472,79_Chronic obstructive pulmonary disease with (acute) exacerbation,79_Not specified
+304,158742,"76_Cellulitis and acute lymphangitis, unspecified",76_Encounter for screening for other viral diseases
+305,159755,71_Chronic obstructive pulmonary disease with (acute) exacerbation,71_Personal history of other specified conditions
+306,160193,"67_Urinary tract infection, site not specified",67_Constipation
+307,161539,89_Unspecified abdominal pain,89_Not specified
+308,162002,"75_Chest pain, unspecified",75_Not specified
+309,162507,54_Systolic (congestive) heart failure,54_Dyspnea
+310,162755,58_Dizziness and giddiness,58_Not specified
+311,163598,"50_Disorder of teeth and supporting structures, unspecified",50_Periapical abscess without sinus
+312,163686,"65_Cerebral infarction, unspecified",65_Other specified cerebrovascular diseases
+313,163867,80_Diastolic (congestive) heart failure,80_Hypokalemia
+314,163951,"83_Chest pain, unspecified",83_Asphyxia and hypoxemia
+315,165904,85_Procedure and treatment not carried out because of patient's decision for other and unspecified reasons,85_Not specified
+316,166211,"84_Urinary tract infection, site not specified",84_Dehydration
+317,166535,73_Type 2 diabetes mellitus without complications,73_Not specified
+318,167102,"81_Pruritus, unspecified",81_Not specified
+319,167917,51_Encounter for issue of repeat prescription,51_Not specified
+320,168008,73_Abnormal results of liver function studies,73_Low back pain

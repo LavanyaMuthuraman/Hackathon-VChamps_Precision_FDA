@@ -1,0 +1,627 @@
+,Internalpatientid,medication_administered_medication_atc5,medication_administered_status
+0,67,"57_Not specified, 57_Not specified","57_Held, 57_Held"
+1,200,84_cefalexin,84_Given
+2,291,83_nicotine,83_Given
+3,330,73_hydromorphone,73_Given
+4,351,"86_ceftriaxone, 86_Not specified","86_Given, 86_Given"
+5,444,"70_piperacillin ; tazobactam, 70_Not a medication","70_Given, 70_Given"
+6,785,73_dipyridamole,73_Not specified (no value)
+7,960,"59_Not specified, 59_becaplermin","59_Given, 59_Given"
+8,1477,"86_Not specified, 86_azithromycin","86_Given, 86_Given"
+9,1568,"68_cefalexin, 68_lisinopril, 68_metoprolol, 68_metoprolol, 68_diltiazem","68_Given, 68_Given, 68_Given, 68_Given, 68_Given"
+10,1805,"84_famotidine, 84_amlodipine, 84_benzonatate, 84_venlafaxine, 84_budesonide ; formoterol","84_Given, 84_Given, 84_Given, 84_Given, 84_Given"
+11,2500,"61_multienzymes (lipase, protease, etc.)",61_Given
+12,3450,70_insulin (human) fast-acting,70_Refused
+13,3547,78_morphine,78_Given
+14,3606,64_metolazone,64_Given
+15,4128,76_digoxin,76_Given
+16,4177,87_morphine,87_Given
+17,4203,69_omeprazole,69_Given
+18,4246,"68_amitriptyline, 68_lactulose","68_Missing dose, 68_Refused"
+19,4611,66_heparin,66_Given
+20,4641,85_glycopyrronium bromide,85_Given
+21,4845,68_ipratropium bromide ; salbutamol,68_Held
+22,5653,73_furosemide,73_Given
+23,5872,"52_potassium chloride, 52_paracetamol (acetaminophen)","52_Given, 52_Given"
+24,6370,"98_guaifenesin, 98_calcium ; vitamin d and analogues, 98_cyanocobalamin, 98_digoxin, 98_magnesium oxide, 98_diltiazem","98_Given, 98_Given, 98_Given, 98_Given, 98_Given, 98_Given"
+25,6421,"72_iron trivalent, parenteral preparations, 72_Not specified","72_Given, 72_Given"
+26,6859,78_ranitidine,78_Given
+27,7185,"88_phenytoin, 88_Not specified","88_Given, 88_Given"
+28,7320,"72_paracetamol (acetaminophen), 72_paracetamol (acetaminophen), 72_paracetamol (acetaminophen), 72_acetylsalicylic acid, 72_clopidogrel, 72_paracetamol (acetaminophen)","72_Held, 72_Held, 72_Held, 72_Given, 72_Given, 72_Held"
+29,7572,84_insulin aspart fast-acting,84_Given
+30,7792,56_hydralazine,56_Given
+31,7925,85_oxycodone,85_Given
+32,8286,"82_paracetamol (acetaminophen), 82_ketorolac","82_Given, 82_Given"
+33,8320,80_insulin aspart fast-acting,80_Given
+34,9535,"76_dantrolene, 76_docusate","76_Held, 76_Held"
+35,9929,"74_sevelamer, 74_Not specified, 74_amiodarone","74_Given, 74_Given, 74_Given"
+36,9947,75_influenza vaccines,75_Refused
+37,10469,"68_hydrochlorothiazide ; lisinopril, 68_metoprolol ; tars, 68_apixaban, 68_bupropion","68_Given, 68_Given, 68_Given, 68_Given"
+38,10505,72_fentanyl,72_Infusing (infusion orders)
+39,10633,"70_cefalexin, 70_metoprolol, 70_ferrous sulfate","70_Given, 70_Given, 70_Given"
+40,10948,"78_rivaroxaban, 78_omeprazole, 78_citalopram, 78_finasteride, 78_lisinopril, 78_pregabalin, 78_metoprolol","78_Given, 78_Given, 78_Given, 78_Given, 78_Given, 78_Given, 78_Missing dose"
+41,11618,"65_potassium, 65_ascorbic acid (vitamin c), 65_diltiazem, 65_hydrochlorothiazide, 65_atenolol, 65_ferrous sulfate, 65_loratadine, 65_docusate","65_Given, 65_Given, 65_Given, 65_Given, 65_Given, 65_Given, 65_Given, 65_Refused"
+42,11674,70_acetylsalicylic acid,70_Given
+43,12356,89_ipratropium bromide ; salbutamol,89_Given
+44,12457,64_lisinopril,64_Given
+45,12601,87_Not specified,87_Given
+46,13257,"82_heparin, 82_metoprolol, 82_simvastatin","82_Given, 82_Held, 82_Given"
+47,13910,"58_clindamycin, 58_clobetasol, 58_omeprazole, 58_sevelamer, 58_triamcinolone, 58_fluocinonide, 58_cetirizine, 58_Not specified, 58_insulin (human) fast-acting, 58_calcium acetate anhydrous, 58_acetylsalicylic acid, 58_colecalciferol, 58_metoprolol, 58_losartan, 58_folic acid","58_Held, 58_Held, 58_Held, 58_Held, 58_Held, 58_Held, 58_Held, 58_Held, 58_Held, 58_Held, 58_Held, 58_Held, 58_Held, 58_Held, 58_Held"
+48,14169,"59_hydrocodone ; paracetamol (acetaminophen), 59_oxazepam, 59_carbamazepine, 59_docusate, 59_ferrous sulfate, 59_isosorbide dinitrate, 59_metoprolol, 59_metoprolol, 59_hydroxyzine","59_Given, 59_Given, 59_Given, 59_Given, 59_Given, 59_Given, 59_Given, 59_Given, 59_Given"
+49,14532,74_morphine,74_Given
+50,14918,"59_mometasone furoate, 59_metoprolol, 59_lisinopril, 59_furosemide, 59_formoterol","59_Given, 59_Given, 59_Given, 59_Given, 59_Given"
+51,15168,83_leuprorelin,83_Given
+52,15529,97_insulin aspart fast-acting,97_Given
+53,15548,77_spironolactone,77_Given
+54,15803,84_insulin aspart fast-acting,84_Held
+55,16325,78_fentanyl,78_Given
+56,16588,66_sodium phosphate,66_Refused
+57,16841,91_megestrol,91_Given
+58,16955,"78_guaifenesin, 78_guaifenesin","78_Refused, 78_Refused"
+59,17182,"76_Not specified, 76_ampicillin, enzyme inhibitor ; sodium, 76_prednisolone, 76_ketorolac","76_Given, 76_Given, 76_Given, 76_Given"
+60,17193,58_hydrocodone ; paracetamol (acetaminophen),58_Given
+61,17216,"66_calcium ; vitamin d and analogues, 66_calcium ; vitamin d and analogues","66_Given, 66_Held"
+62,17326,93_enoxaparin,93_Held
+63,17380,81_insulin aspart fast-acting,81_Held
+64,18270,"93_isosorbide mononitrate, 93_metoprolol, 93_prednisone, 93_quetiapine","93_Given, 93_Held, 93_Given, 93_Given"
+65,18389,"83_simvastatin, 83_Not a medication, 83_salbutamol, 83_oxybutynin, 83_metoprolol, 83_ferrous sulfate, 83_morphine, 83_gabapentin, 83_ipratropium bromide, 83_hydralazine, 83_flunisolide","83_Held, 83_Held, 83_Held, 83_Held, 83_Held, 83_Held, 83_Held, 83_Held, 83_Held, 83_Held, 83_Held"
+66,18599,"63_enoxaparin, 63_docusate, 63_ferrous sulfate, 63_Not specified, 63_colchicine, 63_omeprazole","63_Given, 63_Given, 63_Given, 63_Given, 63_Given, 63_Given"
+67,18775,"69_allopurinol, 69_clopidogrel, 69_venlafaxine, 69_furosemide","69_Given, 69_Given, 69_Given, 69_Given"
+68,18839,69_pantoprazole,69_Given
+69,19714,"76_heparin, 76_furosemide","76_Held, 76_Held"
+70,20630,72_fluticasone,72_Refused
+71,20814,"68_lorazepam, 68_lorazepam, 68_glucose ; magnesium sulfate","68_Given, 68_Held, 68_Given"
+72,20962,"86_lisinopril, 86_acetylsalicylic acid","86_Given, 86_Given"
+73,21338,"85_tolterodine, 85_sucralfate, 85_capsaicin","85_Given, 85_Given, 85_Given"
+74,21360,"77_ipratropium bromide, 77_salbutamol","77_Given, 77_Given"
+75,21426,84_oxygen,84_Given
+76,21909,"64_atorvastatin, 64_nystatin, 64_budesonide","64_Given, 64_Given, 64_Given"
+77,22107,"91_haloperidol, 91_furosemide","91_Given, 91_Given"
+78,22154,70_trifluridine,70_Refused
+79,22221,74_Not specified,74_Given
+80,23485,"79_tiotropium bromide, 79_metoprolol, 79_furosemide, 79_acetylsalicylic acid","79_Given, 79_Given, 79_Given, 79_Given"
+81,23527,"72_regadenoson, 72_regadenoson, 72_regadenoson, 72_regadenoson","72_Not specified (no value), 72_Not specified (no value), 72_Not specified (no value), 72_Not specified (no value)"
+82,23626,59_lisinopril,59_Given
+83,23850,66_ipratropium bromide ; salbutamol,66_Held
+84,24374,"89_norepinephrine, 89_Not specified","89_Infusing (infusion orders), 89_Infusing (infusion orders)"
+85,24552,71_omeprazole,71_Given
+86,24984,73_barium sulfate with suspending agents,73_Not specified (no value)
+87,25241,"65_salbutamol, 65_(Censored), 65_ipratropium bromide, 65_Not specified, 65_cefotaxime, 65_glucose","65_Given, 65_Given, 65_Given, 65_Given, 65_Refused, 65_Refused"
+88,25516,70_insulin aspart fast-acting,70_Held
+89,25654,87_macrogol,87_Given
+90,26517,75_docusate,75_Refused
+91,26762,"73_digoxin, 73_spironolactone, 73_ferrous sulfate, 73_lisinopril, 73_atenolol, 73_furosemide, 73_acetylsalicylic acid","73_Given, 73_Given, 73_Given, 73_Given, 73_Given, 73_Given, 73_Given"
+92,26981,74_furosemide,74_Held
+93,27031,"81_omeprazole, 81_macrogol, 81_mometasone furoate, 81_senna glycosides, 81_tiotropium bromide","81_Held, 81_Held, 81_Held, 81_Held, 81_Held"
+94,27204,83_clindamycin ; glucose,83_Given
+95,27819,78_naloxone,78_Given
+96,27940,"67_acetylsalicylic acid, 67_docusate, 67_omeprazole, 67_venlafaxine, 67_metoprolol","67_Given, 67_Given, 67_Given, 67_Given, 67_Given"
+97,27998,60_atropine,60_Given
+98,28154,74_nifedipine,74_Given
+99,28682,65_sucralfate,65_Refused
+100,28878,"68_heparin, 68_sodium fluoride, 68_other antipruritics ; salicylic acid","68_Refused, 68_Given, 68_Refused"
+101,28938,"68_nicotine, 68_artificial tears, other indifferent preparations ; ethanol","68_Given, 68_Given"
+102,28954,78_ipratropium bromide ; salbutamol,78_Given
+103,29315,"90_latanoprost, 90_hydrochlorothiazide","90_Given, 90_Given"
+104,29412,"76_salbutamol, 76_Not specified, 76_insulin aspart fast-acting","76_Given, 76_Given, 76_Held"
+105,29488,84_furosemide,84_Held
+106,29765,67_isosorbide dinitrate,67_Given
+107,29798,64_potassium chloride,64_Given
+108,29913,"84_Not specified, 84_isosorbide mononitrate, 84_finasteride, 84_carvedilol, 84_theophylline, 84_colestyramine, 84_triamcinolone","84_Given, 84_Given, 84_Given, 84_Given, 84_Given, 84_Refused, 84_Refused"
+109,30073,76_ipratropium bromide ; salbutamol,76_Held
+110,30137,67_digoxin,67_Given
+111,30772,"66_morphine, 66_pneumococcus, purified polysaccharides antigen","66_Given, 66_Given"
+112,30868,77_morphine,77_Given
+113,30933,"61_lisinopril, 61_furosemide, 61_metronidazole","61_Given, 61_Given, 61_Given"
+114,31356,88_lidocaine,88_Held
+115,32615,"74_insulins and analogues for injection, fast-acting, 74_insulins and analogues for injection, fast-acting","74_Given, 74_Held"
+116,32652,72_bumetanide,72_Given
+117,32970,"65_amoxicillin, enzyme inhibitor ; potassium chloride, 65_topiramate, 65_apixaban","65_Given, 65_Given, 65_Given"
+118,33411,79_insulin (human) fast-acting,79_Held
+119,34287,86_heparin,86_Given
+120,34385,"85_ciprofloxacin ; glucose, 85_brimonidine, 85_heparin, 85_piperacillin, 85_Not specified","85_Held, 85_Held, 85_Held, 85_Held, 85_Held"
+121,35087,"81_insulin aspart fast-acting, 81_ferrous sulfate","81_Given, 81_Given"
+122,35332,"67_acetylsalicylic acid, 67_senna glycosides, 67_omeprazole, 67_Not specified","67_Given, 67_Given, 67_Given, 67_Given"
+123,36160,"89_levodopa, decarboxylase inhibitor",89_Given
+124,36281,76_morphine,76_Given
+125,36414,"57_cyproheptadine, 57_metoprolol, 57_lisinopril, 57_docusate, 57_oxycodone ; paracetamol (acetaminophen), 57_oxycodone ; paracetamol (acetaminophen)","57_Given, 57_Given, 57_Given, 57_Given, 57_Given, 57_Given"
+126,36434,"72_morphine, 72_Not specified","72_Infusing (infusion orders), 72_Infusing (infusion orders)"
+127,36766,70_insulin (human) fast-acting,70_Given
+128,36905,"83_piperacillin, 83_Not specified","83_Held, 83_Held"
+129,37366,76_sodium,76_Given
+130,37508,"66_furosemide, 66_baclofen","66_Given, 66_Given"
+131,37682,67_ipratropium bromide ; salbutamol,67_Given
+132,38043,65_dexamethasone,65_Given
+133,38493,80_bacitracin,80_Given
+134,38585,"85_digoxin, 85_acetylsalicylic acid, 85_lisinopril","85_Given, 85_Given, 85_Given"
+135,38696,79_mycophenolic acid,79_Given
+136,38785,77_insulin aspart fast-acting,77_Given
+137,39394,"50_levodopa, decarboxylase inhibitor, 50_amantadine, 50_atenolol, 50_colchicine, 50_digoxin, 50_folic acid, 50_furosemide, 50_magnesium oxide, 50_Not specified, 50_thiamine (vitamin b1)","50_Given, 50_Given, 50_Given, 50_Given, 50_Given, 50_Given, 50_Given, 50_Given, 50_Given, 50_Given"
+138,39490,"70_insulin aspart fast-acting, 70_heparin","70_Given, 70_Given"
+139,39707,"95_insulin aspart fast-acting, 95_carvedilol, 95_atorvastatin","95_Held, 95_Given, 95_Given"
+140,39771,"77_ipratropium bromide, 77_mometasone furoate","77_Given, 77_Given"
+141,39909,55_tramadol,55_Given
+142,39975,94_flunisolide,94_Given
+143,40058,65_oxycodone,65_Given
+144,40152,"71_omeprazole, 71_metoprolol, 71_isosorbide mononitrate, 71_clopidogrel, 71_acetylcysteine, 71_acetylsalicylic acid","71_Given, 71_Given, 71_Given, 71_Given, 71_Given, 71_Given"
+145,40532,83_insulin (human) fast-acting,83_Given
+146,41041,94_enoxaparin ; heparin,94_Given
+147,41309,"66_insulin aspart fast-acting, 66_insulin aspart fast-acting","66_Held, 66_Given"
+148,41407,50_insulin (human) fast-acting,50_Given
+149,41595,"69_docusate, 69_atorvastatin, 69_lisinopril","69_Given, 69_Given, 69_Given"
+150,41667,"75_insulin aspart fast-acting, 75_Not specified","75_Held, 75_Refused"
+151,41761,"57_allopurinol, 57_amiodarone, 57_acetylsalicylic acid, 57_colchicine, 57_digoxin, 57_docusate, 57_furosemide, 57_levothyroxine sodium, 57_lovastatin, 57_metoprolol, 57_metoprolol, 57_spironolactone","57_Given, 57_Given, 57_Given, 57_Given, 57_Given, 57_Given, 57_Given, 57_Missing dose, 57_Given, 57_Given, 57_Given, 57_Given"
+152,42402,77_alprazolam,77_Given
+153,42933,67_hydrocortisone,67_Given
+154,42951,76_furosemide,76_Given
+155,43104,85_paracetamol (acetaminophen),85_Given
+156,43141,81_sodium,81_Given
+157,43238,"84_colecalciferol, 84_paracetamol (acetaminophen)","84_Given, 84_Given"
+158,43476,66_digoxin,66_Given
+159,43802,73_midodrine,73_Given
+160,43829,"34_ibuprofen, 34_cyclobenzaprine","34_Given, 34_Given"
+161,44003,62_insulin aspart fast-acting,62_Held
+162,44393,89_heparin,89_Refused
+163,44835,86_potassium chloride,86_Given
+164,44836,77_budesonide ; formoterol,77_Given
+165,45161,62_insulin (human) fast-acting,62_Given
+166,45285,77_heparin,77_Given
+167,45342,"71_torasemide, 71_gabapentin, 71_hydralazine, 71_paracetamol (acetaminophen)","71_Given, 71_Given, 71_Given, 71_Given"
+168,45742,72_morphine,72_Given
+169,46039,76_pregabalin,76_Given
+170,46107,"72_hydrocortisone, 72_heparin","72_Given, 72_Given"
+171,46154,"95_vancomycin, 95_Not specified","95_Held, 95_Held"
+172,46177,"90_artificial tears, other indifferent preparations ; ethanol, 90_tamsulosin, 90_simvastatin","90_Given, 90_Given, 90_Given"
+173,46189,69_insulin (human) fast-acting,69_Given
+174,47012,"36_diatrizoic acid ; sodium, 36_iopamidol","36_Not specified (no value), 36_Not specified (no value)"
+175,47138,"75_ipratropium bromide ; salbutamol, 75_duloxetine, 75_carvedilol, 75_hydralazine, 75_morphine, 75_senna glycosides, 75_bumetanide, 75_paracetamol (acetaminophen), 75_zinc, 75_carbamide","75_Held, 75_Held, 75_Held, 75_Held, 75_Held, 75_Held, 75_Held, 75_Held, 75_Held, 75_Held"
+176,47454,92_ondansetron,92_Given
+177,48647,"87_amoxicillin, 87_isosorbide dinitrate","87_Given, 87_Given"
+178,49014,"71_acetylcysteine, 71_ascorbic acid (vitamin c), 71_clopidogrel, 71_acetylsalicylic acid, 71_carvedilol, 71_losartan, 71_spironolactone","71_Given, 71_Given, 71_Given, 71_Given, 71_Given, 71_Given, 71_Given"
+179,49127,76_enoxaparin,76_Given
+180,50020,"73_iopamidol, 73_iopamidol","73_Not specified (no value), 73_Not specified (no value)"
+181,50264,"93_donepezil, 93_magnesium oxide, 93_carvedilol, 93_pilocarpine, 93_dorzolamide, 93_ipratropium bromide, 93_ferrous sulfate","93_Given, 93_Given, 93_Given, 93_Given, 93_Given, 93_Given, 93_Given"
+182,50323,75_insulin (human) fast-acting,75_Held
+183,50345,59_lactic acid producing organisms,59_Given
+184,51070,"91_metoprolol, 91_docusate, 91_ipratropium bromide ; salbutamol, 91_morphine, 91_morphine","91_Held, 91_Held, 91_Held, 91_Held, 91_Held"
+185,51215,"88_paracetamol (acetaminophen), 88_bicalutamide","88_Given, 88_Given"
+186,51456,"70_gabapentin, 70_heparin","70_Given, 70_Given"
+187,51551,"61_potassium chloride, 61_amiodarone, 61_glycopyrronium bromide","61_Held, 61_Held, 61_Given"
+188,52128,"79_paracetamol (acetaminophen), 79_acetylsalicylic acid, 79_allopurinol, 79_other emollients and protectives, 79_zinc products","79_Given, 79_Given, 79_Given, 79_Refused, 79_Refused"
+189,52143,74_oxycodone,74_Given
+190,52256,"74_belatacept, 74_Not specified","74_Given, 74_Given"
+191,52608,82_Not specified,82_Given
+192,52681,"85_Not a medication, 85_insulin (human) fast-acting, 85_morphine, 85_morphine, 85_cefepime, 85_glucose, 85_vancomycin, 85_vancomycin","85_Held, 85_Held, 85_Given, 85_Given, 85_Held, 85_Held, 85_Held, 85_Held"
+193,52752,82_benzonatate,82_Given
+194,52767,78_insulin aspart fast-acting,78_Given
+195,52886,"73_atorvastatin, 73_apixaban, 73_acetylsalicylic acid, 73_ceftriaxone","73_Given, 73_Given, 73_Given, 73_Given"
+196,52973,74_isosorbide dinitrate,74_Given
+197,53150,"70_allopurinol, 70_azithromycin, 70_colecalciferol, 70_folic acid, 70_lisinopril, 70_amlodipine, 70_apixaban","70_Given, 70_Given, 70_Given, 70_Given, 70_Given, 70_Given, 70_Given"
+198,53236,"70_insulin (human) fast-acting, 70_insulin (human) fast-acting","70_Given, 70_Given"
+199,53548,84_metolazone,84_Given
+200,53703,75_paracetamol (acetaminophen),75_Refused
+201,53843,72_morphine,72_Infusing (infusion orders)
+202,54446,"61_digoxin, 61_citalopram, 61_carvedilol","61_Given, 61_Given, 61_Given"
+203,54638,91_insulin (human) fast-acting,91_Given
+204,54669,"66_glucose, 66_norepinephrine","66_Infusing (infusion orders), 66_Infusing (infusion orders)"
+205,55398,"72_fluticasone, 72_losartan, 72_levothyroxine sodium, 72_salbutamol","72_Refused, 72_Given, 72_Given, 72_Given"
+206,55492,68_soft paraffin and fat products,68_Refused
+207,56635,"69_paracetamol (acetaminophen), 69_heparin, 69_insulin aspart fast-acting, 69_omeprazole","69_Given, 69_Refused, 69_Refused, 69_Refused"
+208,56968,57_insulin aspart fast-acting,57_Refused
+209,57173,86_ipratropium bromide ; salbutamol,86_Given
+210,57987,"84_potassium chloride, 84_furosemide, 84_carvedilol, 84_glipizide, 84_lisinopril, 84_amoxicillin, enzyme inhibitor ; potassium chloride, 84_amlodipine, 84_omeprazole, 84_acetylsalicylic acid","84_Given, 84_Given, 84_Given, 84_Given, 84_Given, 84_Given, 84_Given, 84_Given, 84_Given"
+211,58641,36_cromoglicic acid,36_Given
+212,58762,78_acetylsalicylic acid,78_Given
+213,58777,"55_hydrocodone ; paracetamol (acetaminophen), 55_carbamazepine, 55_carbamazepine","55_Given, 55_Given, 55_Given"
+214,59112,77_amiodarone,77_Given
+215,59447,82_morphine,82_Given
+216,59471,"86_losartan, 86_calcium, 86_contact laxatives, 86_acetylsalicylic acid, 86_colecalciferol, 86_macrogol","86_Given, 86_Given, 86_Given, 86_Given, 86_Given, 86_Refused"
+217,59545,"65_glibenclamide, 65_olanzapine, 65_valproic acid, 65_sucralfate, 65_budesonide ; formoterol","65_Given, 65_Given, 65_Given, 65_Given, 65_Given"
+218,59735,68_paracetamol (acetaminophen),68_Given
+219,60206,78_insulin aspart fast-acting,78_Given
+220,60339,"84_carvedilol, 84_acetylsalicylic acid, 84_lisinopril, 84_clopidogrel, 84_bicalutamide","84_Given, 84_Given, 84_Given, 84_Given, 84_Given"
+221,61375,91_paracetamol (acetaminophen),91_Held
+222,61468,58_morphine,58_Given
+223,61548,"83_Not specified, 83_insulin (human) fast-acting, 83_lidocaine ; nystatin","83_Given, 83_Given, 83_Given"
+224,61719,"67_sevelamer, 67_insulin aspart fast-acting","67_Given, 67_Given"
+225,61749,65_heparin,65_Held
+226,62143,74_carvedilol,74_Held
+227,62241,60_potassium,60_Given
+228,62334,"78_Not specified, 78_metronidazole","78_Given, 78_Given"
+229,63615,79_clindamycin,79_Given
+230,64006,76_insulin aspart fast-acting,76_Refused
+231,64257,66_ondansetron,66_Given
+232,64450,"82_apixaban, 82_carvedilol","82_Given, 82_Given"
+233,64701,"58_phenytoin, 58_ranitidine, 58_labetalol, 58_thiamine (vitamin b1), 58_paroxetine, 58_folic acid, 58_clopidogrel, 58_acetylsalicylic acid","58_Given, 58_Given, 58_Given, 58_Given, 58_Given, 58_Given, 58_Given, 58_Given"
+234,65684,68_benzocaine ; other antipruritics,68_Missing dose
+235,65973,"61_lansoprazole, 61_insulin (human) fast-acting","61_Refused, 61_Given"
+236,66181,51_ipratropium bromide ; salbutamol,51_Given
+237,66379,"74_carvedilol, 74_carvedilol, 74_insulin (human) fast-acting","74_Given, 74_Given, 74_Given"
+238,66497,"92_ipratropium bromide, 92_amoxicillin, 92_ascorbic acid (vitamin c), 92_gabapentin","92_Given, 92_Given, 92_Given, 92_Given"
+239,66655,83_ipratropium bromide ; salbutamol,83_Given
+240,66821,96_gabapentin,96_Given
+241,67211,69_ketorolac,69_Given
+242,67383,75_bacitracin,75_Given
+243,67484,81_metoprolol,81_Given
+244,68005,"77_paracetamol (acetaminophen), 77_insulin aspart fast-acting","77_Given, 77_Refused"
+245,68239,75_regadenoson,75_Not specified (no value)
+246,68636,63_warfarin,63_Given
+247,68858,72_warfarin,72_Given
+248,69390,39_propranolol,39_Held
+249,69918,84_isosorbide dinitrate,84_Given
+250,70618,68_mexiletine,68_Given
+251,70746,"62_insulin (human) fast-acting, 62_gabapentin, 62_Not specified","62_Held, 62_Given, 62_Held"
+252,70974,"61_salbutamol, 61_insulin (human) fast-acting, 61_ipratropium bromide, 61_potassium ; sodium, 61_metformin, 61_Not specified","61_Held, 61_Held, 61_Held, 61_Held, 61_Held, 61_Held"
+253,71452,72_ofloxacin,72_Held
+254,71469,85_docusate,85_Held
+255,72208,66_magnesium oxide,66_Given
+256,72308,75_influenza vaccines,75_Refused
+257,72812,74_morphine,74_Given
+258,73063,"67_fluorouracil, 67_sodium phosphate, 67_Not specified, 67_Not specified, 67_bevacizumab, 67_sodium phosphate, 67_sodium phosphate, 67_fluorouracil","67_Given, 67_Given, 67_Given, 67_Given, 67_Given, 67_Given, 67_Given, 67_Given"
+259,73167,"71_insulin (human) fast-acting, 71_insulin detemir","71_Given, 71_Given"
+260,73411,51_triamcinolone,51_Refused
+261,73600,"89_risperidone, 89_povidone-iodine, 89_melatonin, 89_paracetamol (acetaminophen), 89_soft paraffin and fat products, 89_paracetamol (acetaminophen)","89_Held, 89_Held, 89_Held, 89_Held, 89_Held, 89_Held"
+262,73855,"84_acetylsalicylic acid, 84_allopurinol, 84_lansoprazole, 84_metoprolol, 84_digoxin, 84_lisinopril, 84_furosemide","84_Given, 84_Given, 84_Given, 84_Given, 84_Given, 84_Given, 84_Given"
+263,74303,"83_midazolam, 83_dexamethasone, antiinfectives","83_Infusing (infusion orders), 83_Infusing (infusion orders)"
+264,74317,77_quetiapine,77_Given
+265,74613,56_gadobenic acid,56_Not specified (no value)
+266,75275,"74_apixaban, 74_metoprolol, 74_gabapentin, 74_guaifenesin","74_Given, 74_Given, 74_Given, 74_Given"
+267,75462,71_oxycodone ; paracetamol (acetaminophen),71_Given
+268,75484,"90_clindamycin, 90_insulin (human) fast-acting","90_Given, 90_Given"
+269,75714,"85_carvedilol, 85_tamsulosin","85_Held, 85_Held"
+270,76007,"55_salbutamol, 55_morphine","55_Given, 55_Given"
+271,76555,74_insulin aspart fast-acting,74_Given
+272,76591,92_magnesium hydroxide,92_Given
+273,76680,67_ipratropium bromide ; salbutamol,67_Given
+274,76744,67_insulin aspart fast-acting,67_Given
+275,77137,70_dipyridamole,70_Not specified (no value)
+276,77142,"56_lactulose, 56_potassium","56_Refused, 56_Given"
+277,77592,"87_Not specified, 87_dexamethasone, 87_diclofenac","87_Held, 87_Given, 87_Held"
+278,77665,"92_Not specified, 92_Not specified, 92_Not specified, 92_Not specified","92_Infusing (infusion orders), 92_Given, 92_Given, 92_Given"
+279,78039,"67_hydralazine, 67_acetylsalicylic acid, 67_amlodipine, 67_guaifenesin, 67_azithromycin, 67_colecalciferol, 67_prednisone","67_Given, 67_Given, 67_Given, 67_Given, 67_Given, 67_Given, 67_Given"
+280,78424,"64_insulin (human) intermediate-acting combined with fast-acting, 64_insulin (human) fast-acting","64_Given, 64_Held"
+281,78626,60_carvedilol,60_Given
+282,79859,81_pantoprazole,81_Given
+283,80030,85_promethazine,85_Held
+284,80242,"55_valsartan, sacubitril, 55_spironolactone, 55_empagliflozin, 55_apixaban, 55_macrogol","55_Given, 55_Given, 55_Given, 55_Given, 55_Refused"
+285,80713,"77_docusate, 77_ranolazine, 77_isosorbide mononitrate, 77_dabigatran etexilate, 77_amlodipine, 77_acetylsalicylic acid","77_Given, 77_Given, 77_Given, 77_Given, 77_Given, 77_Given"
+286,81165,63_insulin aspart fast-acting,63_Given
+287,82054,"90_levodopa, decarboxylase inhibitor, 90_levodopa, decarboxylase inhibitor","90_Held, 90_Held"
+288,82267,90_hydrocodone ; paracetamol (acetaminophen),90_Given
+289,82273,"65_lisinopril, 65_ranitidine, 65_clopidogrel","65_Given, 65_Given, 65_Given"
+290,82314,48_paracetamol (acetaminophen),48_Given
+291,82368,73_ipratropium bromide ; salbutamol,73_Given
+292,82915,"67_amiodarone, 67_acetylsalicylic acid, 67_flunisolide, 67_folic acid, 67_haloperidol, 67_isosorbide dinitrate, 67_lisinopril, 67_magnesium oxide, 67_Not specified, 67_thiamine (vitamin b1)","67_Given, 67_Given, 67_Given, 67_Given, 67_Given, 67_Given, 67_Given, 67_Given, 67_Given, 67_Given"
+293,82968,"59_gabapentin, 59_carvedilol","59_Given, 59_Given"
+294,83577,"79_insulin glargine, 79_insulin aspart fast-acting","79_Held, 79_Held"
+295,83601,"65_hepatitis b, purified antigen",65_Given
+296,83710,"62_valsartan, 62_isosorbide dinitrate, 62_hydralazine, 62_furosemide, 62_digoxin, 62_acetylsalicylic acid, 62_carvedilol","62_Given, 62_Given, 62_Given, 62_Given, 62_Given, 62_Given, 62_Given"
+297,83748,"61_hepatitis a, inactivated, whole virus",61_Given
+298,83926,"88_ipratropium bromide, 88_salbutamol, 88_silver sulfadiazine","88_Given, 88_Given, 88_Given"
+299,84245,"69_flunisolide, 69_theophylline, 69_heparin, 69_bicalutamide","69_Given, 69_Missing dose, 69_Given, 69_Given"
+300,84262,55_pneumococcal vaccines,55_Given
+301,84301,64_insulin aspart fast-acting,64_Held
+302,84413,"58_hydroxyzine, 58_mirtazapine","58_Given, 58_Given"
+303,84661,"76_linezolid, 76_cefepime, 76_Not specified, 76_heparin, 76_morphine","76_Given, 76_Given, 76_Given, 76_Given, 76_Given"
+304,84682,70_potassium chloride,70_Given
+305,84815,93_insulin (human) fast-acting,93_Held
+306,84821,"47_rosuvastatin, 47_metoprolol, 47_insulin (human) fast-acting, 47_clindamycin, 47_Not specified","47_Given, 47_Given, 47_Refused, 47_Given, 47_Given"
+307,84990,"52_lisinopril, 52_docusate, 52_heparin","52_Given, 52_Given, 52_Given"
+308,85484,"61_zafirlukast, 61_hydrocortisone, 61_sertraline, 61_rosiglitazone, 61_gemfibrozil, 61_metformin, 61_metoprolol, 61_omeprazole, 61_acetylsalicylic acid, 61_digoxin, 61_fluticasone","61_Given, 61_Given, 61_Given, 61_Given, 61_Given, 61_Given, 61_Given, 61_Given, 61_Given, 61_Given, 61_Given"
+309,85960,"58_metronidazole, 58_haloperidol, 58_morphine","58_Given, 58_Given, 58_Given"
+310,85966,40_ceftriaxone ; glucose,40_Given
+311,85968,89_furosemide,89_Given
+312,86140,66_paracetamol (acetaminophen),66_Given
+313,86632,"73_regadenoson, 73_regadenoson, 73_regadenoson, 73_regadenoson","73_Not specified (no value), 73_Not specified (no value), 73_Not specified (no value), 73_Not specified (no value)"
+314,87131,"89_cyanocobalamin, 89_finasteride, 89_atorvastatin, 89_acetylsalicylic acid, 89_levothyroxine sodium, 89_budesonide ; formoterol","89_Given, 89_Given, 89_Given, 89_Given, 89_Given, 89_Given"
+315,87166,77_doxercalciferol,77_Given
+316,88033,75_apixaban,75_Missing dose
+317,88042,"68_fluoxetine, 68_acetylsalicylic acid, 68_ferrous sulfate, 68_amiodarone, 68_cadexomer iodine, 68_risperidone","68_Given, 68_Given, 68_Given, 68_Given, 68_Given, 68_Given"
+318,88045,"70_ipratropium bromide, 70_salbutamol","70_Given, 70_Given"
+319,88071,83_levothyroxine sodium,83_Held
+320,88289,87_diltiazem,87_Given
+321,88474,68_digoxin,68_Given
+322,88776,"71_ranitidine, 71_potassium chloride","71_Given, 71_Given"
+323,88819,"88_digoxin, 88_tamsulosin, 88_finasteride","88_Given, 88_Given, 88_Given"
+324,88886,92_insulin aspart fast-acting,92_Given
+325,88951,"82_Not specified, 82_azithromycin, 82_levodopa, decarboxylase inhibitor","82_Given, 82_Given, 82_Given"
+326,88977,89_barium sulfate with suspending agents,89_Not specified (no value)
+327,89178,"93_morphine, 93_amoxicillin, enzyme inhibitor ; potassium chloride, 93_morphine, 93_morphine","93_Held, 93_Held, 93_Held, 93_Held"
+328,89300,50_insulin aspart fast-acting,50_Held
+329,89709,"75_heparin, 75_omeprazole, 75_clopidogrel, 75_atorvastatin, 75_metoprolol, 75_losartan, 75_acetylsalicylic acid, 75_budesonide ; formoterol","75_Given, 75_Given, 75_Given, 75_Given, 75_Given, 75_Given, 75_Given, 75_Missing dose"
+330,89831,"65_insulin aspart fast-acting, 65_insulin aspart fast-acting","65_Given, 65_Given"
+331,89854,"87_silicones, 87_metoprolol","87_Given, 87_Given"
+332,89989,"55_fentanyl, 55_midazolam","55_Given, 55_Given"
+333,90028,"75_methocarbamol, 75_phenytoin","75_Given, 75_Given"
+334,90052,"65_potassium chloride, 65_acetylsalicylic acid","65_Given, 65_Given"
+335,90367,"77_baclofen, 77_carvedilol, 77_furosemide, 77_potassium chloride, 77_collagenase clostridium histolyticum, 77_silver sulfadiazine","77_Given, 77_Given, 77_Given, 77_Given, 77_Given, 77_Given"
+336,90472,73_heparin,73_Given
+337,90608,"88_ipratropium bromide ; salbutamol, 88_metoclopramide, 88_isosorbide dinitrate","88_Given, 88_Given, 88_Given"
+338,90832,"84_valsartan, 84_moxifloxacin, 84_carvedilol, 84_acetylsalicylic acid, 84_enoxaparin, 84_furosemide","84_Given, 84_Given, 84_Given, 84_Given, 84_Given, 84_Given"
+339,90911,"65_paracetamol (acetaminophen), 65_ipratropium bromide ; salbutamol, 65_bisacodyl, 65_lorazepam, 65_olanzapine, 65_valproic acid","65_Held, 65_Held, 65_Held, 65_Held, 65_Held, 65_Held"
+340,91519,"88_enoxaparin, 88_potassium chloride, 88_pantoprazole, 88_cyanocobalamin, 88_carvedilol, 88_furosemide","88_Given, 88_Given, 88_Given, 88_Given, 88_Given, 88_Given"
+341,91548,86_regadenoson,86_Not specified (no value)
+342,92079,"63_Not specified, 63_acetylsalicylic acid, 63_metoprolol, 63_docusate, 63_macrogol","63_Given, 63_Given, 63_Given, 63_Given, 63_Given"
+343,92288,55_nicotine,55_Given
+344,93205,86_methylphenidate,86_Given
+345,93680,70_dorzolamide ; timolol,70_Refused
+346,93917,"64_metoprolol, 64_lisinopril, 64_isosorbide mononitrate","64_Held, 64_Held, 64_Held"
+347,94080,76_diltiazem,76_Missing dose
+348,94935,"83_ceftriaxone, 83_Not specified","83_Given, 83_Given"
+349,95041,88_ferrous sulfate,88_Given
+350,95448,"51_Not specified, 51_insulin (human) fast-acting, 51_methadone, 51_sevelamer","51_Given, 51_Held, 51_Given, 51_Given"
+351,95477,64_dexamethasone,64_Held
+352,95734,"89_acetylsalicylic acid, 89_donepezil, 89_memantine, 89_docusate, 89_tamsulosin, 89_gabapentin, 89_atorvastatin","89_Given, 89_Given, 89_Given, 89_Given, 89_Given, 89_Given, 89_Given"
+353,95750,"71_omeprazole, 71_amlodipine, 71_tamsulosin, 71_senna glycosides, 71_apixaban, 71_chlortalidone","71_Given, 71_Given, 71_Given, 71_Given, 71_Given, 71_Given"
+354,95817,"65_bupropion, 65_isosorbide dinitrate","65_Given, 65_Given"
+355,96711,94_furosemide,94_Given
+356,96816,85_clotrimazole,85_Given
+357,97021,63_insulin aspart fast-acting,63_Held
+358,97370,"47_ipratropium bromide ; salbutamol, 47_sucralfate","47_Given, 47_Given"
+359,98416,78_hydralazine,78_Given
+360,98439,79_metoprolol,79_Given
+361,99024,69_insulin aspart fast-acting,69_Held
+362,99137,88_insulin aspart fast-acting,88_Given
+363,99143,91_warfarin,91_Given
+364,99870,88_omega-3-triglycerides,88_Given
+365,99941,"73_insulin aspart fast-acting, 73_insulin aspart fast-acting, 73_influenza vaccines, 73_Not a medication","73_Given, 73_Given, 73_Given, 73_Given"
+366,100012,69_gabapentin,69_Given
+367,100229,"83_sodium phosphate, 83_piperacillin ; tazobactam","83_Given, 83_Given"
+368,100314,74_midazolam,74_Given
+369,100399,88_hypromellose,88_Given
+370,100694,90_gabapentin,90_Given
+371,101380,84_enoxaparin,84_Given
+372,101407,"89_isosorbide mononitrate, 89_galantamine, 89_citalopram","89_Given, 89_Given, 89_Given"
+373,101530,90_alprazolam,90_Held
+374,102273,75_sulfamethoxazole ; trimethoprim,75_Given
+375,102467,"76_acetylsalicylic acid, 76_cetirizine, 76_cyanocobalamin, 76_donepezil, 76_bupropion, 76_venlafaxine","76_Given, 76_Given, 76_Given, 76_Given, 76_Given, 76_Given"
+376,102468,"66_hydrocodone ; paracetamol (acetaminophen), 66_hydralazine","66_Given, 66_Given"
+377,102592,55_sodium bicarbonate,55_Given
+378,102788,70_insulin aspart fast-acting,70_Held
+379,103133,99_influenza vaccines,99_Given
+380,103169,"74_midazolam, 74_hydromorphone, 74_octreotide, 74_hydroxyzine","74_Held, 74_Held, 74_Held, 74_Held"
+381,103335,"68_metoprolol, 68_captopril, 68_isosorbide dinitrate","68_Given, 68_Given, 68_Given"
+382,103462,"70_budesonide ; formoterol, 70_ketotifen, 70_salbutamol, 70_insulin aspart fast-acting","70_Given, 70_Given, 70_Given, 70_Given"
+383,104244,63_metoprolol,63_Given
+384,104339,"85_Not specified, 85_imipenem, enzyme inhibitor","85_Given, 85_Given"
+385,104362,"63_lisinopril, 63_paracetamol (acetaminophen)","63_Given, 63_Given"
+386,104480,93_tramadol,93_Given
+387,104616,"66_ipratropium bromide ; salbutamol, 66_metformin, 66_furosemide, 66_insulin (human) fast-acting, 66_insulin (human) intermediate-acting combined with fast-acting, 66_glipizide","66_Held, 66_Held, 66_Held, 66_Held, 66_Held, 66_Held"
+388,105005,67_iopamidol,67_Not specified (no value)
+389,105077,83_losartan,83_Given
+390,105402,70_ceftriaxone,70_Given
+391,105425,72_insulin aspart fast-acting,72_Given
+392,105769,"48_insulin aspart fast-acting, 48_insulin aspart fast-acting","48_Held, 48_Held"
+393,105907,70_influenza vaccines,70_Refused
+394,105924,"86_ipratropium bromide ; salbutamol, 86_amoxicillin","86_Given, 86_Given"
+395,105947,"85_carvedilol, 85_furosemide, 85_apixaban","85_Given, 85_Given, 85_Given"
+396,106030,73_Not specified,73_Given
+397,106440,"67_paracetamol (acetaminophen), 67_insulin aspart fast-acting","67_Given, 67_Held"
+398,106715,"94_piperacillin ; tazobactam, 94_Not specified","94_Given, 94_Given"
+399,106818,52_pantoprazole,52_Given
+400,107471,"81_famotidine, 81_apixaban, 81_midodrine, 81_amiodarone, 81_acetylsalicylic acid, 81_loratadine","81_Given, 81_Given, 81_Given, 81_Given, 81_Given, 81_Given"
+401,107797,"66_metoprolol, 66_gabapentin, 66_acetylsalicylic acid, 66_rosuvastatin, 66_lisinopril, 66_furosemide, 66_glucose, 66_vancomycin","66_Given, 66_Given, 66_Given, 66_Given, 66_Given, 66_Given, 66_Given, 66_Given"
+402,107880,73_cefalexin,73_Given
+403,108043,72_ipratropium bromide ; salbutamol,72_Given
+404,108054,62_insulin aspart fast-acting,62_Refused
+405,108167,"67_prednisone, 67_metoprolol, 67_acetylsalicylic acid, 67_ciprofloxacin, 67_colecalciferol, 67_cyanocobalamin, 67_budesonide ; formoterol, 67_diclofenac","67_Given, 67_Given, 67_Given, 67_Given, 67_Given, 67_Given, 67_Given, 67_Given"
+406,108307,"74_insulin (human) fast-acting, 74_metformin","74_Given, 74_Given"
+407,108611,"91_lorazepam, 91_morphine","91_Given, 91_Given"
+408,108901,"65_docusate, 65_nicotine","65_Given, 65_Removed (patch taken off)"
+409,109204,74_docusate,74_Refused
+410,109675,"72_cyanocobalamin, 72_atenolol, 72_felodipine, 72_lisinopril","72_Given, 72_Given, 72_Given, 72_Given"
+411,111865,58_liquid paraffin,58_Not specified (no value)
+412,111922,75_blood plasma,75_Infusing (infusion orders)
+413,112212,"66_furosemide, 66_spironolactone","66_Given, 66_Given"
+414,112457,49_hydrocodone ; paracetamol (acetaminophen),49_Given
+415,112675,"75_metoprolol, 75_potassium, 75_furosemide, 75_hydrocortisone, 75_clotrimazole","75_Given, 75_Given, 75_Given, 75_Given, 75_Given"
+416,112807,73_ipratropium bromide ; salbutamol,73_Given
+417,113606,66_oxycodone,66_Given
+418,114033,"83_insulin aspart fast-acting, 83_insulin aspart fast-acting","83_Given, 83_Given"
+419,114062,"65_acetylsalicylic acid, 65_mexiletine, 65_colchicine, 65_gabapentin","65_Given, 65_Given, 65_Given, 65_Given"
+420,114383,"72_insulins and analogues, 72_ipratropium bromide ; salbutamol, 72_gabapentin, 72_dextran ; hypromellose","72_Given, 72_Given, 72_Given, 72_Given"
+421,114689,"73_insulin aspart fast-acting, 73_insulin aspart fast-acting, 73_insulin aspart fast-acting","73_Held, 73_Given, 73_Given"
+422,114805,"72_rabeprazole, 72_tocopherol (vitamin e), 72_prednisone, 72_calcium ; vitamin d and analogues, 72_metoprolol, 72_acetylsalicylic acid","72_Given, 72_Given, 72_Given, 72_Given, 72_Given, 72_Given"
+423,114818,"95_oxycodone ; paracetamol (acetaminophen), 95_acetylsalicylic acid, 95_furosemide, 95_potassium, 95_docusate","95_Given, 95_Given, 95_Given, 95_Given, 95_Given"
+424,115142,"80_Not specified, 80_Not specified, 80_ipratropium bromide ; salbutamol","80_Given, 80_Given, 80_Given"
+425,115167,65_insulin aspart fast-acting,65_Given
+426,115675,77_isosorbide dinitrate,77_Given
+427,115818,77_ipratropium bromide ; salbutamol,77_Given
+428,115904,86_ipratropium bromide ; salbutamol,86_Held
+429,116508,68_gabapentin,68_Given
+430,116882,"91_iohexol, 91_iohexol, 91_iohexol, 91_iohexol","91_Not specified (no value), 91_Not specified (no value), 91_Not specified (no value), 91_Not specified (no value)"
+431,117225,"59_amlodipine, 59_tars, 59_salicylic acid","59_Given, 59_Refused, 59_Refused"
+432,117606,74_ofloxacin,74_Given
+433,117675,68_lanreotide,68_Given
+434,118088,"87_isosorbide dinitrate, 87_ipratropium bromide ; salbutamol, 87_erythropoietin","87_Given, 87_Given, 87_Given"
+435,118613,"66_insulin detemir, 66_various, 66_heparin, 66_hydralazine","66_Given, 66_Given, 66_Refused, 66_Given"
+436,118729,71_clotrimazole,71_Given
+437,119278,"59_paroxetine, 59_insulin (human) intermediate-acting combined with fast-acting","59_Given, 59_Given"
+438,119298,"72_insulin aspart fast-acting, 72_gabapentin, 72_Not specified, 72_digoxin","72_Given, 72_Given, 72_Given, 72_Given"
+439,119741,66_digoxin,66_Given
+440,119747,"75_azithromycin, 75_omeprazole, 75_phenazopyridine, 75_prednisone, 75_heparin","75_Given, 75_Given, 75_Given, 75_Given, 75_Given"
+441,119756,"85_acetylsalicylic acid, 85_paracetamol (acetaminophen)","85_Given, 85_Given"
+442,119853,"67_atorvastatin, 67_pregabalin, 67_glimepiride, 67_Not specified","67_Given, 67_Given, 67_Missing dose, 67_Refused"
+443,119994,90_hydromorphone,90_Given
+444,120418,"77_ipratropium bromide, 77_salbutamol","77_Held, 77_Held"
+445,120485,88_heparin,88_Given
+446,120630,"87_carvedilol, 87_insulins and analogues for injection, fast-acting, 87_paracetamol (acetaminophen)","87_Given, 87_Held, 87_Given"
+447,120856,"81_simvastatin, 81_docusate","81_Given, 81_Given"
+448,120950,85_heparin,85_Given
+449,121348,62_carvedilol,62_Given
+450,121453,75_gadopentetic acid,75_Not specified (no value)
+451,121786,"48_Not specified, 48_citalopram, 48_celecoxib","48_Given, 48_Given, 48_Given"
+452,121891,"71_regadenoson, 71_regadenoson, 71_regadenoson, 71_regadenoson","71_Not specified (no value), 71_Not specified (no value), 71_Not specified (no value), 71_Not specified (no value)"
+453,121976,60_morphine,60_Given
+454,122044,"90_heparin, 90_Not specified","90_Given, 90_Given"
+455,122113,63_glucose ; magnesium sulfate,63_Given
+456,122114,49_eptifibatide,49_Infusing (infusion orders)
+457,122432,"74_insulin (human) fast-acting, 74_sevelamer, 74_calcium acetate anhydrous","74_Held, 74_Held, 74_Held"
+458,122697,"89_clopidogrel, 89_acetylsalicylic acid, 89_furosemide, 89_metoprolol, 89_ranitidine, 89_potassium chloride, 89_nystatin","89_Given, 89_Given, 89_Given, 89_Given, 89_Given, 89_Given, 89_Given"
+459,122705,"81_Not specified, 81_furosemide, 81_tobramycin","81_Given, 81_Given, 81_Given"
+460,122861,76_insulin aspart fast-acting,76_Refused
+461,123109,54_lactulose,54_Refused
+462,123470,"70_spironolactone, 70_valsartan, sacubitril, 70_cyanocobalamin, 70_carvedilol, 70_budesonide ; formoterol","70_Given, 70_Given, 70_Given, 70_Given, 70_Refused"
+463,124113,81_oxycodone ; paracetamol (acetaminophen),81_Given
+464,124336,76_heparin,76_Given
+465,124345,74_lorazepam,74_Given
+466,124950,"68_pneumococcus, purified polysaccharides antigen, 68_influenza vaccines","68_Given, 68_Given"
+467,124959,"80_Not specified, 80_docetaxel","80_Given, 80_Given"
+468,125103,72_naproxen,72_Given
+469,125279,"78_glipizide, 78_metformin","78_Given, 78_Given"
+470,125917,74_insulin aspart fast-acting,74_Given
+471,126126,"85_potassium chloride, 85_magnesium oxide","85_Given, 85_Given"
+472,126149,70_filgrastim,70_Given
+473,126279,78_paracetamol (acetaminophen),78_Given
+474,126400,78_cefuroxime,78_Given
+475,126572,"89_budesonide ; formoterol, 89_docusate","89_Held, 89_Held"
+476,126755,"58_aluminium compounds, combinations ; calcium acetate anhydrous, 58_nystatin, 58_metoprolol, 58_lorazepam, 58_insulin (human) intermediate-acting combined with fast-acting, 58_paracetamol (acetaminophen), 58_mupirocin","58_Held, 58_Held, 58_Held, 58_Held, 58_Held, 58_Held, 58_Held"
+477,126919,"75_amiodarone, 75_valsartan, sacubitril","75_Given, 75_Given"
+478,127188,76_ceftriaxone,76_Given
+479,127970,"76_ipratropium bromide, 76_salbutamol","76_Held, 76_Held"
+480,128094,"66_prednisolone, 66_moxifloxacin, 66_(Censored)","66_Given, 66_Given, 66_Given"
+481,128427,"96_insulin (human) fast-acting, 96_insulin (human) fast-acting","96_Given, 96_Given"
+482,128866,86_paracetamol (acetaminophen),86_Given
+483,128935,95_ipratropium bromide ; salbutamol,95_Given
+484,129156,"95_midodrine, 95_amoxicillin","95_Given, 95_Given"
+485,129236,88_gabapentin,88_Given
+486,129320,"61_influenza vaccines, 61_heparin","61_Refused, 61_Held"
+487,129641,"75_acetylsalicylic acid, 75_furosemide, 75_lisinopril, 75_metoprolol","75_Given, 75_Given, 75_Given, 75_Given"
+488,129928,"73_salbutamol, 73_ipratropium bromide","73_Given, 73_Given"
+489,129977,85_dextran ; hypromellose,85_Refused
+490,130476,"81_insulin aspart fast-acting, 81_insulin aspart fast-acting","81_Given, 81_Given"
+491,131065,88_pemoline,88_Given
+492,131301,71_regadenoson,71_Not specified (no value)
+493,131408,56_insulin (human) fast-acting,56_Held
+494,131516,56_warfarin,56_Given
+495,131548,"84_simvastatin, 84_cefalexin, 84_ibuprofen, 84_guaifenesin, 84_fluticasone","84_Given, 84_Given, 84_Given, 84_Given, 84_Given"
+496,131776,"95_docusate, 95_acetylsalicylic acid, 95_amlodipine, 95_atorvastatin, 95_finasteride, 95_enoxaparin","95_Given, 95_Given, 95_Given, 95_Given, 95_Given, 95_Given"
+497,132010,79_ipratropium bromide,79_Held
+498,132018,87_Not specified,87_Given
+499,132165,36_propranolol,36_Given
+500,132647,"88_hydroxyzine, 88_ipratropium bromide ; salbutamol","88_Given, 88_Given"
+501,133583,73_Not specified,73_Infusing (infusion orders)
+502,133681,"80_midodrine, 80_piperacillin","80_Given, 80_Given"
+503,133752,76_hydromorphone,76_Not given
+504,134019,82_salbutamol,82_Held
+505,134341,67_influenza vaccines,67_Given
+506,134549,86_carbamide,86_Given
+507,135090,"51_bacitracin, 51_calcium acetate anhydrous","51_Given, 51_Given"
+508,135216,58_oxycodone ; paracetamol (acetaminophen),58_Given
+509,135461,83_furosemide,83_Given
+510,135685,72_furosemide,72_Given
+511,135750,"72_ipratropium bromide, 72_ipratropium bromide","72_Held, 72_Held"
+512,135917,"89_Not specified, 89_morphine","89_Infusing (infusion orders), 89_Infusing (infusion orders)"
+513,136230,56_ipratropium bromide,56_Given
+514,136451,67_iodixanol,67_Not specified (no value)
+515,136502,"68_hydralazine, 68_heparin","68_Given, 68_Given"
+516,136533,49_carvedilol,49_Given
+517,136544,70_Not specified,70_Given
+518,136628,"73_atenolol, 73_docusate, 73_finasteride, 73_lisinopril, 73_ranitidine","73_Given, 73_Given, 73_Given, 73_Given, 73_Given"
+519,136730,63_hydromorphone,63_Given
+520,137040,53_ketorolac,53_Given
+521,137111,61_insulin aspart fast-acting,61_Given
+522,137294,"71_dexamethasone, 71_esomeprazole","71_Given, 71_Given"
+523,137322,"67_acetylsalicylic acid, 67_colecalciferol, 67_clopidogrel, 67_lisinopril, 67_Not specified","67_Given, 67_Given, 67_Given, 67_Given, 67_Given"
+524,137771,"38_acamprosate, 38_paracetamol (acetaminophen)","38_Given, 38_Given"
+525,137973,59_pregabalin,59_Given
+526,138177,"87_tamsulosin, 87_finasteride, 87_metoprolol, 87_omeprazole, 87_calcium ; vitamin d and analogues, 87_ferrous gluconate, 87_furosemide","87_Given, 87_Given, 87_Given, 87_Given, 87_Given, 87_Given, 87_Given"
+527,138266,"77_rituximab, 77_Not specified","77_Infusing (infusion orders), 77_Infusing (infusion orders)"
+528,138450,"80_morphine, 80_dexamethasone, 80_morphine","80_Given, 80_Given, 80_Given"
+529,138567,70_morphine,70_Given
+530,138631,"68_ipratropium bromide, 68_salbutamol","68_Given, 68_Given"
+531,139521,88_lorazepam,88_Given
+532,139741,"58_acetylsalicylic acid, 58_clopidogrel, 58_docusate, 58_metoprolol","58_Given, 58_Given, 58_Given, 58_Given"
+533,139877,"66_salbutamol, 66_ipratropium bromide","66_Given, 66_Held"
+534,139982,84_calcium carbonate,84_Given
+535,140430,"63_lisinopril, 63_clopidogrel, 63_metoprolol, 63_acetylsalicylic acid, 63_magnesium sulfate, 63_magnesium sulfate","63_Given, 63_Given, 63_Given, 63_Given, 63_Given, 63_Given"
+536,140556,65_nifedipine,65_Not given
+537,141895,86_sucralfate,86_Given
+538,142117,77_oxycodone ; paracetamol (acetaminophen),77_Given
+539,143048,"72_salbutamol, 72_ipratropium bromide","72_Given, 72_Given"
+540,143290,82_clopidogrel,82_Given
+541,143356,78_salbutamol,78_Given
+542,143470,67_regadenoson,67_Not specified (no value)
+543,143492,91_glyceryl trinitrate,91_Given
+544,143583,"63_lactulose, 63_midodrine, 63_salbutamol","63_Given, 63_Given, 63_Given"
+545,143885,"65_lisinopril, 65_flunisolide","65_Given, 65_Given"
+546,144395,"56_metolazone, 56_allopurinol, 56_lovastatin","56_Given, 56_Given, 56_Given"
+547,145086,"61_hydralazine, 61_glibenclamide","61_Given, 61_Given"
+548,145480,"64_bisacodyl, 64_docusate, 64_metoclopramide, 64_ferrous sulfate","64_Refused, 64_Refused, 64_Refused, 64_Refused"
+549,145807,"85_metoprolol, 85_furosemide","85_Given, 85_Given"
+550,145995,"81_docusate, 81_furosemide, 81_potassium, 81_omeprazole, 81_senna glycosides, 81_metoprolol, 81_amlodipine, 81_fosinopril","81_Given, 81_Given, 81_Given, 81_Given, 81_Given, 81_Given, 81_Held, 81_Held"
+551,146435,68_insulin (human) fast-acting,68_Held
+552,146481,73_aluminium hydroxide ; magnesium hydroxide ; silicones,73_Given
+553,146483,"67_furosemide, 67_lisinopril","67_Given, 67_Given"
+554,146612,"90_heparin, 90_macrogol, 90_Not specified, 90_docusate, 90_sertraline, 90_tolterodine, 90_gabapentin, 90_silver sulfadiazine","90_Given, 90_Given, 90_Given, 90_Given, 90_Given, 90_Given, 90_Given, 90_Given"
+555,147237,70_hydrocodone ; paracetamol (acetaminophen),70_Given
+556,147606,90_metoprolol,90_Held
+557,147619,85_ipratropium bromide ; salbutamol,85_Given
+558,147971,89_salbutamol,89_Given
+559,148893,61_mupirocin,61_Given
+560,149040,"86_lisinopril, 86_Not specified, 86_terazosin, 86_finasteride, 86_docusate, 86_acetazolamide, 86_hydrochlorothiazide, 86_heparin, 86_ferrous sulfate, 86_felodipine","86_Given, 86_Given, 86_Given, 86_Given, 86_Given, 86_Given, 86_Given, 86_Given, 86_Given, 86_Given"
+561,149483,94_Not specified,94_Given
+562,149757,89_ipratropium bromide ; salbutamol,89_Given
+563,149787,64_olanzapine,64_Given
+564,150157,"69_furosemide, 69_diphenhydramine","69_Given, 69_Given"
+565,151180,"66_heparin, 66_bacitracin, 66_morphine","66_Given, 66_Given, 66_Given"
+566,151867,"98_metoprolol, 98_furosemide","98_Given, 98_Given"
+567,151921,"74_ferrous sulfate, 74_furosemide","74_Refused, 74_Given"
+568,152040,70_Not specified,70_Refused
+569,152061,80_cyclobenzaprine,80_Given
+570,152238,66_budesonide ; formoterol,66_Given
+571,152587,"92_allopurinol, 92_acetylsalicylic acid, 92_furosemide, 92_lisinopril","92_Refused, 92_Refused, 92_Refused, 92_Refused"
+572,152768,"66_colecalciferol, 66_lisinopril, 66_spironolactone, 66_carvedilol","66_Given, 66_Given, 66_Given, 66_Given"
+573,153055,"83_calcium acetate anhydrous, 83_metronidazole, 83_furosemide, 83_heparin, 83_Not specified","83_Given, 83_Given, 83_Given, 83_Given, 83_Held"
+574,153146,"84_insulin (human) fast-acting, 84_glipizide, 84_ferrous sulfate","84_Given, 84_Held, 84_Held"
+575,153265,83_bacitracin,83_Held
+576,153408,"57_clonidine, 57_glibenclamide, 57_lisinopril, 57_potassium, 57_ascorbic acid (vitamin c) ; vitamin b-complex, plain","57_Given, 57_Given, 57_Given, 57_Given, 57_Given"
+577,153870,77_paracetamol (acetaminophen),77_Given
+578,154561,80_adenosine,80_Not specified (no value)
+579,154720,52_potassium,52_Given
+580,154784,71_ibuprofen,71_Given
+581,155331,"95_paracetamol (acetaminophen), 95_heparin, 95_levofloxacin","95_Given, 95_Given, 95_Given"
+582,155332,"91_cefalexin, 91_calcium ; vitamin d and analogues","91_Given, 91_Held"
+583,156560,"70_calcium gluconate, 70_Not specified, 70_magnesium sulfate, 70_sodium chloride, 70_Not specified, 70_potassium","70_Given, 70_Given, 70_Given, 70_Given, 70_Given, 70_Given"
+584,156705,"84_heparin, 84_sertraline, 84_pyridoxine (vitamin b6), 84_folic acid, 84_acetylsalicylic acid, 84_ascorbic acid (vitamin c), 84_carvedilol, 84_Not specified, 84_formoterol, 84_mometasone furoate","84_Given, 84_Given, 84_Given, 84_Given, 84_Given, 84_Given, 84_Given, 84_Given, 84_Given, 84_Given"
+585,156832,"72_hydralazine, 72_Not specified","72_Given, 72_Given"
+586,157362,"84_Not a medication, 84_insulin (human) fast-acting","84_Refused, 84_Refused"
+587,157903,88_furosemide,88_Refused
+588,157947,85_Not specified,85_Refused
+589,157987,"65_salbutamol, 65_ipratropium bromide","65_Given, 65_Given"
+590,158264,"71_acetylsalicylic acid, 71_fosinopril, 71_metoprolol","71_Given, 71_Given, 71_Given"
+591,158472,79_montelukast,79_Given
+592,158742,"77_hydromorphone, 77_midazolam","77_Given, 77_Given"
+593,159062,83_clopidogrel,83_Given
+594,159755,"71_Not specified, 71_insulin (human) fast-acting","71_Given, 71_Given"
+595,160058,83_ipratropium bromide,83_Given
+596,160193,68_apixaban,68_Given
+597,161353,"54_Not specified, 54_midazolam, 54_fentanyl, 54_Not specified, 54_heparin, 54_insulin (human) fast-acting, 54_insulin (human) fast-acting","54_Infusing (infusion orders), 54_Infusing (infusion orders), 54_Infusing (infusion orders), 54_Infusing (infusion orders), 54_Held, 54_Held, 54_Held"
+598,161539,"74_felodipine, 74_lisinopril, 74_acetylsalicylic acid, 74_sodium bicarbonate, 74_omeprazole, 74_amiodarone, 74_docusate, 74_morphine, 74_metoprolol, 74_glucose, 74_vancomycin","74_Given, 74_Given, 74_Given, 74_Given, 74_Given, 74_Given, 74_Given, 74_Given, 74_Given, 74_Held, 74_Held"
+599,161864,"88_Not specified, 88_dexamethasone ; sodium","88_Given, 88_Given"
+600,162002,75_ketorolac,75_Given
+601,162077,79_ipratropium bromide ; salbutamol,79_Held
+602,162328,"81_ferrous sulfate, 81_pentoxifylline","81_Given, 81_Given"
+603,162404,"73_glucose ; magnesium sulfate, 73_magnesium sulfate","73_Given, 73_Given"
+604,162507,"54_bumetanide, 54_metolazone","54_Given, 54_Given"
+605,162727,"85_Not specified, 85_insulin aspart fast-acting, 85_heparin","85_Given, 85_Given, 85_Given"
+606,162755,57_hydroxyzine,57_Given
+607,163598,50_ketorolac,50_Given
+608,163686,66_atropine,66_Given
+609,163867,80_insulin aspart fast-acting,80_Held
+610,163951,83_ipratropium bromide ; salbutamol,83_Given
+611,164176,"82_other antipruritics ; zinc, 82_dimeticone ; zinc","82_Held, 82_Held"
+612,165235,70_leuprorelin,70_Given
+613,165265,84_azithromycin,84_Given
+614,165836,"84_vancomycin, 84_various","84_Given, 84_Given"
+615,165904,81_paracetamol (acetaminophen),81_Given
+616,166007,66_ipratropium bromide,66_Given
+617,166211,84_budesonide ; formoterol,84_Missing dose
+618,166229,"43_minoxidil, 43_sevelamer, 43_clonidine, 43_labetalol, 43_diphenhydramine","43_Held, 43_Held, 43_Held, 43_Held, 43_Held"
+619,166603,89_digoxin,89_Given
+620,166856,63_heparin,63_Given
+621,166881,"76_salbutamol, 76_ipratropium bromide","76_Given, 76_Given"
+622,167102,75_insulin (human) fast-acting,75_Given
+623,167404,78_insulin (human) fast-acting,78_Given
+624,167917,"50_chlortalidone, 50_spironolactone, 50_amlodipine, 50_enoxaparin","50_Given, 50_Given, 50_Given, 50_Given"
+625,168008,73_hydromorphone,73_Given

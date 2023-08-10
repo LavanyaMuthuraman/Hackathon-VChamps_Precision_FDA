@@ -1,0 +1,525 @@
+,Internalpatientid,outpatients_First_listed_diagnosis_icd10_subcategory,outpatients_Second_listed_diagnosis_icd10_subcategory
+0,67,58_Encounter for immunization,58_Not specified
+1,200,88_Vascular dementia,88_Not specified
+2,330,75_Encounter for immunization,75_Not specified
+3,351,86_Other chronic osteomyelitis,86_Not specified
+4,714,"68_Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,68_Major depressive disorder, recurrent, moderate,68_Major depressive disorder, recurrent, moderate","68_Panic disorder [episodic paroxysmal anxiety],68_Panic disorder [episodic paroxysmal anxiety],68_Not specified"
+5,1451,87_Combined systolic (congestive) and diastolic (congestive) heart failure,87_Type 2 diabetes mellitus without complications
+6,1568,77_Pain in joint,77_Not specified
+7,1805,"84_Anxiety disorder, unspecified",84_Not specified
+8,2674,"74_Other specified counseling,74_Peripheral vascular disease, unspecified","74_Not specified,74_Cellulitis and acute lymphangitis of other parts of limb"
+9,3020,"81_Malignant neoplasm of left kidney, except renal pelvis,81_Malignant neoplasm of left kidney, except renal pelvis","81_Anemia, unspecified,81_Not specified"
+10,3450,70_Chronic periodontitis,70_Not specified
+11,3547,79_Other specified counseling,79_Not specified
+12,3606,65_Person awaiting admission to adequate facility elsewhere,65_Not specified
+13,4203,69_Heart transplant status,69_Not specified
+14,4246,76_Type 2 diabetes mellitus without complications,76_Mixed hyperlipidemia
+15,4641,"85_Activity, unspecified",85_Not specified
+16,4845,68_Problems related to living in residential institution,68_Not specified
+17,5653,74_Systolic (congestive) heart failure,74_Sleep apnea
+18,5920,"83_Pemphigus, unspecified",83_Pure hypercholesterolemia
+19,6370,104_Other specified problems related to psychosocial circumstances,104_Not specified
+20,6421,72_Type 2 diabetes mellitus with other specified complications,72_Other hammer toe(s) (acquired)
+21,6584,82_Other specified counseling,82_Not specified
+22,7320,"76_Neoplasm of unspecified behavior of bone, soft tissue, and skin",76_Not specified
+23,7572,84_Dietary counseling and surveillance,84_Not specified
+24,7925,85_Other chronic osteomyelitis,85_Not specified
+25,8281,75_Encounter for other specified aftercare,75_Presence of prosthetic heart valve
+26,8286,83_Other malaise and fatigue,83_Not specified
+27,8320,"81_Carcinoma in situ of colon,81_Carcinoma in situ of colon,81_Carcinoma in situ of colon","81_Vascular dementia,81_Constipation,81_Not specified"
+28,8596,"96_Heart failure, unspecified,96_Heart failure, unspecified","96_Hyperlipidemia, unspecified,96_Not specified"
+29,9391,88_Systolic (congestive) heart failure,"88_Chronic obstructive pulmonary disease, unspecified"
+30,9947,77_Persistent atrial fibrillation,"77_Chronic obstructive pulmonary disease, unspecified"
+31,10469,"68_Homelessness,68_Homelessness","68_Not specified,68_Not specified"
+32,10633,70_Medical services not available in home,70_Not specified
+33,10948,81_Keratoconjunctivitis,81_Not specified
+34,11339,"79_Chronic ischemic heart disease, unspecified",79_Nonrheumatic aortic (valve) stenosis
+35,11521,85_Sleep apnea,85_Not specified
+36,11618,72_Chronic atrial fibrillation,72_Not specified
+37,11674,"70_Other specified counseling,70_Atherosclerotic heart disease of native coronary artery","70_Not specified,70_Not specified"
+38,12356,90_Presence of cardiac pacemaker,90_Not specified
+39,12457,76_Abnormal glucose,76_Not specified
+40,12601,"87_Other specified counseling,87_Other specified counseling,87_Other specified counseling,87_Other specified counseling,87_Other specified counseling,87_COVID-19","87_Not specified,87_Not specified,87_Not specified,87_Not specified,87_Not specified,87_Not specified"
+41,12803,86_Encounter for immunization,86_Not specified
+42,13494,82_Type 2 diabetes mellitus without complications,82_Not specified
+43,14169,74_Other specified counseling,74_Not specified
+44,14472,85_Type 2 diabetes mellitus without complications,85_Presence of cardiac pacemaker
+45,15168,"84_Carcinoma in situ of prostate,84_Persistent atrial fibrillation","84_Other specified disorders of bladder,84_Long term (current) use of anticoagulants and antithrombotics/antiplatelets"
+46,15529,100_Other specified counseling,100_Not specified
+47,15548,80_Paroxysmal atrial fibrillation,80_Long term (current) use of anticoagulants and antithrombotics/antiplatelets
+48,15803,"84_Complete loss of teeth,84_Need for assistance with personal care,84_Difficulty in walking, not elsewhere classified,84_Acute kidney failure, unspecified","84_Not specified,84_Not specified,84_Not specified,84_Not specified"
+49,16325,"78_Encounter for other administrative examinations,78_Malignant neoplasm of bladder, unspecified,78_Carcinoma in situ of bladder,78_Encounter for other administrative examinations,78_Encounter for other administrative examinations,78_Carcinoma in situ of bladder","78_Not specified,78_Other specified disorders of muscle,78_Other specified disorders of muscle,78_Not specified,78_Not specified,78_Ill-defined and unknown cause of mortality"
+50,16588,67_Malignant neoplasm of unspecified part of bronchus or lung,67_Not specified
+51,16911,94_Glaucoma suspect,94_Presence of intraocular lens
+52,17182,77_Other malignant neuroendocrine tumors,77_Malignant neoplasm of rectum
+53,17326,"93_Cerebellar stroke syndrome,93_Encounter for examination and observation for other specified reasons","93_Chronic atrial fibrillation,93_Cerebellar stroke syndrome"
+54,17380,"81_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease,81_Other seborrheic keratosis","81_Gout, unspecified,81_Personal history of malignant neoplasms of other organs and systems"
+55,18599,76_Encounter for immunization,76_Not specified
+56,18839,"76_Presence of intraocular lens,76_Encounter for fitting and adjustment of spectacles and contact lenses","76_Not specified,76_Not specified"
+57,19714,"78_Nail disorder, unspecified",78_Not specified
+58,20309,75_Heart transplant status,75_Atherosclerosis of coronary artery bypass graft(s) and coronary artery of transplanted heart with angina pectoris
+59,20630,"74_Presence of cardiac pacemaker,74_Encounter for observation for other suspected diseases and conditions ruled out","74_Not specified,74_Not specified"
+60,20728,91_Diastolic (congestive) heart failure,91_Not specified
+61,21360,77_Encounter for adjustment and management of cardiac device,77_Unspecified atrial fibrillation and atrial flutter
+62,21426,89_Systolic (congestive) heart failure,"89_Chronic kidney disease, stage 3 (moderate)"
+63,21909,"64_Quadriplegia,64_Tracheostomy status,64_Quadriplegia,64_Tracheostomy status,64_Paraplegia,64_Tracheostomy status","64_Not specified,64_Quadriplegia,64_Not specified,64_Quadriplegia,64_Not specified,64_Not specified"
+64,22263,74_Problem related to unspecified psychosocial circumstances,74_Not specified
+65,23485,"80_Counseling, unspecified",80_Not specified
+66,23527,72_Encounter for screening for cardiovascular disorders,72_Not specified
+67,24984,"78_Atherosclerotic heart disease of native coronary artery,78_Other general symptoms and signs","78_Anxiety disorder, unspecified,78_Not specified"
+68,25241,"81_Chronic obstructive pulmonary disease, unspecified",81_Not specified
+69,25290,"73_Systolic (congestive) heart failure,73_Systolic (congestive) heart failure","73_Not specified,73_Essential (primary) hypertension"
+70,25516,"71_Unspecified atrial fibrillation and atrial flutter,71_Essential (primary) hypertension","71_Long term (current) use of anticoagulants and antithrombotics/antiplatelets,71_Not specified"
+71,25654,87_Encounter for other administrative examinations,87_Not specified
+72,26517,"75_Encounter for other orthopedic aftercare,75_Gangrene, not elsewhere classified,75_Weakness,75_Other specified counseling,75_Weakness,75_Encounter for other orthopedic aftercare,75_Other specified counseling,75_Other long term (current) drug therapy,75_Type 2 diabetes mellitus with circulatory complications,75_Visual field defects,75_Gangrene, not elsewhere classified,75_Counseling, unspecified,75_Other specified counseling","75_Encounter for palliative care,75_Encounter for other orthopedic aftercare,75_Not specified,75_Not specified,75_Not specified,75_Encounter for palliative care,75_Not specified,75_Not specified,75_Other long term (current) drug therapy,75_Legal blindness, as defined in USA,75_Not specified,75_Not specified,75_Not specified"
+73,26981,77_Encounter for examination and observation for unspecified reason,77_Not specified
+74,27099,76_Encounter for other specified aftercare,76_Paroxysmal atrial fibrillation
+75,27204,88_Encounter for other specified postprocedural aftercare,"88_Encounter for attention to dressings, sutures and drains"
+76,27819,78_Other specified counseling,78_Not specified
+77,27940,75_Other specified extrapyramidal and movement disorders,"75_Major depressive disorder, recurrent, unspecified"
+78,28682,"65_Personal history of diseases of the respiratory system,65_Personal history of diseases of the respiratory system,65_Acute and chronic respiratory failure,65_Other and unspecified encephalopathy","65_Not specified,65_Not specified,65_Other and unspecified encephalopathy,65_Not specified"
+79,28878,69_Other specified counseling,69_Not specified
+80,28954,78_Other specified counseling,78_Not specified
+81,29315,90_Encounter for other specified aftercare,90_Person awaiting admission to adequate facility elsewhere
+82,29412,"77_Chronic venous hypertension (idiopathic),77_Chronic obstructive pulmonary disease, unspecified","77_Not specified,77_Not specified"
+83,29798,"68_Personal history of malignant neoplasm of trachea, bronchus and lung","68_Anemia, unspecified"
+84,30079,63_Other specified counseling,63_Not specified
+85,30772,75_Essential (primary) hypertension,75_Impacted cerumen
+86,31319,55_Type 2 diabetes mellitus with unspecified complications,55_Not specified
+87,31356,"88_Non-ST elevation (NSTEMI) myocardial infarction,88_Heart failure, unspecified,88_Heart failure, unspecified,88_Complete loss of teeth","88_Encounter for palliative care,88_Not specified,88_Non-ST elevation (NSTEMI) myocardial infarction,88_Not specified"
+88,31586,82_Problems related to living in residential institution,82_Not specified
+89,31806,"70_Chronic obstructive pulmonary disease, unspecified",70_Dependence on other enabling machines and devices
+90,31828,"65_Benign lipomatous neoplasm of skin and subcutaneous tissue of head, face and neck",65_Not specified
+91,31905,77_Complete loss of teeth,77_Not specified
+92,32652,"72_Other specified counseling,72_Other specified counseling,72_Dyspnea","72_Not specified,72_Not specified,72_Not specified"
+93,32970,"67_Opioid dependence,67_Cocaine abuse,67_Opioid dependence,67_Low back pain,67_Opioid dependence,67_Opioid dependence","67_Not specified,67_Opioid dependence,67_Not specified,67_Not specified,67_Not specified,67_Not specified"
+94,33411,"80_Chronic periodontitis,80_Dental root caries","80_Complete loss of teeth,80_Encounter for dental examination and cleaning"
+95,34282,"73_Hyperlipidemia, unspecified","73_Vitamin D deficiency, unspecified"
+96,34287,"86_Dysphagia,86_Cerebral infarction, unspecified,86_Interstitial pulmonary disease, unspecified,86_Acute and chronic respiratory failure,86_Acute and chronic respiratory failure,86_Other specified interstitial pulmonary diseases,86_Paroxysmal atrial fibrillation,86_Middle cerebral artery syndrome,86_Middle cerebral artery syndrome,86_Interstitial pulmonary disease, unspecified,86_Other specified counseling,86_Unspecified atrial fibrillation and atrial flutter,86_Occlusion and stenosis of carotid artery,86_Chest pain, unspecified,86_Middle cerebral artery syndrome,86_Occlusion and stenosis of carotid artery,86_Counseling, unspecified","86_Sequelae of cerebral infarction,86_Apraxia,86_Hemoptysis,86_Pneumonitis due to inhalation of food and vomit,86_Not specified,86_Pneumonitis due to inhalation of food and vomit,86_Not specified,86_Not specified,86_Not specified,86_Hemoptysis,86_Not specified,86_Not specified,86_Not specified,86_Not specified,86_Unspecified atrial fibrillation and atrial flutter,86_Not specified,86_Not specified"
+97,35012,88_Type 2 diabetes mellitus without complications,88_Essential (primary) hypertension
+98,35076,"77_Encounter for immunization,77_Benign neoplasm of choroid","77_Not specified,77_Presbyopia"
+99,35087,81_Asphyxia and hypoxemia,81_Not specified
+100,36160,"96_Encounter for screening, unspecified",96_Not specified
+101,36414,64_Unspecified atrial fibrillation and atrial flutter,64_Encounter for immunization
+102,36434,"72_Encounter for other specified aftercare,72_Encounter for palliative care","72_Not specified,72_Not specified"
+103,37010,78_Systolic (congestive) heart failure,"78_Hyperlipidemia, unspecified"
+104,37156,"80_Chronic maxillary sinusitis,80_Other specified counseling","80_Not specified,80_Not specified"
+105,37366,76_Other specified counseling,76_Not specified
+106,37508,"66_Encounter for screening for eye and ear disorders,66_Essential (primary) hypertension,66_Encounter for screening for eye and ear disorders","66_Type 2 diabetes mellitus without complications,66_Sciatica,66_Glaucoma suspect"
+107,38043,"65_Other specified counseling,65_Acute bronchitis, unspecified,65_Counseling, unspecified","65_Not specified,65_Major depressive disorder, recurrent, mild,65_Not specified"
+108,38452,73_Polycythemia vera,73_Not specified
+109,38493,81_Encounter for other administrative examinations,81_Not specified
+110,38696,"79_Other specified problems related to psychosocial circumstances,79_Dyspnea","79_Not specified,79_Other specified problems related to psychosocial circumstances"
+111,38785,"77_Occlusion and stenosis of carotid artery,77_Other specified counseling","77_Not specified,77_Not specified"
+112,38910,90_Type 2 diabetes mellitus without complications,90_Long term (current) use of anticoagulants and antithrombotics/antiplatelets
+113,39490,71_Other specified degenerative diseases of nervous system,71_Not specified
+114,39531,"75_Systolic (congestive) heart failure,75_Encounter for screening for eye and ear disorders,75_Encounter for screening for eye and ear disorders,75_Presbyopia","75_Other long term (current) drug therapy,75_Presence of intraocular lens,75_Presence of intraocular lens,75_Not specified"
+115,39707,"95_Other specified problems related to psychosocial circumstances,95_Other specified counseling","95_Not specified,95_Not specified"
+116,39771,78_Dyspnea,78_Not specified
+117,39909,"57_Encounter for immunization,57_Counseling, unspecified,57_Other viral agents as the cause of diseases classified elsewhere","57_Not specified,57_Not specified,57_Not specified"
+118,40532,88_Other specified counseling,88_Not specified
+119,41041,"94_Encounter for palliative care,94_Other specified health status,94_Encounter for other specified aftercare","94_Chronic atrial fibrillation,94_Not specified,94_Not specified"
+120,41309,69_Drug-induced myopathy,69_Type 2 diabetes mellitus without complications
+121,41595,"72_Counseling, unspecified",72_Not specified
+122,42402,"84_Other specified counseling,84_Acquired absence of leg below knee","84_Not specified,84_Not specified"
+123,42933,"69_Open wound of hip,69_Open wound of hip","69_Not specified,69_Not specified"
+124,43141,"81_Ingrowing nail,81_Other specified counseling","81_Tinea unguium,81_Not specified"
+125,43238,84_Other general symptoms and signs,84_Not specified
+126,43268,72_Other specified counseling,72_Not specified
+127,43476,"70_Major depressive disorder, recurrent, in remission","70_Anxiety disorder, unspecified"
+128,43802,"73_Encounter for observation for other suspected diseases and conditions ruled out,73_Encounter for observation for other suspected diseases and conditions ruled out,73_Post-traumatic stress disorder (PTSD)","73_Not specified,73_Not specified,73_Major depressive disorder, recurrent, moderate"
+129,43829,38_Not specified,38_Pain in joint
+130,44003,63_Type 2 diabetes mellitus without complications,63_Essential (primary) hypertension
+131,44393,90_Other general symptoms and signs,90_Not specified
+132,44835,"86_Activity, unspecified",86_Not specified
+133,44836,"77_Urethral functional and muscular disorders,77_Encounter for screening for cardiovascular disorders,77_Typical atrial flutter","77_Malignant neoplasm of left kidney, except renal pelvis,77_Not specified,77_Hypothyroidism, unspecified"
+134,45342,"71_Counseling, unspecified",71_Not specified
+135,45742,73_Chronic pain syndrome,73_Spinal stenosis
+136,45762,"85_Sensorineural hearing loss, bilateral",85_Not specified
+137,46025,79_Not specified,79_Olecranon bursitis
+138,46039,77_Diastolic (congestive) heart failure,77_Encounter for screening for other viral diseases
+139,46131,55_Sleep apnea,55_Low back pain
+140,46154,95_Encounter for examination and observation for unspecified reason,95_Not specified
+141,46177,"94_Malignant neoplasm of floor of mouth, unspecified,94_Malignant neoplasm of floor of mouth, unspecified,94_Adjustment disorders","94_Abnormal weight loss,94_Encounter for palliative care,94_Encounter for palliative care"
+142,47012,"42_Allergic rhinitis, unspecified","42_Hyperlipidemia, unspecified"
+143,47138,75_Systolic (congestive) heart failure,75_Encounter for palliative care
+144,47454,"93_Rheumatic mitral valve disease, unspecified",93_Essential (primary) hypertension
+145,48643,94_Other specified counseling,94_Not specified
+146,49014,74_Encounter for adjustment and management of cardiac device,74_Not specified
+147,49127,78_Presence of cardiac pacemaker,78_Not specified
+148,49590,92_Problem related to unspecified psychosocial circumstances,92_Not specified
+149,49978,94_Problem related to unspecified psychosocial circumstances,94_Not specified
+150,50020,78_Paroxysmal atrial fibrillation,78_Atherosclerotic heart disease of native coronary artery
+151,50264,93_Person encountering health services to consult on behalf of another person,93_Encounter for palliative care
+152,50738,79_Systolic (congestive) heart failure,79_Essential (primary) hypertension
+153,51180,55_Extreme poverty,55_Not specified
+154,51456,70_Other specified counseling,70_Not specified
+155,51551,"61_Chronic obstructive pulmonary disease, unspecified",61_Not specified
+156,52128,"81_Malignant neoplasm of unspecified part of bronchus or lung,81_Malignant neoplasm of unspecified part of bronchus or lung,81_Malignant neoplasm of unspecified part of bronchus or lung","81_Not specified,81_Not specified,81_Not specified"
+157,52256,"74_Kidney transplant status,74_Encounter for aftercare following organ transplant","74_Not specified,74_Disorders of phosphorus metabolism and phosphatases"
+158,52752,"82_Paroxysmal atrial fibrillation,82_Occlusion and stenosis of carotid artery","82_Diastolic (congestive) heart failure,82_Peripheral vascular disease, unspecified"
+159,52767,79_Other specified counseling,79_Not specified
+160,52886,76_Other nonspecific abnormal finding of lung field,76_Not specified
+161,53075,85_Carcinoma in situ of prostate,85_Not specified
+162,53150,73_Essential (primary) hypertension,73_Portal vein thrombosis
+163,53236,72_Other specified counseling,72_Not specified
+164,53548,"84_Other specified problems related to psychosocial circumstances,84_Other specified problems related to psychosocial circumstances,84_Atherosclerotic heart disease of native coronary artery","84_Not specified,84_Not specified,84_Not specified"
+165,53681,"92_Other specified counseling,92_Encounter for general adult medical examination","92_Not specified,92_Hypertensive heart disease with heart failure"
+166,53703,76_Pain disorders related to psychological factors,76_Low back pain
+167,54638,92_Bilateral primary osteoarthritis of knee,92_Not specified
+168,54993,73_Other cardiomyopathies,73_Unspecified atrial fibrillation and atrial flutter
+169,55398,"79_Benign prostatic hyperplasia with lower urinary tract symptoms,79_Other general symptoms and signs","79_Not specified,79_Not specified"
+170,55492,79_Need for assistance with personal care,79_Not specified
+171,55955,"81_Counseling, unspecified,81_Hypertensive heart disease without heart failure","81_Not specified,81_Chronic obstructive pulmonary disease with (acute) exacerbation"
+172,56035,70_Unspecified psychosis not due to a substance or known physiological condition,70_Alcohol abuse
+173,56635,"69_Post-traumatic stress disorder (PTSD),69_Osteoarthritis of knee, unspecified,69_Other specified counseling","69_Not specified,69_Not specified,69_Not specified"
+174,57404,"90_Chronic obstructive pulmonary disease, unspecified",90_Benign prostatic hyperplasia with lower urinary tract symptoms
+175,58622,73_Personal history of infectious and parasitic diseases,73_Benign prostatic hyperplasia with lower urinary tract symptoms
+176,58641,39_Migraine without aura,39_Not specified
+177,58777,59_Other depressive episodes,59_Not specified
+178,59471,86_Essential (primary) hypertension,86_Not specified
+179,59545,"76_Dependence on other enabling machines and devices,76_Other specified counseling","76_Not specified,76_Not specified"
+180,59735,"71_Problem related to housing and economic circumstances, unspecified",71_Not specified
+181,61375,"91_Cerebral infarction, unspecified",91_Not specified
+182,61468,"64_Counseling, unspecified",64_Not specified
+183,61583,73_Encounter for other specified aftercare,73_Not specified
+184,61719,"67_End stage renal disease,67_End stage renal disease,67_Acute respiratory failure","67_Not specified,67_Not specified,67_Not specified"
+185,61749,76_Type 2 diabetes mellitus without complications,76_Sleep apnea
+186,61795,73_Dyspnea,73_Atherosclerotic heart disease of native coronary artery
+187,62143,"74_Heart failure, unspecified,74_Chronic obstructive pulmonary disease, unspecified","74_Not specified,74_Problems related to education and literacy, unspecified"
+188,62249,"76_Counseling, unspecified",76_Not specified
+189,62460,90_Chronic atrial fibrillation,"90_Alzheimer's disease, unspecified"
+190,63615,"79_Problems related to living in residential institution,79_Problems related to living in residential institution","79_Not specified,79_Not specified"
+191,64006,76_Chronic atrial fibrillation,76_Not specified
+192,64450,"82_Problem related to unspecified psychosocial circumstances,82_Chronic obstructive pulmonary disease, unspecified","82_Systolic (congestive) heart failure,82_Age-related physical debility"
+193,65684,70_Essential (primary) hypertension,70_Not specified
+194,66263,94_Encounter for fitting and adjustment of hearing aid,94_Not specified
+195,66379,77_Encounter for other specified aftercare,77_Type 2 diabetes mellitus without complications
+196,66821,"96_Counseling, unspecified,96_Encounter for immunization,96_Motor neuron disease,96_Other specified counseling,96_Other and unspecified injuries of thoracic spinal cord","96_Not specified,96_Not specified,96_Not specified,96_Not specified,96_Paraplegia"
+197,67211,"72_Malignant carcinoid tumors,72_Essential (primary) hypertension","72_Not specified,72_Not specified"
+198,67484,"87_Heart failure, unspecified",87_Not specified
+199,68005,"77_Encounter for screening, unspecified,77_Essential (primary) hypertension","77_Not specified,77_Encounter for observation for other suspected diseases and conditions ruled out"
+200,68239,"75_Encounter for screening for other viral diseases,75_Dyspnea,75_Excessive attrition of teeth","75_Not specified,75_Not specified,75_Not specified"
+201,68454,81_Conjunctival hemorrhage,81_Unspecified disorder of refraction
+202,68636,"68_Cardiomyopathy, unspecified,68_Systolic (congestive) heart failure","68_Presence of other cardiac and vascular implants and grafts,68_Not specified"
+203,68858,"77_Encounter for screening for other specified diseases and disorders,77_Other seborrheic keratosis","77_Not specified,77_Not specified"
+204,69283,75_Essential (primary) hypertension,75_Encounter for immunization
+205,69390,46_Agoraphobia,46_Post-traumatic stress disorder (PTSD)
+206,70746,67_Occlusion and stenosis of carotid artery,67_Other forms of chronic ischemic heart disease
+207,70974,72_Encounter for other specified aftercare,72_Type 2 diabetes mellitus without complications
+208,71452,74_Other specified problems related to psychosocial circumstances,74_Not specified
+209,72208,70_Elevated prostate specific antigen [PSA],"70_Male erectile dysfunction, unspecified"
+210,72308,"84_Malignant neoplasm of external lower lip,84_Encounter for immunization","84_Malignant neoplasm of overlapping sites of tongue,84_Not specified"
+211,72812,"74_Dyspnea,74_Asphyxia and hypoxemia,74_Dyspnea,74_Chronic obstructive pulmonary disease, unspecified,74_Unspecified bacterial pneumonia,74_Ischemic cardiomyopathy,74_Unspecified bacterial pneumonia,74_Chronic obstructive pulmonary disease, unspecified,74_Chronic obstructive pulmonary disease, unspecified,74_Encounter for other specified aftercare","74_Not specified,74_Not specified,74_Not specified,74_Not specified,74_Encounter for other specified aftercare,74_Presence of other cardiac and vascular implants and grafts,74_Acute respiratory failure,74_Not specified,74_Not specified,74_Pneumonia, unspecified organism"
+212,73063,"67_Malignant neoplasm of colon, unspecified,67_Malignant neoplasm of colon, unspecified,67_Malignant neoplasm of colon, unspecified,67_Malignant neoplasm of colon, unspecified","67_Not specified,67_Not specified,67_Not specified,67_Not specified"
+213,73165,86_Encounter for fitting and adjustment of hearing aid,86_Not specified
+214,73411,57_Post-traumatic stress disorder (PTSD),57_Not specified
+215,73600,"89_Heart failure, unspecified,89_Unspecified dementia,89_Dementia in other diseases classified elsewhere","89_Not specified,89_Not specified,89_Not specified"
+216,74613,61_Encounter for screening for malignant neoplasm of other sites,61_Venous insufficiency (chronic) (peripheral)
+217,74825,"87_Legal blindness, as defined in USA",87_Not specified
+218,75157,"77_Chronic obstructive pulmonary disease, unspecified,77_Essential (primary) hypertension","77_Not specified,77_Encounter for immunization"
+219,75275,"74_Other specified counseling,74_COVID-19,74_COVID-19,74_Sleep apnea","74_Not specified,74_Unspecified atrial fibrillation and atrial flutter,74_Not specified,74_Not specified"
+220,75714,85_Other specified postprocedural states,85_Not specified
+221,76555,"74_Schizoaffective disorder, depressive type",74_Borderline personality disorder
+222,76680,"68_Encounter for issue of repeat prescription,68_Encounter for other general examination","68_Long term (current) use of anticoagulants and antithrombotics/antiplatelets,68_Not specified"
+223,76744,69_Encounter for screening for malignant neoplasm of intestinal tract,69_Not specified
+224,77137,85_Essential (primary) hypertension,85_Other interstitial pulmonary diseases with fibrosis
+225,77592,87_Other specified counseling,87_Not specified
+226,77665,"93_Acute upper respiratory infection, unspecified",93_Not specified
+227,78039,"71_Encounter for screening for cardiovascular disorders,71_Unspecified atrial fibrillation and atrial flutter,71_Encounter for screening for cardiovascular disorders","71_Not specified,71_Long term (current) use of anticoagulants and antithrombotics/antiplatelets,71_Not specified"
+228,78353,71_Type 2 diabetes mellitus without complications,71_Not specified
+229,78626,"64_Solitary pulmonary nodule,64_Personal history of in-situ and benign neoplasms and neoplasms of uncertain behavior,64_Contact with and (suspected) exposure to other communicable diseases,64_Benign neoplasm of transverse colon,64_Benign neoplasm of descending colon","64_Sleep apnea,64_Not specified,64_Not specified,64_Personal history of in-situ and benign neoplasms and neoplasms of uncertain behavior,64_Rectal polyp"
+230,79413,69_Other problems related to housing and economic circumstances,69_Not specified
+231,80030,86_Type 2 diabetes mellitus without complications,86_Corns and callosities
+232,80242,55_Encounter for other specified aftercare,"55_Acute myocardial infarction, unspecified"
+233,81165,63_Systolic (congestive) heart failure,63_Other long term (current) drug therapy
+234,82070,90_Encounter for palliative care,90_Not specified
+235,82176,"74_Melanocytic nevi, unspecified",74_Venous insufficiency (chronic) (peripheral)
+236,82273,74_Ischemic cardiomyopathy,74_Essential (primary) hypertension
+237,82314,"49_Congenital pes planus,49_Other specified counseling","49_Not specified,49_Not specified"
+238,82860,92_Asphyxia and hypoxemia,92_Not specified
+239,82968,61_Alcohol dependence,61_Not specified
+240,83601,68_End stage renal disease,68_Not specified
+241,83748,68_Systolic (congestive) heart failure,68_Not specified
+242,83792,88_Encounter for fitting and adjustment of hearing aid,88_Not specified
+243,84251,85_Type 2 diabetes mellitus without complications,85_Problem related to unspecified psychosocial circumstances
+244,84262,57_Personal history of other specified conditions,57_Not specified
+245,84301,72_Encounter for other specified aftercare,72_Unspecified atrial fibrillation and atrial flutter
+246,84413,"58_Essential (primary) hypertension,58_Problem related to social environment, unspecified","58_Not specified,58_Not specified"
+247,84436,"84_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",84_Dependence on renal dialysis
+248,84661,76_Other specified counseling,76_Not specified
+249,84821,"50_Major depressive disorder, recurrent, moderate",50_Not specified
+250,84990,68_Type 2 diabetes mellitus with other specified complications,68_Patient's noncompliance with medical treatment and regimen
+251,85966,41_Opioid dependence,41_Inappropriate diet and eating habits
+252,85968,92_Corns and callosities,92_Tinea unguium
+253,86376,"78_Pain in limb, hand, foot, fingers and toes",78_Not specified
+254,86632,"83_Type 2 diabetes mellitus with kidney complications,83_Type 2 diabetes mellitus without complications","83_Unspecified atrial fibrillation and atrial flutter,83_Unspecified atrial fibrillation and atrial flutter"
+255,87131,89_Long term (current) use of anticoagulants and antithrombotics/antiplatelets,89_Not specified
+256,87166,"77_Activity, unspecified",77_Not specified
+257,87910,72_Disappearance and death of family member,72_Not specified
+258,88033,"75_Myelodysplastic syndrome, unspecified",75_Not specified
+259,88068,75_Type 2 diabetes mellitus with unspecified complications,75_Not specified
+260,88071,"82_Other specified counseling,82_Malignant neoplasm of submandibular gland,82_Other specified disorders of muscle,82_Malignant neoplasm of submandibular gland,82_Malignant neoplasm of submandibular gland,82_Malignant neoplasm of submandibular gland,82_Malignant neoplasm of submandibular gland,82_Syncope and collapse,82_Other specified disorders of muscle,82_Dysphagia","82_Not specified,82_Encounter for palliative care,82_Syncope and collapse,82_Age-related physical debility,82_Not specified,82_Encounter for palliative care,82_Encounter for palliative care,82_Not specified,82_Syncope and collapse,82_Not specified"
+261,88136,75_Open-angle glaucoma,75_Not specified
+262,88457,"86_Chronic obstructive pulmonary disease, unspecified",86_Essential (primary) hypertension
+263,88537,79_Age-related physical debility,79_Not specified
+264,88886,92_Systolic (congestive) heart failure,92_Type 2 diabetes mellitus without complications
+265,88977,"90_Chronic obstructive pulmonary disease, unspecified",90_Not specified
+266,89286,86_Encounter for other specified aftercare,86_Unspecified atrial fibrillation and atrial flutter
+267,89300,51_Alcohol dependence,51_Generalized anxiety disorder
+268,89673,"89_Activity, unspecified",89_Not specified
+269,89709,"75_End stage renal disease,75_End stage renal disease,75_Peripheral vascular disease, unspecified,75_Age-related physical debility,75_End stage renal disease,75_End stage renal disease,75_Age-related physical debility,75_Traumatic amputation at level between hip and knee,75_End stage renal disease","75_Not specified,75_Not specified,75_Not specified,75_Not specified,75_Not specified,75_Not specified,75_Not specified,75_Not specified,75_Not specified"
+270,89831,69_Type 2 diabetes mellitus with kidney complications,69_Not specified
+271,89989,56_Type 2 diabetes mellitus with neurological complications,56_Not specified
+272,90472,74_Malignant neoplasm of prostate,74_Not specified
+273,90535,78_Glaucoma suspect,78_Not specified
+274,90911,"65_Dementia in other diseases classified elsewhere,65_Schizoaffective disorder, unspecified","65_Other specified fever,65_Dysphagia"
+275,91519,89_Dietary counseling and surveillance,89_Not specified
+276,91548,90_Paroxysmal atrial fibrillation,90_Long term (current) use of anticoagulants and antithrombotics/antiplatelets
+277,91664,91_Other specified problems related to psychosocial circumstances,91_Not specified
+278,91683,"78_Other abnormalities of gait and mobility,78_Other abnormalities of gait and mobility","78_Not specified,78_Not specified"
+279,92079,"70_Other specified counseling,70_Other specified counseling","70_Not specified,70_Not specified"
+280,92189,90_Encounter for immunization,90_Not specified
+281,92288,62_Long term (current) use of anticoagulants and antithrombotics/antiplatelets,62_Embolism and thrombosis of unspecified artery
+282,92921,"68_Chronic obstructive pulmonary disease, unspecified",68_Not specified
+283,93533,95_Other long term (current) drug therapy,95_Essential (primary) hypertension
+284,93680,"73_Encounter for screening, unspecified",73_Not specified
+285,93917,68_Unilateral primary osteoarthritis of knee,68_Not specified
+286,94080,"76_Cardiomyopathy, unspecified",76_Systolic (congestive) heart failure
+287,94720,50_Other specified counseling,50_Not specified
+288,94935,"83_Counseling, unspecified,83_Idiopathic progressive neuropathy","83_Not specified,83_Corns and callosities"
+289,95041,"88_Encounter for other specified aftercare,88_Essential (primary) hypertension","88_Unspecified atrial fibrillation and atrial flutter,88_Unspecified atrial fibrillation and atrial flutter"
+290,95734,"89_Subacute osteomyelitis,89_Systolic (congestive) heart failure,89_Legal blindness, as defined in USA","89_Not specified,89_Encounter for palliative care,89_Unspecified dementia"
+291,95750,74_Essential (primary) hypertension,74_Benign prostatic hyperplasia without lower urinary tract symptoms
+292,96711,95_Other specified counseling,95_Not specified
+293,96816,86_Encounter for examination and observation for other specified reasons,86_Not specified
+294,97021,63_Ischemic cardiomyopathy,63_Other hyperlipidemia
+295,98439,"84_Other specified problems related to psychosocial circumstances,84_Other specified problems related to psychosocial circumstances,84_COVID-19","84_Not specified,84_Not specified,84_Not specified"
+296,99137,"88_Systolic (congestive) heart failure,88_Counseling, unspecified","88_Not specified,88_Not specified"
+297,99941,77_Glaucoma suspect,77_Presence of intraocular lens
+298,100012,74_Asphyxia and hypoxemia,74_Not specified
+299,100223,"88_Counseling, unspecified,88_Other specified counseling","88_Not specified,88_Not specified"
+300,100229,"83_Sepsis, unspecified organism,83_Counseling, unspecified,83_Problem related to unspecified psychosocial circumstances,83_Counseling, unspecified,83_Encounter for other specified aftercare,83_Unspecified dementia,83_Pressure ulcer of hip,83_Pneumonia due to Pseudomonas,83_Encounter for other specified aftercare","83_Heart failure, unspecified,83_Not specified,83_Not specified,83_Not specified,83_Not specified,83_Encounter for palliative care,83_Other osteomyelitis,83_Proteus (mirabilis) (morganii) as the cause of diseases classified elsewhere,83_Not specified"
+301,100314,"74_Encounter for palliative care,74_Other specified counseling,74_Encounter for adjustment and management of cardiac device,74_Acute respiratory failure,74_Combined systolic (congestive) and diastolic (congestive) heart failure,74_Encounter for palliative care,74_End stage renal disease","74_Not specified,74_Not specified,74_Ischemic cardiomyopathy,74_Unspecified atrial fibrillation and atrial flutter,74_Not specified,74_Age-related physical debility,74_Not specified"
+302,100681,82_Type 2 diabetes mellitus without complications,82_Other disorders of lacrimal gland
+303,100694,"91_Encounter for screening, unspecified,91_Other general symptoms and signs","91_Not specified,91_Not specified"
+304,101225,"72_Sensorineural hearing loss, bilateral",72_Encounter for fitting and adjustment of hearing aid
+305,101984,65_Encounter for other specified postprocedural aftercare,65_Presence of intraocular lens
+306,102273,78_Other specified counseling,78_Not specified
+307,102450,50_Type 2 diabetes mellitus with ophthalmic complications,50_Type 2 diabetes mellitus with kidney complications
+308,102467,76_Other skin changes due to chronic exposure to nonionizing radiation,76_Actinic keratosis
+309,102468,"70_Chronic kidney disease, stage 4 (severe),70_Encounter for immunization","70_Hyperkalemia,70_Not specified"
+310,102592,57_Heart transplant status,57_Pain in joint
+311,102788,74_Dyspnea,74_Not specified
+312,102905,79_Encounter for issue of medical certificate,79_Not specified
+313,103335,89_Long term (current) use of insulin,"89_Hyperlipidemia, unspecified"
+314,103421,71_Systolic (congestive) heart failure,71_Not specified
+315,103462,70_Person encountering health services to consult on behalf of another person,70_Not specified
+316,103513,"85_Chronic obstructive pulmonary disease, unspecified",85_Systolic (congestive) heart failure
+317,104244,"63_Chronic atrial fibrillation,63_Nonrheumatic aortic (valve) stenosis with insufficiency","63_Encounter for other specified aftercare,63_Not specified"
+318,104362,"63_Dyspnea,63_Other specified disorders of muscle,63_Difficulty in walking, not elsewhere classified,63_Problem related to unspecified psychosocial circumstances,63_Other specified disorders of muscle,63_Homelessness,63_Chronic obstructive pulmonary disease, unspecified","63_Not specified,63_Not specified,63_Not specified,63_Not specified,63_Not specified,63_Not specified,63_Not specified"
+319,104480,93_Other specified counseling,93_Not specified
+320,105005,67_Pyogenic granuloma,67_Type 2 diabetes mellitus with circulatory complications
+321,105425,"73_Chest pain, unspecified,73_Ventricular premature depolarization","73_Not specified,73_Unspecified atrial fibrillation and atrial flutter"
+322,105756,82_Encounter for other specified aftercare,82_Unspecified atrial fibrillation and atrial flutter
+323,105769,49_Other forms of chronic ischemic heart disease,49_Pain localized to upper abdomen
+324,105907,75_Encounter for issue of repeat prescription,75_Not specified
+325,105947,87_Problems of adjustment to life-cycle transitions,87_Not specified
+326,106243,62_Encounter for immunization,62_Not specified
+327,106440,67_Venous insufficiency (chronic) (peripheral),67_Not specified
+328,106715,"94_End stage renal disease,94_Other specified counseling,94_Other specified counseling,94_Dementia in other diseases classified elsewhere","94_Encounter for palliative care,94_Not specified,94_Not specified,94_Not specified"
+329,106818,52_Combined systolic (congestive) and diastolic (congestive) heart failure,52_Type 2 diabetes mellitus with unspecified complications
+330,107249,"93_Counseling, unspecified",93_Not specified
+331,107471,"81_Malignant neoplasm of unspecified part of bronchus or lung,81_Malignant neoplasm of unspecified part of bronchus or lung,81_Malignant neoplasm of unspecified part of bronchus or lung","81_Other symptoms and signs involving emotional state,81_Not specified,81_Not specified"
+332,107645,"86_Counseling, unspecified",86_Not specified
+333,107797,"73_Other specified counseling,73_Encounter for other specified aftercare","73_Encounter for issue of repeat prescription,73_Paroxysmal atrial fibrillation"
+334,107880,"74_Heart failure, unspecified",74_Not specified
+335,108043,"72_Post-traumatic stress disorder (PTSD),72_Post-traumatic stress disorder (PTSD)","72_Not specified,72_Tobacco abuse counseling"
+336,108047,87_Chronic obstructive pulmonary disease with (acute) exacerbation,87_Encounter for palliative care
+337,108054,"63_Type 2 diabetes mellitus with unspecified complications,63_Chronic kidney disease, stage 4 (severe)","63_Hyperlipidemia, unspecified,63_Essential (primary) hypertension"
+338,108167,67_Obstruction of bile duct,67_Not specified
+339,108668,"89_Chronic kidney disease, stage 4 (severe)","89_Thrombocytopenia, unspecified"
+340,110734,93_Acquired absence of leg below knee,93_Not specified
+341,111360,"84_Other specified counseling,84_Combined systolic (congestive) and diastolic (congestive) heart failure","84_Not specified,84_Type 2 diabetes mellitus without complications"
+342,111922,"75_End stage renal disease,75_Encounter for adequacy testing for dialysis,75_Encounter for observation for other suspected diseases and conditions ruled out","75_Not specified,75_Not specified,75_Systolic (congestive) heart failure"
+343,111947,"72_Counseling, unspecified",72_Not specified
+344,112457,64_Other specified counseling,64_Not specified
+345,112459,73_Elevated prostate specific antigen [PSA],73_Not specified
+346,112511,65_Glaucoma suspect,65_Not specified
+347,112675,"82_Essential (primary) hypertension,82_Encounter for other specified aftercare","82_Venous insufficiency (chronic) (peripheral),82_Unspecified atrial fibrillation and atrial flutter"
+348,112807,"78_Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",78_Dependence on other enabling machines and devices
+349,113606,"69_Other bipolar disorders,69_Long term (current) use of anticoagulants and antithrombotics/antiplatelets,69_Hypertensive heart disease with heart failure,69_Major depressive disorder, recurrent, moderate","69_Not specified,69_Not specified,69_Encounter for observation for other suspected diseases and conditions ruled out,69_Anxiety disorder, unspecified"
+350,113626,"78_Interstitial pulmonary disease, unspecified",78_Sleep apnea
+351,114033,84_Encounter for fitting and adjustment of hearing aid,"84_Sensorineural hearing loss, bilateral"
+352,114062,66_Other retinal vascular occlusions,66_Not specified
+353,114689,"73_Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",73_Not specified
+354,114715,92_Atherosclerotic heart disease of native coronary artery,92_Personal history of other specified conditions
+355,114884,71_Malignant neoplasm of prostate,71_Encounter for palliative care
+356,115075,"71_Heart failure, unspecified","71_Pain in limb, hand, foot, fingers and toes"
+357,115142,80_Other specified counseling,80_Not specified
+358,115167,"67_Pain in limb, hand, foot, fingers and toes",67_Not specified
+359,115818,"83_Atherosclerotic heart disease of native coronary artery,83_Encounter for fitting and adjustment of hearing aid","83_Not specified,83_Sensorineural hearing loss, bilateral"
+360,115904,88_Unspecified dementia,88_Not specified
+361,116508,68_Glaucoma suspect,68_Age-related nuclear cataract
+362,116882,91_Dementia in other diseases classified elsewhere,91_Not specified
+363,117184,89_Encounter for other administrative examinations,89_Not specified
+364,117225,70_Psoriasis vulgaris,70_Not specified
+365,117606,75_Glaucoma suspect,75_Corneal transplant status
+366,117675,68_Other malignant neuroendocrine tumors,68_Not specified
+367,117923,68_Type 2 diabetes mellitus with other specified complications,68_Not specified
+368,118613,66_Encounter for screening for other viral diseases,66_Not specified
+369,119137,79_Encounter for general adult medical examination,79_Personal history of diseases of the digestive system
+370,119756,"86_Problem related to unspecified psychosocial circumstances,86_Encounter for palliative care","86_Not specified,86_Not specified"
+371,119853,"68_Type 2 diabetes mellitus with unspecified complications,68_Low back pain","68_Hyperlipidemia, unspecified,68_Type 2 diabetes mellitus with neurological complications"
+372,119994,90_Encounter for palliative care,90_Not specified
+373,120630,90_Other forms of chronic ischemic heart disease,90_Not specified
+374,120950,93_Other specified counseling,93_Not specified
+375,121147,"76_Problems related to other legal circumstances,76_Other specified counseling","76_Post-traumatic stress disorder (PTSD),76_Not specified"
+376,121237,"69_Glaucoma suspect,69_Glaucoma suspect","69_Not specified,69_Not specified"
+377,121348,"65_Unilateral inguinal hernia, without obstruction or gangrene",65_Not specified
+378,121453,"88_Paroxysmal atrial fibrillation,88_Person consulting for explanation of examination or test findings","88_Malignant (primary) neoplasm, unspecified,88_Not specified"
+379,121891,76_Other abnormalities of gait and mobility,76_Not specified
+380,122044,92_Encounter for general adult medical examination,92_Essential (primary) hypertension
+381,122113,"65_Pain in limb, hand, foot, fingers and toes",65_Not specified
+382,122407,84_Other specified counseling,84_Not specified
+383,122432,"74_End stage renal disease,74_Hypertensive heart and chronic kidney disease without heart failure,74_Counseling, unspecified,74_End stage renal disease,74_Other long term (current) drug therapy,74_End stage renal disease,74_Other hypotension,74_Chronic respiratory failure,74_Systolic (congestive) heart failure","74_Not specified,74_Heart failure, unspecified,74_Not specified,74_Not specified,74_Not specified,74_Presence of cardiac pacemaker,74_Not specified,74_Not specified,74_End stage renal disease"
+384,122468,"97_Heart failure, unspecified",97_Encounter for palliative care
+385,122697,"92_Malignant melanoma of scalp and neck,92_Malignant melanoma of scalp and neck","92_Not specified,92_Encounter for antineoplastic chemotherapy and immunotherapy"
+386,122861,"77_Other specified counseling,77_Type 2 diabetes mellitus with unspecified complications","77_Not specified,77_Essential (primary) hypertension"
+387,123470,72_Presence of cardiac pacemaker,72_Not specified
+388,123952,"58_Cardiomyopathy, unspecified,58_Presence of other cardiac and vascular implants and grafts","58_Old myocardial infarction,58_Not specified"
+389,124340,60_Motor neuron disease,60_Not specified
+390,124345,"74_Chronic obstructive pulmonary disease, unspecified,74_Acute and chronic respiratory failure,74_Chronic obstructive pulmonary disease, unspecified,74_Acute and chronic respiratory failure,74_Chronic obstructive pulmonary disease, unspecified,74_Chronic obstructive pulmonary disease, unspecified,74_Acute and chronic respiratory failure,74_Acute and chronic respiratory failure","74_Not specified,74_Encounter for palliative care,74_Not specified,74_Encounter for palliative care,74_Not specified,74_Not specified,74_Encounter for palliative care,74_Encounter for palliative care"
+391,124950,70_Other specified counseling,70_Not specified
+392,124959,80_Gastro-esophageal reflux disease without esophagitis,80_Encounter for palliative care
+393,125430,89_Age-related physical debility,89_Not specified
+394,125917,77_Other specified counseling,77_Not specified
+395,126126,85_Other specified counseling,85_Not specified
+396,126400,"79_Counseling, unspecified",79_Not specified
+397,126572,"89_Infection of intervertebral disc (pyogenic),89_Other specified disorders of muscle,89_Retroperitoneal abscess,89_Finding of other specified substances, not normally found in blood,89_Fracture of lumbar vertebra,89_Finding of other specified substances, not normally found in blood,89_Finding of other specified substances, not normally found in blood,89_Encounter for other specified aftercare,89_Finding of other specified substances, not normally found in blood,89_Finding of other specified substances, not normally found in blood,89_Chronic kidney disease, stage 3 (moderate)","89_Not specified,89_Not specified,89_Encounter for palliative care,89_Encounter for palliative care,89_Encounter for palliative care,89_Not specified,89_Encounter for palliative care,89_Not specified,89_Encounter for palliative care,89_Encounter for palliative care,89_Not specified"
+398,126818,74_Other specified counseling,74_Not specified
+399,126919,78_Other specified counseling,78_Not specified
+400,127188,77_Personal history of malignant neoplasms of other organs and systems,77_Other specified disorders of the skin and subcutaneous tissue
+401,128094,"75_Alzheimer's disease with late onset,75_Alzheimer's disease with late onset","75_Dementia in other diseases classified elsewhere,75_Type 2 diabetes mellitus with unspecified complications"
+402,128427,"96_Other specified problems related to psychosocial circumstances,96_Dyspnea","96_Not specified,96_Not specified"
+403,128935,"95_Other specified counseling,95_Dysphagia,95_Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,95_Encounter for palliative care,95_Open-angle glaucoma,95_Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease","95_Not specified,95_Not specified,95_Dependence on other enabling machines and devices,95_Not specified,95_Not specified,95_Unspecified dementia"
+404,129054,60_Borderline personality disorder,60_Post-traumatic stress disorder (PTSD)
+405,129156,96_Other specified counseling,96_Not specified
+406,129320,65_Encounter for issue of repeat prescription,65_Not specified
+407,129977,"85_COVID-19,85_Pneumonitis due to inhalation of other solids and liquids","85_Vascular dementia,85_Not specified"
+408,130294,"79_Unspecified abnormalities of gait and mobility,79_Cerebellar stroke syndrome","79_Not specified,79_Not specified"
+409,130476,"81_Chronic kidney disease, stage 4 (severe),81_Atherosclerotic heart disease of native coronary artery","81_Essential (primary) hypertension,81_Essential (primary) hypertension"
+410,131065,"89_Alzheimer's disease, unspecified",89_Not specified
+411,131301,71_Other specified health status,71_Not specified
+412,131408,64_Migraine without aura,64_Not specified
+413,131489,93_Post-traumatic stress disorder (PTSD),93_Military activity
+414,131516,56_Encounter for other specified aftercare,56_Presence of prosthetic heart valve
+415,131548,86_Pain in joint,86_Pain in joint
+416,131776,96_Essential (primary) hypertension,96_Not specified
+417,131865,"96_Activity, unspecified",96_Not specified
+418,132010,"79_Stress fracture,79_Unspecified bacterial pneumonia,79_Other early skin lesions of yaws,79_Stress fracture,79_Acute respiratory failure,79_Stress fracture,79_Pneumonia, unspecified organism,79_Acute and chronic respiratory failure","79_Encounter for palliative care,79_Other osteoporosis without current pathological fracture,79_Not specified,79_Encounter for palliative care,79_Chronic obstructive pulmonary disease, unspecified,79_Encounter for palliative care,79_Not specified,79_Unspecified bacterial pneumonia"
+419,132018,"87_Weakness,87_Weakness,87_Other specified counseling,87_Other acute kidney failure,87_Other specified counseling,87_Other specified counseling,87_Other specified counseling","87_Not specified,87_Not specified,87_Not specified,87_Iron deficiency anemia secondary to blood loss (chronic),87_Not specified,87_Not specified,87_Not specified"
+420,132165,46_Post-traumatic stress disorder (PTSD),46_Not specified
+421,133523,"83_Localized swelling, mass and lump, lower limb",83_Not specified
+422,133583,76_Nail disorders in diseases classified elsewhere,76_Not specified
+423,133752,"76_Other specified counseling,76_Other specified counseling","76_Not specified,76_Not specified"
+424,133861,86_Atherosclerotic heart disease of native coronary artery,"86_Heart failure, unspecified"
+425,133943,82_Other specified counseling,82_Not specified
+426,134341,69_Type 2 diabetes mellitus without complications,69_Not specified
+427,134490,58_Other forms of chronic ischemic heart disease,58_Other hyperlipidemia
+428,134549,87_Long term (current) use of anticoagulants and antithrombotics/antiplatelets,87_Not specified
+429,134627,91_Pain in joint,91_Not specified
+430,135090,69_Problem related to unspecified psychosocial circumstances,69_Not specified
+431,135216,"58_Chronic pain syndrome,58_Long term (current) use of anticoagulants and antithrombotics/antiplatelets,58_Finding of other specified substances, not normally found in blood,58_Cardiac arrest, cause unspecified","58_Not specified,58_Not specified,58_Candidal sepsis,58_Not specified"
+432,135685,73_Atherosclerotic heart disease of native coronary artery,73_Systolic (congestive) heart failure
+433,135750,"72_Pain in joint,72_Encounter for other administrative examinations,72_Neoplasm related pain (acute) (chronic),72_Carcinoma in situ of colon,72_Neoplasm related pain (acute) (chronic),72_Encounter for other administrative examinations,72_Malignant neoplasm of duodenum,72_Malignant neoplasm of duodenum,72_Neoplasm related pain (acute) (chronic),72_Encounter for other administrative examinations","72_Not specified,72_Not specified,72_Malignant neoplasm of duodenum,72_Not specified,72_Not specified,72_Not specified,72_Not specified,72_Not specified,72_Do not resuscitate,72_Not specified"
+434,136230,56_Other specified counseling,56_Not specified
+435,136502,68_Open wound of lower leg,68_Not specified
+436,136533,52_Other specified counseling,52_Not specified
+437,136544,71_Carcinoma in situ of prostate,71_Lateral epicondylitis
+438,136590,"81_Heart failure, unspecified",81_Not specified
+439,136730,"63_Counseling, unspecified",63_Not specified
+440,137040,53_Narcolepsy and cataplexy,53_Cocaine dependence
+441,137322,69_Encounter for adjustment and management of cardiac device,69_Personal history of diseases of the circulatory system
+442,137433,69_Encounter for other administrative examinations,69_Not specified
+443,137771,"41_Unsatisfactory restoration of tooth,41_Unsatisfactory restoration of tooth","41_Not specified,41_Not specified"
+444,137973,"59_Neuromuscular dysfunction of bladder, unspecified",59_Not specified
+445,138195,42_Congenital pes planus,42_Not specified
+446,138266,77_Sleep apnea,77_Not specified
+447,138579,78_Other specified health status,78_Not specified
+448,139521,"88_Pneumonia, unspecified organism,88_Chronic obstructive pulmonary disease, unspecified,88_Encounter for screening for cardiovascular disorders,88_Pneumonia, unspecified organism,88_Chronic obstructive pulmonary disease, unspecified,88_Dysphagia,88_Emphysema, unspecified,88_Emphysema, unspecified,88_COVID-19,88_COVID-19,88_Emphysema, unspecified,88_Encounter for palliative care","88_Long term (current) use of antibiotics,88_Not specified,88_Not specified,88_Not specified,88_Not specified,88_Systolic (congestive) heart failure,88_Not specified,88_Not specified,88_Not specified,88_Not specified,88_Not specified,88_Not specified"
+449,139741,"65_Type 2 diabetes mellitus without complications,65_Type 2 diabetes mellitus without complications","65_Obesity, unspecified,65_Obesity, unspecified"
+450,139877,71_Other specified counseling,71_Not specified
+451,140280,81_Personal history of in-situ and benign neoplasms and neoplasms of uncertain behavior,81_Not specified
+452,140430,"73_Type 2 diabetes mellitus without complications,73_Type 2 diabetes mellitus without complications","73_Atypical atrial flutter,73_Other corneal scars and opacities"
+453,140556,"65_Cardiac arrest, cause unspecified",65_Malignant neoplasm of unspecified part of bronchus or lung
+454,141344,74_Encounter for immunization,74_Not specified
+455,141925,92_Age-related physical debility,92_Not specified
+456,142259,"86_Other abnormalities of gait and mobility,86_Other specified counseling","86_Not specified,86_Not specified"
+457,143290,82_Traumatic amputation at level between hip and knee,82_Not specified
+458,143470,71_Ischemic cardiomyopathy,"71_Secondary hypertension, unspecified"
+459,143492,"94_End stage renal disease,94_Osteoarthritis, unspecified site,94_End stage renal disease,94_Weakness,94_Pruritus, unspecified,94_End stage renal disease","94_Dependence on other enabling machines and devices,94_Pain in joint,94_Encounter for palliative care,94_Pruritus, unspecified,94_Atherosclerotic heart disease of native coronary artery,94_Dependence on other enabling machines and devices"
+460,143583,"63_Alcoholic cirrhosis of liver,63_Hepatic failure, unspecified,63_Alcoholic cirrhosis of liver","63_Not specified,63_Not specified,63_Not specified"
+461,144349,"61_Type 2 diabetes mellitus without complications,61_Sleep apnea","61_Pain in joint,61_Not specified"
+462,144351,93_Ocular pain,93_Other disorders of vitreous body
+463,145249,88_Traumatic subarachnoid hemorrhage,88_Not specified
+464,145995,82_Viral carditis,82_Not specified
+465,146246,"95_Counseling, unspecified",95_Not specified
+466,146366,83_Encounter for immunization,83_Not specified
+467,146435,73_Presence of other cardiac and vascular implants and grafts,73_Not specified
+468,147237,76_Carcinoma in situ of bronchus and lung,76_Not specified
+469,147971,"89_Carcinoma in situ of larynx,89_Carcinoma in situ of larynx","89_Osteoarthritis, unspecified site,89_Not specified"
+470,148893,61_Encounter for other specified aftercare,61_Presence of other cardiac and vascular implants and grafts
+471,149757,"89_Other symptoms and signs involving cognitive functions and awareness,89_Chronic obstructive pulmonary disease, unspecified,89_Other specified counseling,89_Malignant neoplasm of prostate,89_Other specified counseling,89_Problem related to unspecified psychosocial circumstances","89_Personal history of other specified conditions,89_Not specified,89_Not specified,89_Chronic obstructive pulmonary disease, unspecified,89_Not specified,89_Not specified"
+472,150157,72_Other general symptoms and signs,72_Not specified
+473,150783,71_Encounter for other specified aftercare,71_Unspecified atrial fibrillation and atrial flutter
+474,151359,88_Disturbances of salivary secretion,88_Not specified
+475,151867,101_Pressure ulcer of buttock,101_Not specified
+476,152040,71_Atherosclerotic heart disease of native coronary artery,71_Other hyperlipidemia
+477,152238,"71_Other specified counseling,71_Chronic obstructive pulmonary disease, unspecified","71_Not specified,71_Not specified"
+478,152768,"66_Person encountering health services to consult on behalf of another person,66_Other specified counseling","66_Not specified,66_Not specified"
+479,153684,72_Other specified counseling,72_Not specified
+480,153870,"85_Sensorineural hearing loss, bilateral",85_Encounter for fitting and adjustment of hearing aid
+481,154561,"84_Legal blindness, as defined in USA",84_Not specified
+482,154784,72_Sleep apnea,72_Not specified
+483,155331,"95_Sensorineural hearing loss, bilateral",95_Impacted cerumen
+484,155332,"91_Enterocolitis due to Clostridium difficile,91_Encounter for other specified aftercare,91_Enterocolitis due to Clostridium difficile,91_Encounter for other specified aftercare","91_Not specified,91_Not specified,91_Not specified,91_Encounter for palliative care"
+485,156508,57_Other specified counseling,57_Not specified
+486,156560,"76_Post-traumatic stress disorder (PTSD),76_Post-traumatic stress disorder (PTSD)","76_Not specified,76_Not specified"
+487,156832,"72_Otitis media, unspecified",72_Functional quadriplegia
+488,157826,"55_Chronic pain, not elsewhere classified","55_Carcinoma in situ of liver, gallbladder and bile ducts"
+489,157903,"90_Encounter for attention to dressings, sutures and drains",90_Not specified
+490,157947,86_Paroxysmal atrial fibrillation,86_Not specified
+491,158472,"79_Other specified counseling,79_Dietary counseling and surveillance,79_Chronic obstructive pulmonary disease with (acute) exacerbation","79_Not specified,79_Not specified,79_Encounter for screening for other specified diseases and disorders"
+492,158742,"77_End stage renal disease,77_Sepsis, unspecified organism,77_Sepsis, unspecified organism,77_Cardiogenic shock,77_Sepsis, unspecified organism,77_Sepsis, unspecified organism,77_Bacterial infection, unspecified,77_End stage renal disease,77_End stage renal disease,77_Person encountering health services to consult on behalf of another person","77_Not specified,77_Not specified,77_Not specified,77_End stage renal disease,77_End stage renal disease,77_Type 2 diabetes mellitus with kidney complications,77_Not specified,77_Systolic (congestive) heart failure,77_Systolic (congestive) heart failure,77_Not specified"
+493,158889,64_Other specified counseling,"64_Counseling, unspecified"
+494,159755,72_Encounter for palliative care,72_Not specified
+495,160193,68_Other specified counseling,68_Not specified
+496,161449,"98_Legal blindness, as defined in USA",98_Open-angle glaucoma
+497,161539,"89_Hyperkalemia,89_Chronic kidney disease, stage 4 (severe)","89_Not specified,89_Not specified"
+498,161807,"62_Osteoarthritis of knee, unspecified","62_Unspecified thoracic, thoracolumbar and lumbosacral intervertebral disc disorder"
+499,161933,56_Person consulting for explanation of examination or test findings,56_Not specified
+500,161971,69_Other specified counseling,69_Not specified
+501,162002,76_Other specified counseling,76_Not specified
+502,162217,85_Other specified counseling,85_Not specified
+503,162355,"66_Other specified counseling,66_Diastolic (congestive) heart failure","66_Not specified,66_Not specified"
+504,162507,54_Systolic (congestive) heart failure,54_Ventricular tachycardia
+505,162755,"58_Counseling, unspecified,58_Other abnormalities of gait and mobility","58_Not specified,58_Not specified"
+506,163120,"83_Encounter for fitting and adjustment of hearing aid,83_Encounter for fitting and adjustment of hearing aid","83_Sensorineural hearing loss, bilateral,83_Tinnitus"
+507,163598,51_Unspecified problems related to employment,51_Not specified
+508,163686,66_Other general symptoms and signs,66_Not specified
+509,163867,80_Tinea unguium,80_Type 2 diabetes mellitus with neurological complications
+510,163951,"83_Respiratory disorder, unspecified,83_Other specified disorders of muscle,83_Encounter for palliative care,83_Other specified counseling,83_Disorders of diaphragm,83_Combined systolic (congestive) and diastolic (congestive) heart failure,83_Encounter for palliative care,83_Respiratory disorder, unspecified,83_Other specified counseling","83_Not specified,83_Not specified,83_Other interstitial pulmonary diseases with fibrosis,83_Not specified,83_Not specified,83_Not specified,83_Other interstitial pulmonary diseases with fibrosis,83_Not specified,83_Not specified"
+511,164385,97_Long term (current) use of anticoagulants and antithrombotics/antiplatelets,97_Unspecified atrial fibrillation and atrial flutter
+512,165235,70_Essential (primary) hypertension,70_Not specified
+513,165284,69_Unspecified atrial fibrillation and atrial flutter,"69_Thoracic aortic aneurysm, without rupture"
+514,165904,"87_Presence of other cardiac and vascular implants and grafts,87_Cardiomyopathy, unspecified","87_Not specified,87_Encounter for adjustment and management of cardiac device"
+515,166211,"84_Other specified problems related to psychosocial circumstances,84_Other specified counseling,84_Other specified problems related to psychosocial circumstances","84_Problem related to housing and economic circumstances, unspecified,84_Not specified,84_Not specified"
+516,166535,75_Encounter for immunization,75_Not specified
+517,166671,81_Actinic keratosis,81_Other long term (current) drug therapy
+518,167102,81_Type 2 diabetes mellitus with other specified complications,"81_Lymphedema, not elsewhere classified"
+519,167842,"75_Other specified counseling,75_Chronic obstructive pulmonary disease, unspecified","75_Not specified,75_Not specified"
+520,167917,51_Presence of other cardiac and vascular implants and grafts,51_Not specified
+521,168008,"73_Counseling, unspecified,73_Malignant carcinoid tumors,73_Pneumonia due to other specified bacteria","73_Not specified,73_Encounter for other specified aftercare,73_Encounter for other specified aftercare"
+522,168496,99_Diastolic (congestive) heart failure,99_Essential (primary) hypertension
+523,168899,97_Encounter for other specified aftercare,97_Unspecified atrial fibrillation and atrial flutter
